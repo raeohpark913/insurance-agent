@@ -1,0 +1,1610 @@
+{
+  "crawled_at": "2026-03-28T01:38:04",
+  "filter": {
+    "sales_channel": "CM"
+  },
+  "products": [
+    {
+      "company": "한화생명",
+      "product_name": "한화생명 포켓골절보험 무배당",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "78.3 %",
+        "price_index_female": "72.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 65세 2. 납입주기 : 일시납 3. 가입한도 : 보험가입금액 5만원 4. 보험기간 : 1년만기 5. 보험가격지수 기준 : 만기환급형, 40세, 1년만기, 일시납, 주계약가입금액 5만원 6. 보험료 기준 : 40세, 1년만기, 일시납, 주계약가입금액 5만원 7. 확정이율 : 2.75% * 특약 : 부가가능 특약 無",
+        "contact_number": "1588-6363"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절진단자금",
+          "payment_condition": "피보험자가 보험기간 중 발생한 재해를 직접적인 원인으로 보험기간 중 '재해골절'로 진단이 확정되었을 경우",
+          "payment_amount": "5만원(1회당)",
+          "coverage_amount": "5만원",
+          "premium_male": 1176,
+          "premium_female": 851
+        }
+      ]
+    },
+    {
+      "company": "한화생명",
+      "product_name": "한화생명 간편가입 포켓골절보험 무배당",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "78.3 %",
+        "price_index_female": "72.5 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 65세 2. 납입주기 : 일시납 3. 가입한도 : 보험가입금액 5만원 4. 보험기간 : 1년만기 5. 보험가격지수 기준 : 만기환급형, 40세, 1년만기, 일시납, 주계약가입금액 5만원 6. 보험료 기준 : 40세, 1년만기, 일시납, 주계약가입금액 5만원 7. 확정이율 : 2.75% * 특약 : 부가가능 특약 無",
+        "contact_number": "1588-6363"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절진단자금",
+          "payment_condition": "피보험자가 보험기간 중 발생한 재해를 직접적인 원인으로 보험기간 중 '재해골절'로 진단이 확정되었을 경우",
+          "payment_amount": "5만원(1회당)",
+          "coverage_amount": "5만원",
+          "premium_male": 1822,
+          "premium_female": 1400
+        }
+      ]
+    },
+    {
+      "company": "ABL생명",
+      "product_name": "(무)우리WON인터넷네개딱!패키지건강보험(갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "102.2 %",
+        "price_index_female": "88.7 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 상품형태 : 10년갱신형, 20년갱신형 2. 가입나이 : 만19세 ~ 60세 3. 가입한도 : 500만원/ 1,000만원 4. 보험료 기준 : 20년갱신형, 전기납, 월납, 가입금액 1,000만원, 40세 5. 보험료가격지수 기준 : 20년갱신형, 전기납, 월납, 가입금액 1,000만원, 40세 6. 특약보험료 예시기준 - (무)우리WON인터넷뇌심보장패키지특약(갱신형) : 20년만기, 전기납, 월납, 최초계약 - (무)우리WON인터넷입원수술보장패키지특약(갱신형) : 20년만기, 전기납, 월납, 최초계약 - (무)우리WON인터넷암보장패키지특약(갱신형) : 20년만기, 전기납, 월납, 최초계약 - (무)우리WON인터넷장해보장패키지특약(갱신형) : 20년만기, 전기납, 월납, 최초계약 ※ 이 상품의 약관, 상품요약서 등 세부내용은 당사 홈페이지 상품공시실에서 확인하실 수 있습니다.",
+        "contact_number": "0215886500"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 재해로 사망하였을 때",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 240,
+          "premium_female": 60
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 우리WON인터넷뇌심보장패키지특약(갱신형)",
+          "payment_condition": "이 특약의 보험기간 중 피보험자가 “뇌출혈 및 뇌경색증” 또는 “급성심근경색증”으로 진단이 확정되었을 때 (다만, “뇌출혈 및 뇌경색증” 또는 “급성심근경색증” 중 최초로 발생한 질병 1회에 한하여 지급) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "경과기간 1년미만 500만원 경과기간 1년이상 1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2600,
+          "premium_female": 1200
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 우리WON인터넷입원수술보장패키지특약(갱신형)",
+          "payment_condition": "이 특약의 보험기간 중 피보험자가 질병 또는 재해의 직접적인 치료를 목적으로 1일 이상 계속하여 입원하였을 때(다만, 1회 입원당 120일 한도) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "1만원 (입원 1일당)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 9110,
+          "premium_female": 11220
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 우리WON인터넷암보장패키지특약(갱신형)",
+          "payment_condition": "이 특약의 보험기간 중 피보험자가 암보장개시일 이후에 “암”으로 진단이 확정되었을 때 (다만, 최초 1회에 한함) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "경과기간 1년미만 500만원 경과기간 1년이상 1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 6090,
+          "premium_female": 8650
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 우리WON인터넷장해보장패키지특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 발생한 교통재해를 직접적인 원인으로 사망하였을 때 ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2220,
+          "premium_female": 2140
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 마음모아 미니상해보험(2403)(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "85.2 %",
+        "price_index_female": "78.8 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-03-04",
+        "special_notes": "□ 필수기재사항 1. 가입 나이 : 20세 ~ 만 64세 2. 보험 기간 : 1년 3. 보험료 예시 기준 : 납입기간 일시납, 40세, 가입금액 1,000만원 □ 선택기재사항 1. 가입한도 - 보험가입금액 : 500만원 ~ 1,000만원 2. 보험가격지수 예시기준 - 납입기간 일시납, 40세, 가입금액 1,000만원",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절(치아파절제외) 진단보험금",
+          "payment_condition": "재해로 인하여 \"재해골절\"상태가 되었을 때(발생 1회당) ※ 동일한 재해로 인하여 2가지 이상의 골절(복합골절)시 1회만 지급",
+          "payment_amount": "10만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4800,
+          "premium_female": 4000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "깁스치료(부목제외) 보험금",
+          "payment_condition": "재해 또는 재해 이외의 원인으로 \"깁스(Cast)치료\"를 받았을 때(1회당)",
+          "payment_amount": "10만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4800,
+          "premium_female": 4000
+        }
+      ]
+    },
+    {
+      "company": "흥국생명",
+      "product_name": "(무)흥국생명 안심케어보험2603_2종 4형",
+      "price_info": {
+        "interest_rate_fixed": "3.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "85.0 %",
+        "price_index_female": "80.7 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 방카슈랑스 CM",
+        "sales_date": "2026-03-03",
+        "special_notes": "1. 가입나이 : 만15세 ~ 70세(단 성별, 보험기간, 납입기간별 차등적용) 2. 보험기간 : 100세만기, 110세 만기 3. 보험료 예시기준 : 2종(표준형) 4형(상해보장형) 가입금액 3,000만원, 40세, 100세만기, 20년납, 월납",
+        "contact_number": "1588-2288"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 재해로 인하여 사망하였을 때",
+          "payment_amount": "6억원",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 1249500,
+          "premium_female": 554100
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고도장해보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 장해분류표 중 동일한 재해 또는 재해 이외의 동일한 원인으로 여러 신체부위의 장해지급률을 더하여 80%이상인 장해상태가 되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "9억원(다만, 보험계약일부터 1년이 지난 계약해당일의 전일 이전에 재해 이외의 동일한 원인으로 80%이상인 장해상태가 되었을 경우에는 50% 지급)",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 1249500,
+          "premium_female": 554100
+        }
+      ]
+    },
+    {
+      "company": "흥국생명",
+      "product_name": "(무)흥국생명 안심케어보험2603(해약환급금일부지급형)_1종 4형",
+      "price_info": {
+        "interest_rate_fixed": "3.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "89.8 %",
+        "price_index_female": "87.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 방카슈랑스 CM",
+        "sales_date": "2026-03-03",
+        "special_notes": "1. 가입나이 : 만15세 ~ 70세(단 성별, 보험기간, 납입기간별 차등적용) 2. 보험기간 : 100세만기, 110세 만기 3. 보험료 예시기준 : 1종(50%환급형) 4형(상해보장형) 가입금액 3,000만원, 40세, 100세만기, 20년납, 월납",
+        "contact_number": "1588-2288"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 재해로 인하여 사망하였을 때",
+          "payment_amount": "6억원",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 1149900,
+          "premium_female": 518100
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고도장해보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 장해분류표 중 동일한 재해 또는 재해 이외의 동일한 원인으로 여러 신체부위의 장해지급률을 더하여 80%이상인 장해상태가 되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "9억원(다만, 보험계약일부터 1년이 지난 계약해당일의 전일 이전에 재해 이외의 동일한 원인으로 80%이상인 장해상태가 되었을 경우에는 50% 지급)",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 1149900,
+          "premium_female": 518100
+        }
+      ]
+    },
+    {
+      "company": "교보생명",
+      "product_name": "교보e일잘러케어보험(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "134.8 %",
+        "price_index_female": "153.2 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "■필수기재사항 1. 가입나이 : 20 ~ 60세 2. 보험기간 : 1년 / 3년 3. 보험료 예시기준 : 보험가입금액 1,000만원, 40세, 1년만기, 월납 ■선택기재사항 1. 납입기간 : 전기납 / 일시납 2. 납입방법 : 월납 / 연납 / 일시납",
+        "contact_number": "1588-1001"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 발생한 재해로 사망하였을 경우",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 213,
+          "premium_female": 70
+        },
+        {
+          "category": "특약",
+          "benefit_name": "교보e일잘러케어보험(무배당) 특정디지털질환수술특약Ⅱ",
+          "payment_condition": "시각질환수술보험금 ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "피보험자가 이 특약의 보험기간 중 “시각질환”으로 진단이 확정되고 그 “시각질환”의 직접적인 치료를 목적으로 “수술”을 받았을 경우(다만, 연간 1회에 한함)※ 이외 보장담보는 상품요약서 참조",
+          "coverage_amount": "1,000만원",
+          "premium_male": 120,
+          "premium_female": 90
+        },
+        {
+          "category": "특약",
+          "benefit_name": "교보e일잘러케어보험(무배당) 골절·깁스·재해수술특약",
+          "payment_condition": "깁스치료보험금 ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "피보험자가 이 특약의 보험기간 중 질병 또는 재해로 “깁스(Cast)치료”를 받았을 경우※ 이외 보장담보는 상품요약서 참조",
+          "coverage_amount": "1,000만원",
+          "premium_male": 440,
+          "premium_female": 280
+        }
+      ]
+    },
+    {
+      "company": "교보생명",
+      "product_name": "교보e대중교통안심보험 (무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "110.0 %",
+        "price_index_female": "99.8 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "■필수기재사항 1. 가입나이 : 20세 ~ 60세 2. 보험기간 : 1년 3. 납입기간 : 일시납 ■선택기재사항 1. 보험료 예시기준 : 보험가입금액 1,000만원, 40세, 1년만기, 일시납",
+        "contact_number": "1588-1001"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "대중교통 재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 \"대중교통 이용 중 교통재해\"로 사망하였을 경우",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 5250,
+          "premium_female": 3580
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해 장해급여금",
+          "payment_condition": "피보험자가 보험기간 중 \"교통재해\"를 원인으로 장해분류표에서 정한 각 장해지급률 중 3%이상 100%이하에 해당하는 장해상태가 되었을 경우",
+          "payment_amount": "보험가입금액 X 해당 장해지급률",
+          "coverage_amount": "1,000만원",
+          "premium_male": 5250,
+          "premium_female": 3580
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 재해로 인하여 재해골절[치아파절(깨짐, 부러짐) 제외]로 진단확정되었을 경우 [다만, 치아파절(깨짐, 부러짐) 제외, 연간 1회에 한하여 지급]",
+          "payment_amount": "10만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 5250,
+          "premium_female": 3580
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "깁스치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 질병 또는 재해로 “깁스(Cast)치료”를 받았을 경우",
+          "payment_amount": "깁스치료 1회당 10만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 5250,
+          "premium_female": 3580
+        }
+      ]
+    },
+    {
+      "company": "교보생명",
+      "product_name": "교보e교통안심보험 (무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "149.3 %",
+        "price_index_female": "152.6 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "■필수기재사항 1. 가입나이 : 20세 ~ 60세 2. 보험기간 : 1년 3. 납입기간 : 일시납 ■선택기재사항 1. 보험료 예시기준 : 보험가입금액 1,000만원, 40세, 1년만기, 일시납",
+        "contact_number": "1588-1001"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 \"교통재해\"로 사망하였을 경우",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2920,
+          "premium_female": 1110
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해장해급여금",
+          "payment_condition": "피보험자가 보험기간 중 \"교통재해\"를 원인으로 장해분류표에서 정한 각 장해지급률 중 3%이상 100%이하에 해당하는 장해상태가 되었을 경우",
+          "payment_amount": "보험가입금액 X 해당 장해지급률",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2920,
+          "premium_female": 1110
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "강력범죄 위로금",
+          "payment_condition": "피보험자가 보험기간 중 \"강력범죄\"를 직접적인 원인으로 \"신체피해로 전치 1개월을 초과하는 상해\"가 발생하였을 경우 (사고 1회당, 동일사고에 의한 경우 1회에 한함)",
+          "payment_amount": "100만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2920,
+          "premium_female": 1110
+        }
+      ]
+    },
+    {
+      "company": "동양생명",
+      "product_name": "(무)우리WON하는미니상해보험",
+      "price_info": {
+        "interest_rate_fixed": "2.90 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "77.4 %",
+        "price_index_female": "71.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이: 20세~70세 2. 보험기간: 1년만기 3. 상품형태: - 4. 보험료 예시기준: 보험가입금액 10만원, 40세, 1년만기, 일시납 5. 보험가격지수 예시 기준: 보험가입금액 10만원, 40세, 1년만기, 일시납",
+        "contact_number": "1577-1004"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절치료비",
+          "payment_condition": "피보험자가 보험기간 중 발생한 재해를 직접적인 원인으로 재해골절(치아파절 제외) 상태가 되었을 때(발생1회당)",
+          "payment_amount": "10만원",
+          "coverage_amount": "10만원",
+          "premium_male": 3660,
+          "premium_female": 3450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "깁스치료비",
+          "payment_condition": "피보험자가 보험기간 중 치료를 직접적인 목적으로 깁스(Cast) 치료를 받았을 때(깁스치료 1회당)",
+          "payment_amount": "10만원",
+          "coverage_amount": "10만원",
+          "premium_male": 3660,
+          "premium_female": 3450
+        }
+      ]
+    },
+    {
+      "company": "동양생명",
+      "product_name": "(무)우리WON하는mini교통재해보험",
+      "price_info": {
+        "interest_rate_fixed": "2.90 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "77.1 %",
+        "price_index_female": "71.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이: 20세~70세 2. 보험기간: 1년만기 3. 상품형태: - 4. 보험료 예시기준: 보험가입금액 1,000만원, 40세, 1년만기, 일시납 5. 보험가격지수 예시 기준: 보험가입금액 1,000만원, 40세, 1년만기, 일시납",
+        "contact_number": "1577-1004"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해응급실내원진료비(응급)",
+          "payment_condition": "피보험자가 보험기간 중 발생한 \"교통재해\"를 직접적인 원인으로 \"응급환자\"로 응급실에 내원하여 진료를 받았을 때 (내원 1회당)",
+          "payment_amount": "10만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2980,
+          "premium_female": 1340
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해골절(치아파절포함)치료비",
+          "payment_condition": "피보험자가 보험기간 중 발생한 \"교통재해\"를 직접적인 원인으로 \"재해골절(치아파절포함)\"로 진단확정 되었을 때 (발생 1회당)",
+          "payment_amount": "10만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2980,
+          "premium_female": 1340
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "교통사고중상치료비",
+          "payment_condition": "피보험자가 보험기간 중 발생한 \"교통사고\"를 직접적인 원인으로 \"교통사고중상\" 상태가 되었을 때 (발생 1회당)",
+          "payment_amount": "100만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 2980,
+          "premium_female": 1340
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 고마워요 소방관보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "109.7 %",
+        "price_index_female": "143.5 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-09-11",
+        "special_notes": "1. 가입연령 : 20세 ~ 60세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 500 만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 500 만원, 40세 5. 보험료 예시 기준 : 가입금액 500 만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "보험 기간 중 별표 3 (재해분류표)에서 정하는 재해 (이하 “재해”라 합니다)를 직접적인 원인 으로 하여 사망하였을 때",
+          "payment_amount": "500 만원",
+          "coverage_amount": "500 만원",
+          "premium_male": 5150,
+          "premium_female": 3400
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절진단보험금",
+          "payment_condition": "보험기간 중 재해로 인하여 골절 (치아파절 제 외) 로 진단 확정 되었을 때 (다만, 동일한 재해로 2 가지 이상의 골절(복 합골절)시 1 회만 지급함)",
+          "payment_amount": "재해골절 발생 1 회당 5 만원",
+          "coverage_amount": "500 만원",
+          "premium_male": 5150,
+          "premium_female": 3400
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "중대한 화상 및 부식 진단 보험금",
+          "payment_condition": "피보험자가 보험기간 중 중대한 화상 및 부식 (화학약품 등에 의한 피부 손상)으로 진단이 확정되었을 때 (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "250 만원",
+          "coverage_amount": "500 만원",
+          "premium_male": 5150,
+          "premium_female": 3400
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해장해보험금",
+          "payment_condition": "피보험자가 보험기간 중 재해로 인하여 별표 6 (장해분류표) 중 3 % 이상 100 % 이하에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "250만원 × 장해지급률",
+          "coverage_amount": "500 만원",
+          "premium_male": 5150,
+          "premium_female": 3400
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해수술보험금",
+          "payment_condition": "피보험자가 보험기간 중 재해의 직접적인 치료 를 목적으로 수술을 받았을 때 (수술 1회당)",
+          "payment_amount": "5 만원",
+          "coverage_amount": "500 만원",
+          "premium_male": 5150,
+          "premium_female": 3400
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 메트라이프 mini 재해보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "89.5 %",
+        "price_index_female": "104.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 70세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 1,000만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 1,000만원, 40세 5. 보험료 예시 기준 : 가입금액 1,000만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "보험 기간 중 별표 3 (재해분류표)에서 정하는 재해 (이하 “재해”라 합니다)를 직접적인 원인으로 하여 사망하였을 때",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 3000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절진단보험금",
+          "payment_condition": "보험기간 중 재해로 인하여 골절 (치아파절 제외) 로 진단 확정 되었을 때 (다만, 동일한 재해로 2 가지 이상의 골절(복합골절)시 1 회만 지급함)",
+          "payment_amount": "재해골절 발생 1 회당 10 만원 (보험가입금액의 1 %)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 3000
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 메트라이프 교통재해사망보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "140.6 %",
+        "price_index_female": "354.6 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 70세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 1,000만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 1,000만원, 40세 5. 보험료 예시 기준 : 가입금액 1,000만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해사망보험금",
+          "payment_condition": "보험 기간 중 별표 3 (교통재해사고)에서 정하는 교통재해 (이하 “교통재해”라 합니다)를 직접적인 원인으로 하여 사망하였을 때",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 1100,
+          "premium_female": 600
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 뼈 미니 재해골절보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "102.8 %",
+        "price_index_female": "109.8 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 70세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 1,000만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 1,000만원, 40세 5. 보험료 예시 기준 : 가입금액 1,000만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절진단보험금",
+          "payment_condition": "보험기간 중 재해로 인하여 골절 (치아파절 제외) 로 진단 확정 되었을 때 (다만, 동일한 재해로 2 가지 이상의 골절(복합골절)시 1 회만 지급함)",
+          "payment_amount": "재해골절 발생 1 회당 10 만원 (보험가입금액의 1 %)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 3700,
+          "premium_female": 2600
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 뼈대있는깁스보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "136.3 %",
+        "price_index_female": "126.1 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 70세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 1만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 1만원, 40세 5. 보험료 예시 기준 : 가입금액 1만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "깁스치료비",
+          "payment_condition": "피보험자가 보험기간 중 재해 또는 질병으로 깁스치료를 받았을 때",
+          "payment_amount": "1만원 (발생 1회당)",
+          "coverage_amount": "1만원",
+          "premium_male": 770,
+          "premium_female": 770
+        }
+      ]
+    },
+    {
+      "company": "KB라이프생명",
+      "product_name": "KB 지켜주는 교통안심보험 무배당",
+      "price_info": {
+        "interest_rate_fixed": "2.70 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "115.9 %",
+        "price_index_female": "106.9 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-09-01",
+        "special_notes": "1. 가입나이 : 만19세 ~ 64세 2. 보험기간 : 1년만기, 3년만기 3. 납입기간 : 일시납 5. 보험료 기준 : 40세, 3년만기, 일시납, 가입금액 1,000만원 6. 보험가격지수 기준 : 40세, 3년만기, 일시납, 가입금액 1,000만원",
+        "contact_number": "1588-3374"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 “교통사고”로 인하여 사망하였 을 때",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 6110,
+          "premium_female": 2460
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "교통재해장해급여금",
+          "payment_condition": "피보험자가 보험기간 중 “교통사고”로 인하여 장해분류 표(약관 별표2 참조)에서 정한 각 장해지급률 중 3%이 상 100%이하에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "500만원× 해당 장해지급률",
+          "coverage_amount": "1,000만원",
+          "premium_male": 6110,
+          "premium_female": 2460
+        }
+      ]
+    },
+    {
+      "company": "KB라이프생명",
+      "product_name": "KB 지켜주는 대중교통안심보험 무배당",
+      "price_info": {
+        "interest_rate_fixed": "2.70 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "118.0 %",
+        "price_index_female": "118.2 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-09-01",
+        "special_notes": "1. 가입나이 : 만19세 ~ 64세 2. 보험기간 : 1년만기, 3년만기 3. 납입기간 : 일시납 5. 보험료 기준 : 40세, 3년만기, 일시납, 가입금액 5,000만원 6. 보험가격지수 기준 : 40세, 3년만기, 일시납, 가입금액 5,000만원",
+        "contact_number": "1588-3374"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "대중교통재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 “대중교통 이용 중 교통사고”로 인하여 사망하였을 때",
+          "payment_amount": "5,000만원",
+          "coverage_amount": "5,000만원",
+          "premium_male": 1200,
+          "premium_female": 500
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "대중교통재해장해급여금",
+          "payment_condition": "피보험자가 보험기간 중 “대중교통 이용 중 교통사고”로 인하여 장해분류표(약관 별표2 참조)에서 정한 각 장해 지급률 중 3%이상 100%이하에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "1,500만원× 해당 장해지급률",
+          "coverage_amount": "5,000만원",
+          "premium_male": 1200,
+          "premium_female": 500
+        }
+      ]
+    },
+    {
+      "company": "신한라이프생명",
+      "product_name": "신한SOL대중교통보험 mini(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.10 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "92.0 %",
+        "price_index_female": "84.8 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 0세(태아불가) ~ 75세 2. 보험료 납입기간 및 납입주기 : 일시납 3. 가입한도 : 500만원~1,000만원(디지털채널, 대면채널) 100만원~500만원(제휴채널) 4. 보험기간 : 1/2/3년만기 5. 보험료 및 보험가격지수 기준 : 40세, 3년만기, 일시납, 가입금액 500만원",
+        "contact_number": "1588-5580"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "대중교통재해장해급여금",
+          "payment_condition": "보험기간 중 피보험자가 \"대중교통 이용 중 교통사고\"를 직접적인 원인으로 보험기간 중 장해분류표에서 정한 장해지급률 중 3%이상 100%이하에 해당하는 장해상태가 되었을 경우",
+          "payment_amount": "보험가입금액의 1,000% x 해당 장해지급률",
+          "coverage_amount": "500만원",
+          "premium_male": 950,
+          "premium_female": 610
+        }
+      ]
+    },
+    {
+      "company": "신한라이프생명",
+      "product_name": "신한SOL상처솔솔보험 mini(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.10 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "95.9 %",
+        "price_index_female": "94.6 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "0. 보험종목 : 자녀보장형/일반보장형 1. 가입나이 : (자녀보장형) 0세~15세 (일반보장형) 만19세 ~ 60세 2. 보험기간: 1,3년만기 3. 보험료 및 보험가격지수 산출기준 : 가입금액 1,000만원 40세 3년만기 월납",
+        "contact_number": "1588-5580"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "급여 창상봉합술Ⅰ (안면 또는 경부) 치료급여금",
+          "payment_condition": "보험기간 중 피보험자가 재해로 인한 그 직접적인 치료를 목적으로 보험기간 중 “급여 창상봉합술 분류 표”에서 정한 “급여 창상봉합술(안면 또는 경부)(1 종)”을 받았을 때 (다만, 1일 1회한, 연간 3회 한도)",
+          "payment_amount": "보험가입금액의 0.5%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 570,
+          "premium_female": 240
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "급여 창상봉합술Ⅰ (안면과 경부 이외) 치료급여금",
+          "payment_condition": "보험기간 중 피보험자가 재해로 인한 그 직접적인 치료를 목적으로 보험기간 중 “급여 창상봉합술 분류 표”에서 정한 “급여 창상봉합술(안면과 경부 이외)(1 종)”을 받았을 때 (다만, 1일 1회한, 연간 3회 한도)",
+          "payment_amount": "보험가입금액의 0.5%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 570,
+          "premium_female": 240
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "급여 창상봉합술Ⅱ (안면 또는 경부) 치료급여금",
+          "payment_condition": "보험기간 중 피보험자가 재해로 인한 그 직접적인 치료를 목적으로 보험기간 중 “급여 창상봉합술 분류 표”에서 정한 “급여 창상봉합술(안면 또는 경부)(2 종)”을 받았을 때 (다만, 1일 1회한, 연간 3회 한도)",
+          "payment_amount": "보험가입금액의 3%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 570,
+          "premium_female": 240
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "급여 창상봉합술Ⅱ (안면과 경부 이외) 치료급여금",
+          "payment_condition": "보험기간 중 피보험자가 재해로 인한 그 직접적인 치료를 목적으로 보험기간 중 “급여 창상봉합술 분류 표”에서 정한 “급여 창상봉합술(안면과 경부 이외)(2 종)”을 받았을 때 (다만, 1일 1회한, 연간 3회 한도)",
+          "payment_amount": "보험가입금액의 3%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 570,
+          "premium_female": 240
+        }
+      ]
+    },
+    {
+      "company": "라이나생명",
+      "product_name": "(무)다이렉트골라담는건강보험(갱신형)_2형",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "149.1 %",
+        "price_index_female": "147.8 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 최초계약 기준 20세~60세 2. 보험기간 : 10년만기, 20년만기 ※최종 갱신계약의 보험기간 만료일은 피보험자의 100세 계약해당일 3. 납입기간 : 전기납 4. 보험료 및 보험가격지수 작성기준 : 최초계약, 40세, 20년만기, 전기납, 월납, 가입금액 3,000만원",
+        "contact_number": "15880058"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 재해로 인하여 사망하였을 경우",
+          "payment_amount": "3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 1050,
+          "premium_female": 300
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트뇌출혈진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 뇌출혈로 진단확정 되었을 때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "3,000만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 3420,
+          "premium_female": 2820
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트급성심근경색증진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 급성심근경색증으로 진단확정 되었을 때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "3,000만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 4920,
+          "premium_female": 1920
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트뇌혈관질환진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 뇌혈관질환으로 진단확정 되었을 때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "1,500만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "1,500만원",
+          "premium_male": 10650,
+          "premium_female": 10200
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트허혈성심장질환진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 허혈성심장질환으로 진단확정 되었을때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "1,500만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "1,500만원",
+          "premium_male": 12750,
+          "premium_female": 7200
+        }
+      ]
+    },
+    {
+      "company": "라이나생명",
+      "product_name": "(무)다이렉트골라담는건강보험(갱신형)_1형",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "124.9 %",
+        "price_index_female": "135.1 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 최초계약 기준 20세~60세 2. 보험기간 : 10년만기, 20년만기 ※최종 갱신계약의 보험기간 만료일은 피보험자의 100세 계약해당일 3. 납입기간 : 전기납 4. 보험료 및 보험가격지수 작성기준 : 최초계약, 40세, 20년만기, 전기납, 월납, 가입금액 3,000만원",
+        "contact_number": "15880058"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해장해급여금",
+          "payment_condition": "피보험자가 보험기간 중 동일한 재해로 장해분류표에서 정한 장해지급률 중 3% 이상 100% 이하에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "3,000만원 * 장해지급률",
+          "coverage_amount": "3,000만원",
+          "premium_male": 1290,
+          "premium_female": 960
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트뇌출혈진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 뇌출혈로 진단확정 되었을 때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "3,000만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 3420,
+          "premium_female": 2820
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트급성심근경색증진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 급성심근경색증으로 진단확정 되었을 때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "3,000만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 4920,
+          "premium_female": 1920
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트뇌혈관질환진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 뇌혈관질환으로 진단확정 되었을 때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "1,500만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "1,500만원",
+          "premium_male": 10650,
+          "premium_female": 10200
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당다이렉트허혈성심장질환진단특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 허혈성심장질환으로 진단확정 되었을때 (다만, 최초 1회에 한하여 지급함)",
+          "payment_amount": "1,500만원 (다만, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "1,500만원",
+          "premium_male": 12750,
+          "premium_female": 7200
+        }
+      ]
+    },
+    {
+      "company": "NH농협생명",
+      "product_name": "ESG쏘옥NHe대중교통보험(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "224.4 %",
+        "price_index_female": "223.6 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "\"1. 가입나이 : 만19세 ~ 60세 2. 가입한도 : 1,000만원 단일 3. 보험기간 : 1년 4. 판매채널 : CM 5. 위 보험료 및 보험가격지수 예시는 주계약 , 40세, 1년만기, 연납, 주계약 가입금액 1,000만원기준입니다.\"",
+        "contact_number": "1544-4000"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "대중교통재해 사망보험금",
+          "payment_condition": "피보험자가 보험기간 중‘대중교통 이용 중 교통사고’가 발생하고, 보험기간 중 그 ‘대중교통 이용 중 교통사고’를 직접적인 원인으로 사망한 경우",
+          "payment_amount": "2,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 1170,
+          "premium_female": 240
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "기타교통재해 사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 ‘대중교통 이용 중 교통사고’를 제외한 교통재해가 발생하고, 보험기간 중 그 ‘대중교통 이용 중 교통사고’를 제외한 교통재해를 직접적인 원인으로 사망한 경우",
+          "payment_amount": "500만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 1170,
+          "premium_female": 240
+        }
+      ]
+    },
+    {
+      "company": "NH농협생명",
+      "product_name": "효도쏘옥NHe부모님안심보험(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "84.3 %",
+        "price_index_female": "78.2 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-06-09",
+        "special_notes": "1. 가입나이 : 만19세 이상 2. 가입한도 : 1,000만원 3. 보험기간 : 1년 4. 판매채널 : CM 5. 위 보험료 및 보험가격지수 예시는 주계약 가입금액 1,000만원, 가입연령 40세 기준, 1년 만기, 1년납, 연납 기준입니다.",
+        "contact_number": "1544-4000"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절 치료급여금",
+          "payment_condition": "피보험자가 보험기간 중 재해를 직접적인 원인으로 재해골절(치아파절 제외)이 발생하였을 때",
+          "payment_amount": "20만원 (재해골절발생 1회당)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 9500,
+          "premium_female": 9000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "깁스치료급여금",
+          "payment_condition": "피보험자가 보험기간 중 ‘깁스(Cast)’ 치료를 받았을 때",
+          "payment_amount": "5만원 (깁스치료 1회당)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 9500,
+          "premium_female": 9000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "아나필락시스 쇼크진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 ‘아나필락시스쇼크’로 진단확정 되었을 때",
+          "payment_amount": "200만원 (최초 1회한)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 9500,
+          "premium_female": 9000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "강력범죄·폭력사고 위로금",
+          "payment_condition": "피보험자가 보험기간 중 \"\"강력범죄·폭력사고\"\"를 직접적인 원인으로 피해자가 되어 \"\"전치 1개월(4주)을 초과하는 상해\"\"가 발생하였을 때 (동일사고에 의한 경우 1회에 한함)",
+          "payment_amount": "300만원 (사고 1회당)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 9500,
+          "premium_female": 9000
+        }
+      ]
+    },
+    {
+      "company": "NH농협생명",
+      "product_name": "생활쏘옥NHe미니보장보험(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "87.0 %",
+        "price_index_female": "82.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "방카슈랑스 CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "\"1. 가입나이 : 만19세 ~ 70세 2. 가입한도 : 1,000만원 단일 3. 보험기간 : 1년 4. 판매채널 : CM, 방카슈랑스 5. 위 보험료 및 보험가격지수 예시는 2종(표준형) , 40세, 1년만기, 1년납, 연납, 가입금액 1,000만원기준입니다. 6. 방카슈랑스 채널에서는 2종(표준형)만 판매합니다.\"",
+        "contact_number": "1544-4000"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "뺑소니, 무보험차 교통사고 사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 ‘뺑소니, 무보험 자동차에 의한 교통사고’가 발생하고, 보험기간 중 그 ‘뺑소니, 무보험 자동차에 의한 교통사고’를 직접적인 원인으로 사망한 경우",
+          "payment_amount": "2,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "강력범죄·폭력 사고위로금",
+          "payment_condition": "피보험자가 보험기간 중 \"강력범죄·폭력사고\"를 직접적인 원인으로 피해자가 되어 \"전치 1개월(4주)을 초과하는 상해\"가 발생하였을 때(동일사고에 의한 경우 1회에 한함)",
+          "payment_amount": "\"사고 1회당 300만원\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정감염병 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 ‘특정감염병 환자’로 진단 확정되었을 때",
+          "payment_amount": "\"20만원 (진단 1회당)\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "화상진단보험금",
+          "payment_condition": "\"피보험자가 보험기간 중 심재성 2도 이상 화상으로 진단이 확정되었을 때 (보험연도 기준 연 1회한)\"",
+          "payment_amount": "10만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "응급실내원진료비 (응급환자)",
+          "payment_condition": "피보험자가 보험기간 중 ‘응급실 내원 진료비 대상자(응급환자)’에 해당 되었을 때",
+          "payment_amount": "\"1만원 (응급실 내원 1회당)\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "아킬레스 힘줄손상 수술자금",
+          "payment_condition": "피보험자가 보험기간 중 재해로 인하여 아킬레스힘줄손상으로 진단이 확정되고 보험기간 중 그 치료를 직접적인 목적으로 수술을 받았을 때",
+          "payment_amount": "\"30만원 (수술 1회당)\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "외모특정상해 수술자금",
+          "payment_condition": "피보험자가 보험기간 중 발생한 재해를 직접적인 원인으로 ‘외모특정상해(치아파절 제외)’로 진단이 확정되고 보험기간 중 그 치료를 직접적인 목적으로 수술을 받았을 때",
+          "payment_amount": "\"10만원 (수술 1회당)\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해골절 치료급여금",
+          "payment_condition": "피보험자가 보험기간 중 재해를 직접적인 원인으로 재해골절(치아파절 제외)이 발생한 때",
+          "payment_amount": "\"3.5만원 (재해골절발생 1회당)\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "식중독입원비",
+          "payment_condition": "피보험자가 보험기간 중 ‘식중독’으로 진단확정되고, 보험기간 중 그 치료를 직접적인 목적으로 1일이상 계속하여 입원하였을 때(입원1회당 120일 한도)",
+          "payment_amount": "\"입원일수 1일당 1만원\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "환경성질환 입원비",
+          "payment_condition": "피보험자가 보험기간 중 ‘환경성질환’으로 진단이 확정되고, 보험기간 중 그 치료를 직접목적으로 4일이상 계속하여 입원하였을 때(입원 1회당 120일 한도)",
+          "payment_amount": "\"1만원 (3일 초과 입원 1일당)\"",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4900,
+          "premium_female": 4600
+        }
+      ]
+    },
+    {
+      "company": "NH농협생명",
+      "product_name": "온라인농업인NH안전보험(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "75.3 %",
+        "price_index_female": "69.6 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 이하)",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만19세 ~ 87세 2. 가입한도 : 1,000만원 단일 3. 보험기간 : 1년만기 4. 판매채널 : CM 5. 위 보험료 및 보험가격지수 예시는 주계약 기본형 일반형, 40세, 1년만기, 연납, 주계약 가입금액 1,000만원기준입니다. 6. 온라인농업인NH안전보험은 일반1형 및 산재형만 가입가능하며, 특약은 부가할 수 없습니다.",
+        "contact_number": "1544-4000"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "유족급여금",
+          "payment_condition": "피보험자가 보험기간 중에 농업작업안전재해 또는 농업작업안전질병으로 사망하였을 때",
+          "payment_amount": "6,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "장례비",
+          "payment_condition": "피보험자가 보험기간 중에 농업작업안전재해 또는 농업작업안전질병으로 사망하였을 때",
+          "payment_amount": "100만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고도장해급여금",
+          "payment_condition": "피보험자가 보험기간 중에 동일한 농업작업안전재해 또는 동일한 농업작업안전질병으로 인하여 장해분류표 상의 여러 신체부위의 장해지급률을 더하여 80% 이상인 장해상태가 되었을 때(최초 1회 한)",
+          "payment_amount": "5,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해장해급여금",
+          "payment_condition": "피보험자가 보험기간 중에 농업작업안전재해로 인하여 장해분류표에서 정한 장해지급률 중 3%이상 80% 미만 장해상태가 되었을 때",
+          "payment_amount": "5,000만원 X 장해율",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "간병급여금",
+          "payment_condition": "피보험자가 보험기간 중에 동일한 농업작업안전재해로 인하여 장해분류표 상의 여러 신체부위의 장해지급률을 더하여 50% 이상인 장해상태가 되었을 때 또는 동일한 농업작업안전질병으로 인하여 장해분류표 상의 여러 신체부위의 장해지급률을 더하여 80% 이상인 장해상태가 되었을 때(각각 최초 1회 한)",
+          "payment_amount": "500만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "휴업(입원)급여금",
+          "payment_condition": "피보험자가 보험기간 중에 농업작업안전재해 또는 농업작업안전질병으로 인하여 그 치료를 직접목적으로 4일 이상 계속하여 입원하였을 때(1회 입원당 120일 한도)",
+          "payment_amount": "2만원(3일 초과 입원 1일당)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재활급여금(고도장해)",
+          "payment_condition": "피보험자가 보험기간 중에 동일한 농업작업안전재해 또는 동일한 농업작업안전질병으로 인하여 장해분류표 상의 여러 신체부위의 장해지급률을 더하여 80% 이상인 장해상태가 되었을 때(최초 1회 한)",
+          "payment_amount": "500만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재활급여금(재해장해)",
+          "payment_condition": "피보험자가 보험기간 중에 농업작업안전재해로 인하여 장해분류표에서 정한 장해지급률 중 3%이상 80% 미만 장해상태가 되었을 때",
+          "payment_amount": "500만원 X 장해율",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정감염병진단급여금",
+          "payment_condition": "피보험자가 보험기간 중에 특정감염병으로 진단 확정되었을 때",
+          "payment_amount": "30만원(진단1회당)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정질병수술급여금",
+          "payment_condition": "피보험자가 보험기간 중에 특정질병으로 수술을 받았을 때",
+          "payment_amount": "30만원(수술1회당)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "상해·질병치료급여금",
+          "payment_condition": "피보험자가 보험기간 중에 농업작업안전재해 또는 농업작업안전질병으로 치료를 받았을 때",
+          "payment_amount": "- 입원 5,000만원 한도 - 통원 20만원, 처방 10만원 한도 - 도수치료 350만원, 주사료 250만원, MRI 300만원 한도",
+          "coverage_amount": "1,000만원",
+          "premium_male": 97300,
+          "premium_female": 97300
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 맞춤건강종합보험(갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "119.4 %",
+        "price_index_female": "128.1 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 60세 2. 보험기간 : 10년만기 갱신형(최대100세) 3. 보험료 예시 기준 : 주계약, 보험가입금액 10,000만원, 40세, 10년만기, 10년납, 월납 4. 보험료 납입기간 : 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 10,000만원 ~ 최고 50,000만원 7. 보험가격지수 : 보험가입금액 10,000만원, 40세, 10년만기, 10년납, 월납",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 ‘재해분류표’에서 정한 재해로 사망하였을 경우",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "1억원",
+          "premium_male": 2130,
+          "premium_female": 650
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 질병및재해 수술(1~5종)특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 보장개시일 이후에 ‘1~5종 수술 분류표’에서 정하는 「수술」을 받을 경우 (수술 1회당 지급)",
+          "payment_amount": "수술 1회당 1종 특약보험가입금액의 2% 2종 특약보험가입금액의 6% 3종 특약보험가입금액의 20% 4종 특약보험가입금액의 40% 5종 특약보험가입금액의 100%",
+          "coverage_amount": "300만원",
+          "premium_male": 2730,
+          "premium_female": 3510
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 암진단특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 「암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[최초계약 가입 후 1년 이후] : 특약보험가입금액의 100% [최초계약 가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 6810,
+          "premium_female": 12780
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 항암방사선치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일이후에 「암」으로 진단 확정 되고 그 「암」의 ‘직접적인 치료’를 목적으로 ‘항암방사선치료’를 받았을 경우 (다만, 최초 1회의 치료에 한함) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "특약보험가입금액의 100% ※ 이외 보장담보는 상품요약서 참조",
+          "coverage_amount": "1000만원",
+          "premium_male": 370,
+          "premium_female": 1040
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 급성심근경색증진단특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 보장개시일 이후에 「급성심근경색증」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[최초계약 가입 후 1년 이후] : 특약보험가입금액의 100% [최초계약 가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 1809,
+          "premium_female": 216
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 간편 맞춤건강종합보험(갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "115.7 %",
+        "price_index_female": "118.2 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "보험기간(1년 초과)",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 60세 2. 보험기간 : 10년만기 갱신형(최대100세) 3. 보험료 예시 기준 : 주계약, 보험가입금액 10,000만원, 40세, 10년만기, 10년납, 월납 4. 보험료 납입기간 : 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 10,000만원 ~ 최고 50,000만원 7. 보험가격지수 : 보험가입금액 10,000만원, 40세, 10년만기, 10년납, 월납",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 ‘재해분류표’에서 정한 재해로 사망하였을 경우",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "1억원",
+          "premium_male": 3930,
+          "premium_female": 1020
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 질병및재해 수술(1~5종)특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 보장개시일 이후에 ‘1~5종 수술 분류표’에서 정하는 「수술」을 받을 경우 (수술 1회당 지급)",
+          "payment_amount": "수술 1회당 1종 특약보험가입금액의 2% 2종 특약보험가입금액의 6% 3종 특약보험가입금액의 20% 4종 특약보험가입금액의 40% 5종 특약보험가입금액의 100%",
+          "coverage_amount": "300만원",
+          "premium_male": 4680,
+          "premium_female": 5580
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 암진단특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 「암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[최초계약 가입 후 1년 이후] : 특약보험가입금액의 100% [최초계약 가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 9540,
+          "premium_female": 17280
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 항암방사선치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일이후에 「암」으로 진단 확정 되고 그 「암」의 ‘직접적인 치료’를 목적으로 ‘항암방사선치료’를 받았을 경우 (다만, 최초 1회의 치료에 한함) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "특약보험가입금액의 100% ※ 이외 보장담보는 상품요약서 참조",
+          "coverage_amount": "1000만원",
+          "premium_male": 520,
+          "premium_female": 1410
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 급성심근경색증진단특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 보장개시일 이후에 「급성심근경색증」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[최초계약 가입 후 1년 이후] : 특약보험가입금액의 100% [최초계약 가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 2607,
+          "premium_female": 420
+        }
+      ]
+    }
+  ]
+}

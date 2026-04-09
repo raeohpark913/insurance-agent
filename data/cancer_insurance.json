@@ -1,0 +1,2743 @@
+{
+  "crawled_at": "2026-03-28T01:30:25",
+  "filter": {
+    "sales_channel": "CM"
+  },
+  "products": [
+    {
+      "company": "한화생명",
+      "product_name": "한화생명 e암보험(비갱신형) 무배당 (표준체형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "94.6 %",
+        "price_index_female": "97.1 %",
+        "coverage_index_cancer_diagnosis": "94.8 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만19~60세(납입기간에 따라 상이) 2. 보험기간 : 20년만기, 60, 70, 80, 100세만기 3. 납입기간 : 5, 10, 15, 20, 30년납, 60세납, 전기납 4. 납입주기 : 월납 5. 보험가격지수 기준 : 표준체형, 40세, 80세만기, 20년납, 주계약 가입금액 3,000만원 6. 보장범위지수 기준 : 표준체형, 남자 40세, 월납, 개별상품 위험보험료는 일반암 진단 1,000만원(최초1회한) 특정 고액치료비관련암 진단 1,000만원(최초1회한), 중증 갑상선암 진단 800만원(최초1회한), 특정 소액암 진단 600만원(최초1회한), 소액질병 진단 200만원(각각 최초1회한) 지급 기준으로 산출 7. 보험료 기준 : 표준체형, 40세, 주계약 가입금액 3,000만원, 80세만기, 20년납, 월납 *특약공시 : 부가가능한 특약 없음",
+        "contact_number": "1588-6363"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "특정 고액치료비관련 암진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘특정 고액치료비관련암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 1,500만원, 2년이상 3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘암(직ㆍ결장암, 유방암, 여성생식기암, 전립선암, 기타피부암, 갑상선암, 대장점막내암 제외)’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 1,500만원, 2년이상 3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "중증 갑상선암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘중증 갑상선암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 1,200만원, 2년이상 2,400만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정 소액암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘특정 소액암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 900만원, 2년이상 1,800만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘기타피부암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘갑상선암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘대장점막내암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘제자리암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘경계성종양’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31980,
+          "premium_female": 24720
+        }
+      ]
+    },
+    {
+      "company": "한화생명",
+      "product_name": "한화생명 e암보험(비갱신형) 무배당 (비흡연체형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "87.1 %",
+        "price_index_female": "95.9 %",
+        "coverage_index_cancer_diagnosis": "96.0 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만19~60세(납입기간에 따라 상이) 2. 보험기간 : 20년만기, 60, 70, 80, 100세만기 3. 납입기간 : 5, 10, 15, 20, 30년납, 60세납, 전기납 4. 납입주기 : 월납 5. 보험가격지수 기준 : 비흡연체형, 40세, 80세만기, 20년납, 주계약 가입금액 3,000만원 6. 보장범위지수 기준 : 비흡연체형, 남자 40세, 월납, 개별상품 위험보험료는 일반암 진단 1,000만원(최초1회한) 특정 고액치료비관련암 진단 1,000만원(최초1회한), 중증 갑상선암 진단 800만원(최초1회한), 특정 소액암 진단 600만원(최초1회한), 소액질병 진단 200만원(각각 최초1회한) 지급 기준으로 산출 7. 보험료 기준 : 비흡연체형, 40세, 주계약 가입금액 3,000만원, 80세만기, 20년납, 월납 *특약공시 : 부가가능한 특약 없음",
+        "contact_number": "1588-6363"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "특정 고액치료비관련 암진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘특정 고액치료비관련암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 1,500만원, 2년이상 3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘암(직ㆍ결장암, 유방암, 여성생식기암, 전립선암, 기타피부암, 갑상선암, 대장점막내암 제외)’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 1,500만원, 2년이상 3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "중증 갑상선암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘중증 갑상선암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 1,200만원, 2년이상 2,400만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정 소액암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘특정 소액암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 900만원, 2년이상 1,800만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘기타피부암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 ‘갑상선암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘대장점막내암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘제자리암’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액질병 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 ‘경계성종양’으로 진단이 확정되었을 경우(최초 1회한, 2년미만 50%지급)",
+          "payment_amount": "2년미만 300만원, 2년이상 600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 29460,
+          "premium_female": 24450
+        }
+      ]
+    },
+    {
+      "company": "ABL생명",
+      "product_name": "(무)우리WON인터넷5대미니암보험",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "101.7 %",
+        "price_index_female": "118.8 %",
+        "coverage_index_cancer_diagnosis": "36.1 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 상품형태 : 1종(1년만기형), 2종(10년만기형) 2. 가입나이 : 만19세 ~ 50세 3. 가입한도 : 1,000만원(단일구좌) 4. 보험기간 : 1년만기, 10년만기 5. 보험료는 2종(10년만기형), 10년만기, 전기납, 월납, 가입금액 1,000만원, 나이 40세 기준입니다. 6. 보험료가격지수는 40세, 가입금액 1,000만원, 10년만기 전기납 기준입니다. 7. 보장범위지수는 40세 남자, 10년만기, 전기납, 월납, 가입금액 1,000만원 기준입니다. ※ 이 상품의 약관, 상품요약서 등 세부내용은 당사 홈페이지 상품공시실에서 확인하실 수 있습니다.",
+        "contact_number": "0215886500"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "5대암 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암 보장개시일 이후 \"5대암\"으로 진단이 확정되었을 때(다만, 최초 1회 한함)",
+          "payment_amount": "경과기간 1년 미만 : 500만원, 경과기간 1년 이상 : 1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 956,
+          "premium_female": 713
+        }
+      ]
+    },
+    {
+      "company": "ABL생명",
+      "product_name": "(무)우리WON인터넷암보험(갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "114.2 %",
+        "price_index_female": "127.5 %",
+        "coverage_index_cancer_diagnosis": "89.6 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1.가입나이 * 최초계약 : 만19세 ~ 50세 * 갱신계약 : 3년만기 - 22세 ~ 97세 1년만기 - 98세 ~ 99세 2. 가입한도 * 만19세 ~ 40세 : 500만원 ~ 3,500만원 * 41세 ~ 50세 : 500만원 ~ 1,500만원 3. 이 상품은 3년만기 갱신형 상품입니다. 4. 보험료는 주계약 보험가입금액 3,000만원, 40세, 3년만기, 전기납, 월납 최초계약 기준입니다. 5. 보험가격지수는 40세, 가입금액 3,000만원, 3년만기 전기납 기준입니다. 6. 보장범위지수는 40세 남자, 10년만기, 전기납, 월납, 가입금액 500만원 기준입니다. 7. 특약보험료 예시기준 - (무)우리WON인터넷급성심근경색증진단특약(갱신형) : 가입금액 3,000만원, 3년만기, 전기납, 월납, 최초계약 - (무)우리WON인터넷뇌출혈진단특약(갱신형) : 가입금액 3,000만원, 3년만기, 전기납, 월납, 최초계약 - (무)우리WON인터넷말기신부전증진단특약(갱신형) : 가입금액 3,000만원, 3년만기, 전기납, 월납, 최초계약 ※ 이 상품의 약관, 상품요약서 등 세부내용은 당사 홈페이지 상품공시실에서 확인하실 수 있습니다.",
+        "contact_number": "0215886500"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 \"암\"으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 1,000만원 / 경과기간 1년 이상 : 2,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "유방암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 유방암으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 200만원 / 경과기간 1년 이상 : 400만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "전립선암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 전립선암으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 200만원 / 경과기간 1년 이상 : 400만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "중증 이외의 갑상선암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 중증 이외의 갑상선암으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 100만원 / 경과기간 1년 이상 : 200만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "기타피부암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 기타피부암으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 100만원 / 경과기간 1년 이상 : 200만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "대장점막내암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 대장점막내암으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 100만원 / 경과기간 1년 이상 : 200만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "제자리암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 제자리암으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 100만원 / 경과기간 1년 이상 : 200만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "경계성종양잔단급여금",
+          "payment_condition": "피보험자가 보험기간 중 경계성종양으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 100만원 / 경과기간 1년 이상 : 200만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 10770,
+          "premium_female": 16410
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 우리WON인터넷급성심근경색증진단특약(갱신형)",
+          "payment_condition": "이 특약의 보험기간 중 피보험자가 급성심근경색증으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 500만원 / 경과기간 1년 이상 : 1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 1140,
+          "premium_female": 120
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 우리WON인터넷뇌출혈진단특약(갱신형)",
+          "payment_condition": "이 특약의 보험기간 중 피보험자가 뇌출혈로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 500만원 / 경과기간 1년 이상 : 1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 870,
+          "premium_female": 630
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 우리WON인터넷말기신부전증진단특약(갱신형)",
+          "payment_condition": "이 특약의 보험기간 중 피보험자가 말기신부전증으로 진단이 확정되었을 때(다만, 최초 1회에 한함)",
+          "payment_amount": "경과기간 1년 미만 : 500만원 / 경과기간 1년 이상 : 1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 840,
+          "premium_female": 510
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인터넷암보험(2404)(갱신형,무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "111.8 %",
+        "price_index_female": "109.8 %",
+        "coverage_index_cancer_diagnosis": "147.5 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 - 최저 20세 ~ 최고 60세 2. 보험기간 : 최초계약 10년 만기 전기월납 , 갱신계약 1~10년만기 전기월납 ※ 최종 갱신계약의 보험기간 만료일은 피보험자의 100세 계약해당일의 전일 ※ 최종 갱신계약의 보험기간 만료일이 10년미만일 경우에는 갱신일부터 최종 갱신계약의 보험기간 만료일까지를 보험기간으로 합니다. 3. 보험료 예시기준 주보험, 최초계약,40세, 보험기간 10년 만기 갱신형, 납입기간 전기월납, 가입금액 주보험 2,500만원, 암사망특약Ⅱ(갱신형,무배당) 1,000만원, 고액치료비암진단특약Ⅱ(갱신형,무배당) 500만원 재진단암보장특약Ⅱ(갱신형,무배당) 500만원 □ 선택기재사항 1. 보험료 납입기간 : 전기납 2. 보험가격지수 예시기준 : 가입금액 2,500만원 40세 10년만기 전기납 최초계약기준 3. 보장범위지수 예시기준 남자, 40세, 월납, 최초계약 기준 ※ 암진단을 보장하는 고정부가특약을 포함",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금Ⅰ (최초 1회한)",
+          "payment_condition": "단 보험금Ⅰ (최초 1회한) 피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정 되었을 경우 (단, 자궁암은 피보험자가 여성인 경우에 한하고 전립선암 은 피보험자가 남성인 경우에 한함)",
+          "payment_amount": "1,000만원(1년 이내는 500만원)",
+          "coverage_amount": "2,500만원",
+          "premium_male": 12750,
+          "premium_female": 15500
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금Ⅱ (최초 1회한)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 “전립선암” 이외의 암으로 진단 확정 되었을 경우 (단, 자궁암은 피보험자가 여성인 경우에 한함)",
+          "payment_amount": "1,000만원(1년 이내는 500만원)",
+          "coverage_amount": "2,500만원",
+          "premium_male": 12750,
+          "premium_female": 15500
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금Ⅲ (최초 1회한)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 「\"초기이외 유방암\", \"중증갑상선암\", \"자궁암\" 및 \"전립선암\"」이외의 암으로 진단 확정 되었을 경우",
+          "payment_amount": "3,000만원(1년 이내는 1500만원)",
+          "coverage_amount": "2,500만원",
+          "premium_male": 12750,
+          "premium_female": 15500
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 경계성종양, 초기유방암, 중증이외 갑상선암으로 진단이 확정되었을 때 (단, 경계성종양, 초기 유방암, 중증이외갑상선암에 대해 각각 1회의 진단 확정에 한함), 피보험자가 보험기간 중 제자리암, 기타피부암, 비침습 방 광암 또는 대장점막내암으로 진단이 확정되었을 때 (단, 제 자리암, 기타피부암, 비침습 방광암, 대장점막내암에 대해 각각 1회의 진단 확정에 한함)",
+          "payment_amount": "600만원(1년 이내는 300만원)",
+          "coverage_amount": "2,500만원",
+          "premium_male": 12750,
+          "premium_female": 15500
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인터넷 비갱신암보험(2601)(무배당, 무해약환급금형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "106.9 %",
+        "price_index_female": "110.9 %",
+        "coverage_index_cancer_diagnosis": "132.4 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : - 20세 ~ 최대 60세 ※ 납입기간별로 가입나이는 차이가 있을 수 있습니다. 2. 보험기간 : 90, 100세만기 3. 보험료 예시기준 - 주보험 보험가입금액 3,000만원, 소액질병보장특약Ⅷ(무배당,무해약환급금형) 가입금액 500만원, 암사망특약Ⅲ(무배당,무해약환급금형) 가입금액 9,000만원, 40세, 90세 만기, 20년납, 월납 4. 보장범위지수 세부산출 기준 - 개별상품 위험보험료 산출시 가입금액은 주계약 1,000만원, 소액질병보장특약Ⅷ(무배당,무해약환급금형) 200만원, 고액치료비암진단특약(무배당,무해약환급금형) 1,000만원을 기준으로 산출되었습니다. □ 선택기재사항 1. 보험료 납입기간 : - 10,15,20,30년납 2. 보험가격지수 예시기준 : - 주보험 1종, 가입금액 3,000만원, 40세, 90세 만기, 20년납, 월납",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암(「\"초기 이외 유방암\", \"중증갑상선암\", \"자궁암\" 또는\"전립선암\"」)으로 진단시(최초1회한)",
+          "payment_amount": "3,000만원(1년 이내 1,500만원)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 45900,
+          "premium_female": 30600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암(「\"초기 이외 유방암\", \"중증갑상선암\", \"자궁암\" 또는\"전립선암\"」이외의 암)으로 진단시(최초1회한)",
+          "payment_amount": "3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 45900,
+          "premium_female": 30600
+        },
+        {
+          "category": "특약",
+          "benefit_name": "소액질병보장특약Ⅷ(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 \"초기유방암\", \"양성뇌 종양\", \"경계성종양\", \"중증 이외 갑상선암\", \"제자리암\", \"기타피부암\", \"비침습 방광암\" 또는 \"대장점막내암\"으로 진단시 (각 1회한)",
+          "payment_amount": "500만원(1년 이내 250만원)",
+          "coverage_amount": "500만원",
+          "premium_male": 2225,
+          "premium_female": 4415
+        },
+        {
+          "category": "특약",
+          "benefit_name": "암사망특약Ⅲ(무배당,무해약환급금형)",
+          "payment_condition": "특약의 보험기간 중 암보장개시일 이후에 암으로 진단 이 확정되고 그 암으로 인하여 사망하였을 경우 또는 피보 험자가 이 특약의 보험기간 중 「기타피부암, 갑상선암, 비침습 방광암 또는 대장점막내암」으로 진단이 확정되고 그 「기타피부암, 갑상선암, 비침습 방광암 또는 대장점막 내암」으로 인하여 사망하였을 경우",
+          "payment_amount": "9,000만원",
+          "coverage_amount": "9,000만원",
+          "premium_male": 48420,
+          "premium_female": 26550
+        }
+      ]
+    },
+    {
+      "company": "흥국생명",
+      "product_name": "(무)흥국생명언제나안심암보험2602(해약환급금일부지급형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "93.8 %",
+        "price_index_female": "98.9 %",
+        "coverage_index_cancer_diagnosis": "104.8 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 방카슈랑스 CM",
+        "sales_date": "2026-02-08",
+        "special_notes": "1. 가입나이: 만15세 ~ 70세 2. 보험기간: 90세만기,100세만기,110세만기 3. 보험료 예시 및 보험가격지수 산출기준: 3형(해약환급금일부지급형), 가입금액 3,000만원, 40세, 90세만기, 20년납, 월납 4. 보장범위지수 산출기준: 3형(해약환급금일부지급형), 남자 40세, 10년만기, 전기납, 월납",
+        "contact_number": "1588-2288"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "중증갑상선암 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 중증갑 상선암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 (중증갑상선암 제외) 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 (중증갑상선암 제외), 기타피부암, 제자리암 또는 경계 성종양으로 진단 확정되었을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 10% / 1년이후 보험가입금액의 20%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "전이암 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 전이암 으로 진단확정 되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암 항암약물치료비",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 항 암약물치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 25% / 1년이후 보험가입금액의 50%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암, 기타피부암 항암약물치료비",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 또는 기타피부암으로 진단확정 되고 그 갑상선암 또 는 기타피부암의 직접적인 치료를 목적으로 항암약물 치료를 받았을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 5% / 1년이후 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암 항암방사선치료비",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 항 암방사선치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 25% / 1년이후 보험가입금액의 50%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암, 기타피부암 항암방사선치료비",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 또는 기타피부암으로 진단확정 되고 그 갑상선암 또 는 기타피부암의 직접적인 치료를 목적으로 항암방사 선치료를 받았을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 5% / 1년이후 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "다빈치 또는 레보아이로봇암(특정암제외) 수술급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암(특정 암제외)으로 진단확정되고 그 암(특정암제외)의 직접 적인 치료를 목적으로 다빈치 또는 레보아이 로봇암수술을 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "다빈치 또는 레보아이로봇특정암 수술급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 특정암 으로 진단확정되고 그 특정암의 직접적인 치료를 목 적으로 다빈치 또는 레보아이로봇특정암수술을 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "표적항암약물 허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단확정되고 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 표적항 암약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "항암중입자방사선 치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단 확정되고, 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 항암중 입자방사선치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "카티항암약물 허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단 확정되고 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 카티항 암약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고액암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 고액암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정항암호르몬약물허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 특정항암호르몬약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 2.5% / 1년이후 보험가입금액의 5%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 111900,
+          "premium_female": 82800
+        }
+      ]
+    },
+    {
+      "company": "흥국생명",
+      "product_name": "(무)흥국생명언제나안심암보험2602",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "90.8 %",
+        "price_index_female": "97.1 %",
+        "coverage_index_cancer_diagnosis": "109.1 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 방카슈랑스 CM",
+        "sales_date": "2026-02-08",
+        "special_notes": "1. 가입나이: 만15세 ~ 70세 2. 보험기간: 90세만기,100세만기,110세만기 3. 보험료 예시 및 보험가격지수 산출기준: 2형(표준형), 가입금액 3,000만원, 40세, 90세만기, 20년납, 월납 4. 보장범위지수 산출기준: 2형(표준형), 남자 40세, 10년만기, 전기납, 월납",
+        "contact_number": "1588-2288"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "중증갑상선암 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 중증갑 상선암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 (중증갑상선암 제외) 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 (중증갑상선암 제외), 기타피부암, 제자리암 또는 경계 성종양으로 진단 확정되었을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 10% / 1년이후 보험가입금액의 20%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "전이암 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 전이암 으로 진단확정 되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암 항암약물치료비",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 항 암약물치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 25% / 1년이후 보험가입금액의 50%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암, 기타피부암 항암약물치료비",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 또는 기타피부암으로 진단확정 되고 그 갑상선암 또 는 기타피부암의 직접적인 치료를 목적으로 항암약물 치료를 받았을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 5% / 1년이후 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암 항암방사선치료비",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 항 암방사선치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 25% / 1년이후 보험가입금액의 50%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암, 기타피부암 항암방사선치료비",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 또는 기타피부암으로 진단확정 되고 그 갑상선암 또 는 기타피부암의 직접적인 치료를 목적으로 항암방사 선치료를 받았을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 5% / 1년이후 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "다빈치로봇 암(특정암제외) 수술급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암(특정 암제외)으로 진단확정되고 그 암(특정암제외)의 직접 적인 치료를 목적으로 다빈치로봇암수술을 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "다빈치로봇 특정암 수술급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 특정암 으로 진단확정되고 그 특정암의 직접적인 치료를 목 적으로 다빈치로봇암수술을 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "표적항암약물 허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단확정되고 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 표적항 암약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "항암중입자방사선 치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단 확정되고, 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 항암중 입자방사선치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "카티항암약물 허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단 확정되고 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 카티항 암약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고액암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 고액암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정항암호르몬약물허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 특정항암호르몬약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 2.5% / 1년이후 보험가입금액의 5%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 123300,
+          "premium_female": 88800
+        }
+      ]
+    },
+    {
+      "company": "흥국생명",
+      "product_name": "(무)흥국생명언제나안심암보험2602(해약환급금미지급형V2)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "93.0 %",
+        "price_index_female": "98.0 %",
+        "coverage_index_cancer_diagnosis": "109.5 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "대면채널 방카슈랑스 CM",
+        "sales_date": "2026-02-08",
+        "special_notes": "1. 가입나이: 만15세 ~ 70세 2. 보험기간: 90세만기,100세만기,110세만기 3. 보험료 예시 및 보험가격지수 산출기준: 1형(해약환급금미지급형V2), 가입금액 3,000만원, 40세, 90세만기, 20년납, 월납 4. 보장범위지수 산출기준: 1형(해약환급금미지급형V2), 남자 40세, 10년만기, 전기납, 월납",
+        "contact_number": "1588-2288"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "중증갑상선암 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 중증갑 상선암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 (중증갑상선암 제외) 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 (중증갑상선암 제외), 기타피부암, 제자리암 또는 경계 성종양으로 진단 확정되었을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 10% / 1년이후 보험가입금액의 20%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "전이암 진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 전이암 으로 진단확정 되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암 항암약물치료비",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 항 암약물치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 25% / 1년이후 보험가입금액의 50%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암, 기타피부암 항암약물치료비",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 또는 기타피부암으로 진단확정 되고 그 갑상선암 또 는 기타피부암의 직접적인 치료를 목적으로 항암약물 치료를 받았을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 5% / 1년이후 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암 항암방사선치료비",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 항 암방사선치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 25% / 1년이후 보험가입금액의 50%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암, 기타피부암 항암방사선치료비",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 갑상선암 또는 기타피부암으로 진단확정 되고 그 갑상선암 또 는 기타피부암의 직접적인 치료를 목적으로 항암방사 선치료를 받았을 때 (다만, 각 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 5% / 1년이후 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "다빈치로봇 암(특정암제외) 수술급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암(특정 암제외)으로 진단확정되고 그 암(특정암제외)의 직접 적인 치료를 목적으로 다빈치로봇암수술을 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "다빈치로봇 특정암 수술급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 특정암 으로 진단확정되고 그 특정암의 직접적인 치료를 목 적으로 다빈치로봇암수술을 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "표적항암약물 허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단확정되고 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 표적항 암약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "항암중입자방사선 치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단 확정되고, 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 항암중 입자방사선치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "카티항암약물 허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일(다만, 갑상선암, 기타피부암의 경우 보장개시일) 이후에 암, 갑상선암 또는 기타피부암으로 진단 확정되고 그 암, 갑상선암 또는 기타피부암의 직접적인 치료를 목적으로 카티항 암약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 125% / 1년이후 보험가입금액의 250%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고액암진단급여금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 고액암으로 진단 확정되었을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 50% / 1년이후 보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정항암호르몬약물허가치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 암으로 진단 확정되고 그 암의 직접적인 치료를 목적으로 특정항암호르몬약물허가치료를 받았을 때 (다만, 최초 1회에 한함)",
+          "payment_amount": "1년미만 보험가입금액의 2.5% / 1년이후 보험가입금액의 5%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 100500,
+          "premium_female": 76800
+        }
+      ]
+    },
+    {
+      "company": "미래에셋생명",
+      "product_name": "온라인 암보험 무배당 [해약환급금이 없는 유형]",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "105.6 %",
+        "price_index_female": "105.2 %",
+        "coverage_index_cancer_diagnosis": "84.7 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-02-01",
+        "special_notes": "1. 보험기간 : 80, 90, 100세 만기(기본형, 해약환급금이 없는 유형), 10년 만기(갱신형 최초계약), 5년 만기, 100세 만기(갱신형 갱신계약) 2. 보험종류 : 기본형, 해약환급금이 없는 유형, 갱신형 3. 가입나이 : 0 ~ 60세(기본형, 해약환급금이 없는 유형, 갱신형 최초계약), 10 ~ 99세(갱신형 갱신계약) 4. 납입기간 : 10,15,20, 25, 30년납, 전기납 5. 납입주기 : 월납 6. 보험가격지수 산출기준 : 해약환급금이 없는 유형, 가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 7. 보험료 산출기준 : 해약환급금이 없는 유형, 가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 8. 보장범위지수 산출기준 : 남자, 40세, 10년만기, 10년납, 월납 (위험보험료 진단금 기준 : 일반암 1,000만원, 여성유방암 또는 전립선암 200만원, 유사암(기타피부암, 갑상선암(중증갑상선암 제외), 대장점막내암, 비침습방광암, 제자리암 및 경계성종양) 100만원) 9. 특약 보험기간, 납입기간: - 해약환급금이 없는 유형: 80세만기, 20년납 - 갱신형: 10년만기, 10년납 10. 특이사항 : 「온라인 암보험 무배당」은 주계약의 암진단보험금을 중심으로 고액암진단 및 각종 항암치료관련 특약을 부가해 암진단부터 암치료까지 폭넓은 보장을 설계할 수 있는 상품입니다.",
+        "contact_number": "1588-0220"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금",
+          "payment_condition": "1. 피보험자가 보험기간 중 ‘암보장개시일’ 이후에 ‘암’으로 진단확정된 경우 (다만, 최초 1회에 한하여 지급) 2. 피보험자가 보험기간 중 ‘기타피부암’, ‘갑상선암’(‘중증갑상선암’ 제외), ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’으로 진단확정된 경우 (다만, 각각 최초 1회에 한하여 지급)",
+          "payment_amount": "1. 계약일로부터 2년 미만 : 보험가입금액의 50% / 계약일로부터 2년 이후 : 보험가입금액의 100% (다만, ‘여성유방암’ 및 ‘전립선암’의 경우 계약일로부터 2년 미만 : 이 특약 보험가입금액의 10% / 계약일로부터 2년 이후 : 이 특약 보험가입금액의 20%) 2. 계약일로부터 2년 미만 : 보험가입금액의 5% / 계약일로부터 2년 이후 : 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 31620,
+          "premium_female": 21690
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 항암약물·방사선치료특약 [해약환급금이 없는 유형]",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’으로 진단 확정되고 그 ‘암’의 치료를 직접적인 목적으로 ‘항암약물치료’ 또는 ‘항암방사선치료’를 받았거나, 이 특약의 보험기간 중 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’으로 진단확정 되고 그 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’의 치료를 직접적인 목적으로 ‘항암약물치료’ 또는 ‘항암방사선치료’를 받은 경우 (다만, 각각 최초 1회의 치료에 한하여 지급)",
+          "payment_amount": "암 : 이 특약 보험가입금액의 100% 기타피부암, 갑상선암(중증갑상선암 제외), 대장점막내암, 비침습방광암, 제자리암, 경계성종양 : 이 특약 보험가입금액의 20%",
+          "coverage_amount": "200만원",
+          "premium_male": 1034,
+          "premium_female": 1100
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 표적항암약물허가치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’으로 진단 확정되거나, 이 특약의 보험기간 중 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’ 또는 ‘비침습방광암’으로 진단 확정 되고 그 ‘암’, ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’ 또는 ‘비침습방광암’의 치료를 직접적인 목적으로 ‘표적항암약물허가치료’를 받은 경우 (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "최초계약의 최초 계약일로부터 1년 미만 : 이 특약 보험가입금액의 50% 최초계약의 최초 계약일로부터 1년 이후, 갱신계약 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "2,000만원",
+          "premium_male": 740,
+          "premium_female": 1040
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 항암 정위방사선치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’, ‘기타피부암’ 또는 ‘갑상선암’으로 진단확정 되고 그 ‘암’, ‘기타피부암’ 또는 ‘갑상선암’의 치료를 직접적인 목적으로 ‘항암정위방사선치료’를 받은 경우(다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "최초계약의 최초 계약일로부터 1년 미만 : 이 특약 보험가입금액의 50% 최초계약의 최초 계약일로부터 1년 이후, 갱신계약 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "500만원",
+          "premium_male": 20,
+          "premium_female": 55
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 고액암진단특약 [해약환급금이 없는 유형]",
+          "payment_condition": "피보험자가 보험기간 중 ‘암보장개시일’ 이후에 ‘고액암’으로 진단확정된 경우 (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "계약일로부터 2년 미만 : 이 특약 보험가입금액의 50% 계약일로부터 2년 이후 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "6,000만원",
+          "premium_male": 12180,
+          "premium_female": 8280
+        }
+      ]
+    },
+    {
+      "company": "미래에셋생명",
+      "product_name": "온라인 암보험 무배당 [기본형]",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "97.4 %",
+        "price_index_female": "98.6 %",
+        "coverage_index_cancer_diagnosis": "84.7 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-02-01",
+        "special_notes": "1. 보험기간 : 80, 90, 100세 만기(기본형, 해약환급금이 없는 유형), 10년 만기(갱신형 최초계약), 5년 만기, 100세 만기(갱신형 갱신계약) 2. 보험종류 : 기본형, 해약환급금이 없는 유형, 갱신형 3. 가입나이 : 0 ~ 60세(기본형, 해약환급금이 없는 유형, 갱신형 최초계약), 10 ~ 99세(갱신형 갱신계약) 4. 납입기간 : 10,15,20, 25, 30년납, 전기납 5. 납입주기 : 월납 6. 보험가격지수 산출기준 : 기본형, 가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 7. 보험료 산출기준 : 기본형, 가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 8. 보장범위지수 산출기준 : 남자, 40세, 10년만기, 10년납, 월납 (위험보험료 진단금 기준 : 일반암 1,000만원, 여성유방암 또는 전립선암 200만원, 유사암(기타피부암, 갑상선암(중증갑상선암 제외), 대장점막내암, 비침습방광암, 제자리암 및 경계성종양) 100만원) 9. 특약 보험기간, 납입기간: 갱신형 - 10년만기, 10년납 기본형 - 80세만기, 20년납 10. 특이사항 : 「온라인 암보험 무배당」은 주계약의 암진단보험금을 중심으로 고액암진단 및 각종 항암치료관련 특약을 부가해 암진단부터 암치료까지 폭넓은 보장을 설계할 수 있는 상품입니다.",
+        "contact_number": "1588-0220"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금",
+          "payment_condition": "1. 피보험자가 보험기간 중 ‘암보장개시일’ 이후에 ‘암’으로 진단확정된 경우 (다만, 최초 1회에 한하여 지급) 2. 피보험자가 보험기간 중 ‘기타피부암’, ‘갑상선암’(‘중증갑상선암’ 제외), ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’으로 진단확정된 경우 (다만, 각각 최초 1회에 한하여 지급)",
+          "payment_amount": "1. 계약일로부터 2년 미만 : 보험가입금액의 50% / 계약일로부터 2년 이후 : 보험가입금액의 100% (다만, ‘여성유방암’ 및 ‘전립선암’의 경우 계약일로부터 2년 미만 : 이 특약 보험가입금액의 10% / 계약일로부터 2년 이후 : 이 특약 보험가입금액의 20%) 2. 계약일로부터 2년 미만 : 보험가입금액의 5% / 계약일로부터 2년 이후 : 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36120,
+          "premium_female": 24240
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 항암약물·방사선치료특약 [기본형]",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’으로 진단 확정되고 그 ‘암’의 치료를 직접적인 목적으로 ‘항암약물치료’ 또는 ‘항암방사선치료’를 받았거나, 이 특약의 보험기간 중 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’으로 진단확정 되고 그 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’의 치료를 직접적인 목적으로 ‘항암약물치료’ 또는 ‘항암방사선치료’를 받은 경우 (다만, 각각 최초 1회의 치료에 한하여 지급)",
+          "payment_amount": "암 : 이 특약 보험가입금액의 100% 기타피부암, 갑상선암(중증갑상선암 제외), 대장점막내암, 비침습방광암, 제자리암, 경계성종양 : 이 특약 보험가입금액의 20%",
+          "coverage_amount": "200만원",
+          "premium_male": 1178,
+          "premium_female": 1202
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 표적항암약물허가치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’으로 진단 확정되거나, 이 특약의 보험기간 중 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’ 또는 ‘비침습방광암’으로 진단 확정 되고 그 ‘암’, ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’ 또는 ‘비침습방광암’의 치료를 직접적인 목적으로 ‘표적항암약물허가치료’를 받은 경우 (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "최초계약의 최초 계약일로부터 1년 미만 : 이 특약 보험가입금액의 50% 최초계약의 최초 계약일로부터 1년 이후, 갱신계약 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "2,000만원",
+          "premium_male": 740,
+          "premium_female": 1040
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 항암 정위방사선치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’, ‘기타피부암’ 또는 ‘갑상선암’으로 진단확정 되고 그 ‘암’, ‘기타피부암’ 또는 ‘갑상선암’의 치료를 직접적인 목적으로 ‘항암정위방사선치료’를 받은 경우(다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "최초계약의 최초 계약일로부터 1년 미만 : 이 특약 보험가입금액의 50% 최초계약의 최초 계약일로부터 1년 이후, 갱신계약 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "500만원",
+          "premium_male": 20,
+          "premium_female": 55
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 고액암진단특약 [기본형]",
+          "payment_condition": "피보험자가 보험기간 중 ‘암보장개시일’ 이후에 ‘고액암’으로 진단확정된 경우 (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "계약일로부터 2년 미만 : 이 특약 보험가입금액의 50% 계약일로부터 2년 이후 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "6,000만원",
+          "premium_male": 13980,
+          "premium_female": 9480
+        }
+      ]
+    },
+    {
+      "company": "미래에셋생명",
+      "product_name": "온라인 암보험 무배당 [갱신형]",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "97.7 %",
+        "price_index_female": "91.9 %",
+        "coverage_index_cancer_diagnosis": "84.7 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-02-01",
+        "special_notes": "1. 보험기간 : 80, 90, 100세 만기(기본형, 해약환급금이 없는 유형), 10년 만기(갱신형 최초계약), 5년 만기, 100세 만기(갱신형 갱신계약) 2. 보험종류 : 기본형, 해약환급금이 없는 유형, 갱신형 3. 가입나이 : 0 ~ 60세(기본형, 해약환급금이 없는 유형, 갱신형 최초계약), 10 ~ 99세(갱신형 갱신계약) 4. 납입기간 : 10,15,20, 25, 30년납, 전기납 5. 납입주기 : 월납 6. 보험가격지수 산출기준 : 갱신형, 가입금액 3,000만원, 40세, 10년만기, 전기납, 월납 7. 보험료 산출기준 : 갱신형, 가입금액 3,000만원, 40세, 10년만기, 전기납, 월납 8. 보장범위지수 산출기준 : 남자, 40세, 10년만기, 10년납, 월납 (위험보험료 진단금 기준 : 일반암 1,000만원, 여성유방암 또는 전립선암 200만원, 유사암(기타피부암, 갑상선암(중증갑상선암 제외), 대장점막내암, 비침습방광암, 제자리암 및 경계성종양) 100만원) 9. 특약 보험기간, 납입기간: 10년만기, 10년납 10. 특이사항 : 「온라인 암보험 무배당」은 주계약의 암진단보험금을 중심으로 고액암진단 및 각종 항암치료관련 특약을 부가해 암진단부터 암치료까지 폭넓은 보장을 설계할 수 있는 상품입니다.",
+        "contact_number": "1588-0220"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금",
+          "payment_condition": "1. 피보험자가 보험기간 중 ‘암보장개시일’ 이후에 ‘암’으로 진단확정된 경우 (다만, 최초 1회에 한하여 지급) 2. 피보험자가 보험기간 중 ‘기타피부암’, ‘갑상선암’(‘중증갑상선암’ 제외), ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’으로 진단확정된 경우 (다만, 각각 최초 1회에 한하여 지급)",
+          "payment_amount": "1. 최초계약의 최초 계약일로부터 2년 미만 : 보험가입금액의 50% / 최초계약의 최초 계약일로부터 2년 이후, 갱신계약 : 보험가입금액의 100% (다만, ‘여성유방암’ 및 ‘전립선암’의 경우 최초계약의 최초 계약일로부터 2년 미만 : 이 특약 보험가입금액의 10% / 최초계약의 최초 계약일로부터 2년 이후, 갱신계약 : 이 특약 보험가입금액의 20%) 2. 최초계약의 최초 계약일로부터 2년 미만 : 보험가입금액의 5% / 최초계약의 최초 계약일로부터 2년 이후, 갱신계약 : 보험가입금액의 10%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 6450,
+          "premium_female": 7650
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 항암약물·방사선치료특약 [갱신형]",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’으로 진단 확정되고 그 ‘암’의 치료를 직접적인 목적으로 ‘항암약물치료’ 또는 ‘항암방사선치료’를 받았거나, 이 특약의 보험기간 중 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’으로 진단확정 되고 그 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’, ‘비침습방광암’, ‘제자리암’ 또는 ‘경계성종양’의 치료를 직접적인 목적으로 ‘항암약물치료’ 또는 ‘항암방사선치료’를 받은 경우 (다만, 각각 최초 1회의 치료에 한하여 지급)",
+          "payment_amount": "암 : 이 특약 보험가입금액의 100% 기타피부암, 갑상선암(중증갑상선암 제외), 대장점막내암, 비침습방광암, 제자리암, 경계성종양 : 이 특약 보험가입금액의 20%",
+          "coverage_amount": "200만원",
+          "premium_male": 214,
+          "premium_female": 538
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 표적항암약물허가치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’으로 진단 확정되거나, 이 특약의 보험기간 중 ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’ 또는 ‘비침습방광암’으로 진단 확정 되고 그 ‘암’, ‘기타피부암’, ‘갑상선암(중증갑상선암 제외)’, ‘대장점막내암’ 또는 ‘비침습방광암’의 치료를 직접적인 목적으로 ‘표적항암약물허가치료’를 받은 경우 (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "최초계약의 최초 계약일로부터 1년 미만 : 이 특약 보험가입금액의 50% 최초계약의 최초 계약일로부터 1년 이후, 갱신계약 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "2,000만원",
+          "premium_male": 740,
+          "premium_female": 1040
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 항암 정위방사선치료특약(갱신형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암보장개시일 이후에 ‘암’, ‘기타피부암’ 또는 ‘갑상선암’으로 진단확정 되고 그 ‘암’, ‘기타피부암’ 또는 ‘갑상선암’의 치료를 직접적인 목적으로 ‘항암정위방사선치료’를 받은 경우(다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "최초계약의 최초 계약일로부터 1년 미만 : 이 특약 보험가입금액의 50% 최초계약의 최초 계약일로부터 1년 이후, 갱신계약 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "500만원",
+          "premium_male": 20,
+          "premium_female": 55
+        },
+        {
+          "category": "특약",
+          "benefit_name": "온라인 암보험 무배당 고액암진단특약 [갱신형]",
+          "payment_condition": "피보험자가 보험기간 중 ‘암보장개시일’ 이후에 ‘고액암’으로 진단확정된 경우 (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "최초계약의 최초 계약일로부터 2년 미만 : 이 특약 보험가입금액의 50% 최초계약의 최초 계약일로부터 2년 이후, 갱신계약 : 이 특약 보험가입금액의 100%",
+          "coverage_amount": "6,000만원",
+          "premium_male": 2340,
+          "premium_female": 1680
+        }
+      ]
+    },
+    {
+      "company": "미래에셋생명",
+      "product_name": "온라인 더 잘고른 미니암보험 무배당",
+      "price_info": {
+        "interest_rate_fixed": "2.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "109.6 %",
+        "price_index_female": "102.2 %",
+        "coverage_index_cancer_diagnosis": "62.5 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간 : 5년만기, 10년만기 2. 보험종류 : 남성형, 여성형 3. 가입나이 : 만19세 ~ 최대 60세 4. 납입기간 : 일시납, 전기납 5. 납입주기 : 일시납, 월납, 연납 6. 보험가격지수 산출기준 : 40세, 10년만기, 전기납, 월납, 가입금액 1,000만원(단, [여성형]은 500만원) 7. 보험료 산출기준 : 40세, 10년만기, 전기납, 월납, 가입금액 1,000만원 (단, [여성형]은 500만원) 8. 보장범위지수 산출기준 : 남성형, 40세, 10년만기, 10년납, 월납, 보험가입금액 1000만원 9. 특이사항 : 「온라인 더 잘고른 미니암보험 무배당」은 인터넷으로 직접 가입하는 '주요암' 보장 상품으로 만19세부터 60세까지 저렴한 보험료로 가입이 가능합니다.",
+        "contact_number": "1588-0220"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "주요암진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 ‘주요암보장개시일’이후에 ‘주요암’으로 진단 확정되었을 경우(다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "계약일로부터 1년 미만 : 보험가입금액의 50% 계약일로부터 1년 이후 : 보험가입금액",
+          "coverage_amount": "1,000만원 (단, [여성형]은 500만원)",
+          "premium_male": 1796,
+          "premium_female": 3038
+        }
+      ]
+    },
+    {
+      "company": "KDB생명",
+      "product_name": "KDB다이렉트 암보험(표준형)(무)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "112.9 %",
+        "price_index_female": "128.4 %",
+        "coverage_index_cancer_diagnosis": "94.9 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험종목: 갱신형, 표준형, 해약환급금 미지급형Ⅲ 2. 가입나이: 최소0세 ~ 최대60세(갱신형의 경우 최초계약 기준) 3. 보험기간 -. 갱신형: 10년만기(갱신형) -. 표준형 및 해약환급금 미지급형Ⅲ: 20년만기, 80세만기, 100세만기 4. 보험료 납입기간 -. 갱신형: 전기납 -. 표준형 및 해약환급금 미지급형Ⅲ: 전기납, 10년납, 20년납, 80세납 5. 보험료 예시기준: 표준형, 40세, 주계약 보험가입금액 1,000만원, 80세만기, 20년납, 월납 6. 보험가격지수 예시기준: 표준형, 40세, 주계약 보험가입금액 1,000만원, 80세만기, 20년납, 월납 7. 보장범위지수 예시기준: 표준형, 40세, 일반암 1,000만원, 소액암 200만원, 10년만기, 전기납, 남자",
+        "contact_number": "1588-4040"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅰ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 특정3대암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "1,000만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 15200,
+          "premium_female": 10110
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅱ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 '유방암 또는 남녀생식기관련암' 이외의 암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "800만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 15200,
+          "premium_female": 10110
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅲ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "200만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 15200,
+          "premium_female": 10110
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암진단보험금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 소액암으로 진단이 확정되었을 때(다만, 소액암 각각 최초 1회한)",
+          "payment_amount": "100만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 15200,
+          "premium_female": 10110
+        }
+      ]
+    },
+    {
+      "company": "KDB생명",
+      "product_name": "KDB다이렉트 암보험(갱신형)(무)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "140.9 %",
+        "price_index_female": "157.4 %",
+        "coverage_index_cancer_diagnosis": "94.9 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험종목: 갱신형, 표준형, 해약환급금 미지급형Ⅲ 2. 가입나이: 최소0세 ~ 최대60세(최초계약) 3. 보험기간 -. 갱신형: 10년만기(갱신형) -. 표준형 및 해약환급금 미지급형Ⅲ: 20년만기, 80세만기, 100세만기 4. 보험료 납입기간 -. 갱신형: 전기납 -. 표준형 및 해약환급금 미지급형Ⅲ: 전기납, 10년납, 20년납, 80세납 5. 보험료 예시기준: 갱신형, 40세, 주계약 보험가입금액 1,000만원, 10년만기, 전기납, 월납 6. 보험가격지수 예시기준: 갱신형, 40세, 주계약 보험가입금액 1,000만원, 10년만기, 전기납, 월납 7. 보장범위지수 예시기준: 갱신형, 40세, 일반암 1,000만원, 소액암 200만원, 10년만기, 전기납, 남자",
+        "contact_number": "1588-4040"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅰ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 특정3대암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "1,000만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 3590,
+          "premium_female": 3680
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅱ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 '유방암 또는 남녀생식기관련암' 이외의 암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "800만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 3590,
+          "premium_female": 3680
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅲ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "200만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 3590,
+          "premium_female": 3680
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암진단보험금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 소액암으로 진단이 확정되었을 때(다만, 소액암 각각 최초 1회한)",
+          "payment_amount": "100만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 3590,
+          "premium_female": 3680
+        }
+      ]
+    },
+    {
+      "company": "KDB생명",
+      "product_name": "KDB다이렉트 암보험(해약환급금미지급형Ⅲ)(무)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "114.4 %",
+        "price_index_female": "129.6 %",
+        "coverage_index_cancer_diagnosis": "93.8 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험종목: 갱신형, 표준형, 해약환급금 미지급형Ⅲ 2. 가입나이: 최소0세 ~ 최대60세 3. 보험기간 -. 갱신형: 10년만기(갱신형) -. 표준형 및 해약환급금 미지급형Ⅲ: 20년만기, 80세만기, 100세만기 4. 보험료 납입기간 -. 갱신형: 전기납 -. 표준형 및 해약환급금 미지급형Ⅲ: 전기납, 10년납, 20년납, 80세납 5. 보험료 예시기준: 해약환급금 미지급형Ⅲ 40세, 주계약 보험가입금액 1,000만원, 80세만기, 20년납, 월납 6. 보험가격지수 예시기준: 해약환급금 미지급형Ⅲ 40세, 주계약 보험가입금액 1,000만원, 80세만기, 20년납, 월납 7. 보장범위지수 예시기준: 해약환급금 미지급형Ⅲ, 40세, 일반암 1,000만원, 소액암 200만원, 10년만기, 전기납, 남자",
+        "contact_number": "1588-4040"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅰ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 특정3대암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "1,000만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 12480,
+          "premium_female": 8510
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅱ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 '유방암 또는 남녀생식기관련암' 이외의 암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "800만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 12480,
+          "premium_female": 8510
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단보험금Ⅲ",
+          "payment_condition": "보험기간 중 피보험자가 암보장개시일 이후에 암으로 진단이 확정되었을 때(다만, 최초 1회한)",
+          "payment_amount": "200만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 12480,
+          "premium_female": 8510
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암진단보험금",
+          "payment_condition": "보험기간 중 피보험자가 보장개시일 이후에 소액암으로 진단이 확정되었을 때(다만, 소액암 각각 최초 1회한)",
+          "payment_amount": "100만원(2년 미만 50% 삭감)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 12480,
+          "premium_female": 8510
+        }
+      ]
+    },
+    {
+      "company": "DB생명",
+      "product_name": "(무)e로운 암보험(해약환급금 미지급형)(2601)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "98.7 %",
+        "price_index_female": "106.0 %",
+        "coverage_index_cancer_diagnosis": "110.7 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간 : 80,90,100세만기 2. 납입기간 : 10,15,20,25,30년납 3. 가입연령 : 만19세 ~ 최고 60세 *보험기간, 납입기간별로 가입나이는 차이가 있을 수 있습니다. 4. 보험료 및 보험가격지수 예시기준 : 해약환급금 미지급형, 주계약 가입금액 3,000만원, 남/여 40세, 80세만기, 20년납, 월납 5. 보장범위지수 세부산출 기준 - 해약환급금 미지급형, 남자, 40세, 10년만기, 전기납, 월납 - 암 진단자금 1,000만원, 소액암(기타피부암, 갑상선암, 제자리암 및 경계성종양)진단자금 200만원 6. 선택특약 예시 기준 - (무)항암약물치료보장특약Ⅱ(갱신형)(O), (무)항암방사선치료보장특약Ⅱ(갱신형)(O), (무)특정항암호르몬약물허가치료보장특약Ⅱ(갱신형)(O), (무)항암양성자방사선치료보장특약Ⅱ(갱신형)(O): 10년만기 전기납 갱신형 ※ 기타 자세한 사항은 상품요약서 참조",
+        "contact_number": "1588-3131"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암 진단자금",
+          "payment_condition": "암보장개시일 이후 암(기타피부암, 특정갑상선암, 대장점막내암, 경계성종양, 제자리암 제외) 진단확정시(최초 1회한) ※ 암 진단자금 중 계약일로부터 1년 미만 ‘유방암’ 이외의 ‘암’ 진단시 지급사유 발생시 해당 보험금의 50% 지급. 또한 ‘유방암’의 경우 계약일로부터 180일 이내 진단시 해당 보험금의 20%, 1년미만 진단시 해당 보험 금의 50% 지급.",
+          "payment_amount": "3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36300,
+          "premium_female": 31800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 기타피부암, 제자리암, 대장점막내암, 경계성종양, 특정갑상선암으로 진단이 확정되었을 때(각 최초 1회한)",
+          "payment_amount": "600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36300,
+          "premium_female": 31800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정3대암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암 보장개시일 이후에 특정3대암으로 진단이 확정되었을 때(최초 1회한) ※ 특정3대암: 백혈병？뇌암？림프절/골수관련암",
+          "payment_amount": "3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36300,
+          "premium_female": 31800
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)항암약물치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "암보장개시일 이후에 암, 보장개시일 이후 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암으로 진단이 확정되고, 그 암 또는 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암의 직접적인 치료를 목적으로 항암약물치료를 받았을 때(각 최초 1회한)",
+          "payment_amount": "암, 대장점막내암 200만원(기타피부암, 제자리암, 경계성종양, 갑상선암의 경우 40만원)",
+          "coverage_amount": "200만원",
+          "premium_male": 210,
+          "premium_female": 508
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)항암방사선치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "보험기간 중 피보험자가 암 보장개시일 이후에 암, 보장개시일 이후에 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암으로 진단이 확정되고, 그 암 또는 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암의 직접적인 치료를 목적으로 항암방사선치료를 받았을 때(각 최초 1회한)",
+          "payment_amount": "암, 대장점막내암 200만원(기타피부암, 제자리암, 경계성종양, 갑상선암의 경우 40만원)",
+          "coverage_amount": "200만원",
+          "premium_male": 138,
+          "premium_female": 452
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)특정항암호르몬약물허가치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "암 보장개시일 이후 암 또는 보장개시일 이후 대장점막내암으로 진단 확정되고, 그 암 또는 대장점막내암의 직접적인 치료를 목적으로 특정항암호르몬약물허가치료를 받았을 때(최초 1회한)",
+          "payment_amount": "100만원",
+          "coverage_amount": "100만원",
+          "premium_male": 18,
+          "premium_female": 20
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)항암양성자방사선치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "암 보장개시일 이후 암 또는 보장개시일 이후 기타피부암, 갑상선암, 대장점막내암으로 진단 확정되고, 그 암 또는 기타피부암, 갑상선암, 대장점막내암의 직접적인 치료를 목적으로 항암양성자방사선치료를 받았을 때(최초 1회한)",
+          "payment_amount": "2,000만원",
+          "coverage_amount": "2,000만원",
+          "premium_male": 360,
+          "premium_female": 500
+        }
+      ]
+    },
+    {
+      "company": "DB생명",
+      "product_name": "(무)e로운 암보험(갱신형)(2601)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "120.1 %",
+        "price_index_female": "120.6 %",
+        "coverage_index_cancer_diagnosis": "110.6 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간 : 10년, 20년만기 갱신형, 최대 100세 만기 * 최종 갱신계약의 보험기간 만료일은 피보험자의 100세 계약해당일로 한다. * 최종 갱신계약의 보험기간 만료일이 '10년만기의 경우 10년', '20년만기의 경우 20년' 미만일 경우에는 갱신일부터 최종 갱신계약의 보험기간 만료일까지를 보험기간으로 합니다. 2. 납입기간 : 전기납 3. 가입연령 : 만19세 ~ 최고 60세 4. 보험료 및 보험가격지수 예시기준 : 주계약 가입금액 3,000만원, 남/여 40세, 20년만기, 전기납, 월납 5. 보장범위지수 세부산출 기준 - 남자, 40세, 10년만기, 전기납, 월납, 최초계약기준 - 암 진단자금 1,000만원, 소액암(기타피부암, 갑상선암, 제자리암 및 경계성종양)진단자금 200만원 6. 선택특약 예시 기준 - (무)항암약물치료보장특약Ⅱ(갱신형)(O), (무)항암방사선치료보장특약Ⅱ(갱신형)(O), (무)특정항암호르몬약물허가치료보장특약Ⅱ(갱신형)(O), (무)항암양성자방사선치료보장특약Ⅱ(갱신형)(O): 10년만기 전기납 갱신형 * 기타 자세한 사항은 상품요약서 참조",
+        "contact_number": "1588-3131"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암 진단자금",
+          "payment_condition": "암보장개시일 이후 암(기타피부암, 특정갑상선암, 대장점막내암, 경계성종양, 제자리암 제외) 진단확정시(최초1회한) ※ 최초계약의 경우 암 진단자금 중 계약일로부터1년 미만 ‘유방암’ 이외의 ‘암’ 진단시 지급사유 발생시 해당 보험금의 50% 지급. 또한 ‘유방암’의 경우 최초계약일로부터 180일 이내 진단시 해당 보험금 의 20%, 1년미만 진단시 해당 보험금의 50% 지급. ※ 계약일로부터 1년 미만 및 180일 경과이전의 보험금 감액과 관련된 사항은 갱신계약의 경우에는 적용하지 않습니다.",
+          "payment_amount": "3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 15300,
+          "premium_female": 21000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 기타피부암, 제자리암, 대장점막내암, 경계성종양, 특정갑상선암으로 진단이 확정되었을 때(각 최초1회한) ※ 최초계약의 경우 1년미만 지급사유 발생 시 해당 보험금의 50% 지급",
+          "payment_amount": "600만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 15300,
+          "premium_female": 21000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정3대암 진단자금",
+          "payment_condition": "보험기간 중 피보험자가 암 보장개시일 이후에 특정3대암으로 진단이 확정되었을 때(최초1회한) ※ 특정3대암: 백혈병？뇌암？림프절/골수관련암 ※ 최초계약의 경우 1년미만 지급사유 발생 시 해당 보험금의 50% 지급",
+          "payment_amount": "3,000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 15300,
+          "premium_female": 21000
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)항암약물치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "암보장개시일 이후에 암, 보장개시일 이후 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암으로 진단이 확정되고, 그 암 또는 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암의 직접적인 치료를 목적으로 항암약물치료를 받았을 때(각 최초1회한)",
+          "payment_amount": "암, 대장점막내암 200만원(기타피부암, 제자리암, 경계성종양, 갑상선암의 경우 40만원)",
+          "coverage_amount": "200만원",
+          "premium_male": 210,
+          "premium_female": 508
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)항암방사선치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "보험기간 중 피보험자가 암 보장개시일 이후에 암, 보장개시일 이후에 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암으로 진단이 확정되고, 그 암 또는 대장점막내암, 기타피부암, 제자리암, 경계성종양, 갑상선암의 직접적인 치료를 목적으로 항암방사선치료를 받았을 때(각 최초1회한)",
+          "payment_amount": "암, 대장점막내암 200만원(기타피부암, 제자리암, 경계성종양, 갑상선암의 경우 40만원)",
+          "coverage_amount": "200만원",
+          "premium_male": 138,
+          "premium_female": 452
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)특정항암호르몬약물허가치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "암 보장개시일 이후 암 또는 보장개시일 이후 대장점막내암으로 진단 확정되고, 그 암 또는 대장점막내암의 직접적인 치료를 목적으로 특정항암호르몬약물허가치료를 받았을 때(최초1회한)",
+          "payment_amount": "100만원",
+          "coverage_amount": "100만원",
+          "premium_male": 18,
+          "premium_female": 20
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)항암양성자방사선치료보장특약Ⅱ(갱신형)(O)",
+          "payment_condition": "암 보장개시일 이후 암 또는 보장개시일 이후 기타피부암, 갑상선암, 대장점막내암으로 진단 확정되고, 그 암 또는 기타피부암, 갑상선암, 대장점막내암의 직접적인 치료를 목적으로 항암양성자방사선치료를 받았을 때(최초1회한)",
+          "payment_amount": "2,000만원",
+          "coverage_amount": "2,000만원",
+          "premium_male": 360,
+          "premium_female": 500
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 메트라이프 대장암및소장암진단보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "125.1 %",
+        "price_index_female": "124.0 %",
+        "coverage_index_cancer_diagnosis": "18.1 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 60세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 500만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 500만원, 40세 5. 보장범위지수 예시 기준 : 1년만기, 월납, 가입금액 1,000만원, 40세 남 6. 보험료 예시 기준 : 가입금액 500만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "대장암및소장암진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에“대장암 및 소장암”으로 진단 확정되었을 때 (최초 1회에 한하여 지급)",
+          "payment_amount": "500만원",
+          "coverage_amount": "500만원",
+          "premium_male": 2950,
+          "premium_female": 2300
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 메트라이프 간암및췌장암진단보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "134.3 %",
+        "price_index_female": "170.5 %",
+        "coverage_index_cancer_diagnosis": "14.9 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 60세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 500만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 500만원, 40세 5. 보장범위지수 예시 기준 : 1년만기, 월납, 40세 남, 가입금액 1,000만원 6. 보험료 예시 기준 : 가입금액 500만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "간암 및 췌장암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에“간암 및 췌장암”으로 진단 확정되었을 때 (최초 1회에 한하여 지급)",
+          "payment_amount": "500만원",
+          "coverage_amount": "500만원",
+          "premium_male": 1900,
+          "premium_female": 1100
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 메트라이프 폐암및후두암진단보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "167.0 %",
+        "price_index_female": "170.5 %",
+        "coverage_index_cancer_diagnosis": "6.6 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 60세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 500만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 500만원, 40세 5. 보장범위지수 예시 기준 : 1년만기, 월납, 가입금액 1,000만원, 40세 남 6. 보험료 예시 기준 : 가입금액 500만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "폐암및후두암진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에“폐암 및 후두암”으로 진단 확정되었을 때 (최초 1회에 한하여 지급)",
+          "payment_amount": "500만원",
+          "coverage_amount": "500만원",
+          "premium_male": 1050,
+          "premium_female": 1100
+        }
+      ]
+    },
+    {
+      "company": "메트라이프생명",
+      "product_name": "무배당 메트라이프 위암및식도암진단보험",
+      "price_info": {
+        "interest_rate_fixed": "2.30 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "130.2 %",
+        "price_index_female": "127.0 %",
+        "coverage_index_cancer_diagnosis": "16.5 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 60세 2. 보험기간 및 납입기간 : 1년 만기 및 일시납 3. 보험가입금액 : 500만원 4. 보험가격지수 예시 기준 : 1년만기, 일시납, 가입금액 500만원, 40세 5. 보장범위지수 예시 기준 : 1년만기, 월납, 40세 남, 가입금액 1,000만원 6. 보험료 예시 기준 : 가입금액 500만원, 40세 남/여, 1년만기, 일시납",
+        "contact_number": "1588-9600"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "위암및식도암진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에“위암 및 식도암”으로 진단 확정되었을 때 (최초 1회에 한하여 지급)",
+          "payment_amount": "500만원",
+          "coverage_amount": "500만원",
+          "premium_male": 2150,
+          "premium_female": 2150
+        }
+      ]
+    },
+    {
+      "company": "KB라이프생명",
+      "product_name": "KB 착한암보험 무배당(해약환급금 미지급형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "98.1 %",
+        "price_index_female": "93.3 %",
+        "coverage_index_cancer_diagnosis": "105.8 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 상품형태 : 표준형, 해약환급금 미지급형 2. 가입나이: 만19 ~ 최대 64세 3. 보험기간: 80, 100세만기 4. 납입기간 : 전기납 5. 보험료 기준 : 해약환급금 미지급형, 40세, 80세만기, 전기납, 월납, 가입금액 3,000만원 6. 보험가격지수 기준 : 해약환급금 미지급형, 40세, 80세만기, 전기납, 월납, 가입금액 3,000만원 7. 보장범위지수 기준 : 해약환급금 미지급형, 남자40세, 10년만기, 10년납, 월납, 가입금액 1,000만원",
+        "contact_number": "1588-3374"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금",
+          "payment_condition": "피보험자가 보험기간 중 “암보장개시 일” 이후에 “암”으로 진단확정 되었을 때 [다만, 각각 최초 1회에 한함]",
+          "payment_amount": "고액암 : 6,000만원(1년 이상) : 3,000만원(1년 미만) 유방암, 남녀생식기암 및 고액암 제외한 암 : 3,000만원(1년 이상) : 1,500만원(1년 미만) 유방암 : 600만원(1년 이상) : 300만원(1년 미만) 남녀생식기암 : 600만원(1년 이상) : 300만원(1년 미만)",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 26700,
+          "premium_female": 15300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금",
+          "payment_condition": "피보험자가 보험기간 중 “기타피부 암”, “제자리암”, “경계성종양”, “중증갑 상선암” 이외의 “갑상선암” 및 “대장 점막내암”으로 진단확정 되었을 때 [다만, 각각 최초 1회에 한함]",
+          "payment_amount": "기타피부암 : 600만원(1년 이상) : 300만원(1년 미만) 제자리암 : 600만원(1년 이상) : 300만원(1년 미만) 경계성종양 : 600만원(1년 이상) : 300만원(1년 미만) 중증갑상선암 이외의 갑상선암 : 600만원(1년 이상) : 300만원(1년 미만) 대장점막내암 : 600만원(1년 이상) : 300만원(1년 미만)",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 26700,
+          "premium_female": 15300
+        }
+      ]
+    },
+    {
+      "company": "KB라이프생명",
+      "product_name": "KB 착한암보험 무배당",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "97.2 %",
+        "price_index_female": "92.4 %",
+        "coverage_index_cancer_diagnosis": "106.3 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 상품형태 : 표준형, 해약환급금 미지급형 2. 가입나이: 만19 ~ 최대 64세 3. 보험기간: 80, 100세만기 4. 납입기간 : 전기납 5. 보험료 기준 : 표준형, 40세, 80세만기, 전기납, 월납, 가입금액 3,000만원 6. 보험가격지수 기준 : 표준형, 40세, 80세만기, 전기납, 월납, 가입금액 3,000만원 7. 보장범위지수 기준 : 표준형, 남자40세, 10년만기, 10년납, 월납, 가입금액 1,000만원",
+        "contact_number": "1588-3374"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금",
+          "payment_condition": "피보험자가 보험기간 중 “암보장개시 일” 이후에 “암”으로 진단확정 되었을 때 [다만, 각각 최초 1회에 한함]",
+          "payment_amount": "고액암 : 6,000만원(1년 이상) : 3,000만원(1년 미만) 유방암, 남녀생식기암 및 고액암 제외한 암 : 3,000만원(1년 이상) : 1,500만원(1년 미만) 유방암 : 600만원(1년 이상) : 300만원(1년 미만) 남녀생식기암 : 600만원(1년 이상) : 300만원(1년 미만)",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 27600,
+          "premium_female": 15600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금",
+          "payment_condition": "피보험자가 보험기간 중 “기타피부 암”, “제자리암”, “경계성종양”, “중증갑 상선암” 이외의 “갑상선암” 및 “대장 점막내암”으로 진단확정 되었을 때 [다만, 각각 최초 1회에 한함]",
+          "payment_amount": "기타피부암 : 600만원(1년 이상) : 300만원(1년 미만) 제자리암 : 600만원(1년 이상) : 300만원(1년 미만) 경계성종양 : 600만원(1년 이상) : 300만원(1년 미만) 중증갑상선암 이외의 갑상선암 : 600만원(1년 이상) : 300만원(1년 미만) 대장점막내암 : 600만원(1년 이상) : 300만원(년 미만)",
+          "coverage_amount": "3,000만원 원",
+          "premium_male": 27600,
+          "premium_female": 15600
+        }
+      ]
+    },
+    {
+      "company": "신한라이프생명",
+      "product_name": "신한SOL암보험(무배당, 해약환급금 미지급형)",
+      "price_info": {
+        "interest_rate_fixed": "2.10 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "95.7 %",
+        "price_index_female": "105.9 %",
+        "coverage_index_cancer_diagnosis": "87.7 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간 : 10/20/30년만기, 60/70/80세만기 2. 보험형태 : 해약환급급 미지급형, 일반형 3. 가입나이 : 만19세 ~ 60세 4. 보험료 예시기준 : 해약환급금 미지급형, 가입금액 3,000만원 남ㆍ여 40세, 80세만기, 20년납, 월납(주계약 특약 동일 조건) 5. 보장범위지수 산출시 개별상품 위험보험료 기준 ·암진단급여금 : 1,000만원 ·여성유방암진단급여금: 300만원 ·전립선암진단급여금 : 300만원 ·소액암진단금 : 100만원",
+        "contact_number": "1588-5580"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 “암” 및 “중증 갑상선암” 보장개시일 이 후에 “「여성유방암 및 전립선암」 이외의 암” 또는 “중증 갑상선 암”으로 진단확정 되었을 때 (다 만, 최초 1회의 진단확정에 한함)",
+          "payment_amount": "보험가입금액의 100% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 50%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 28350,
+          "premium_female": 21480
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "여성유방암 진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 “암” 및 “중증 갑상선암” 보장개시일 이 후 “여성유방암”으로 진단확정 되었을 때 (다만, 최초 1회의 진 단확정에 한함)",
+          "payment_amount": "보험가입금액의 30% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 15%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 28350,
+          "premium_female": 21480
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "전립선암 진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 “암” 및 “중증 갑상선암” 보장개시일 이 후 “전립선암”으로 진단확정 되 었을 때 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "보험가입금액의 30% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 15%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 28350,
+          "premium_female": 21480
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 보장개 시일 이후에 “기타피부암”, “중증 이외 갑상선암”, “제자리암”, “경 계성종양”, “대장점막내암”, “비 침습방광암”으로 진단확정 되었 을 때 (다만, 각각 최초1회의 진 단확정에 한함)",
+          "payment_amount": "보험가입금액의 10% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 5%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 28350,
+          "premium_female": 21480
+        },
+        {
+          "category": "특약",
+          "benefit_name": "신한SOL암보험 암사망특약 (무배당, 해약환급금 미지급형)",
+          "payment_condition": "특약보험기간 중 피보험자가 보장개시일(“암” 및 “중증 갑상선암”의 경우 “암” 및 “중증 갑상선암” 보장개시일) 이후에 “암”, “기타피부암”, “갑상선암”, “대장점막내암” 또는 “비침습방광암”으로 진단확정 되고, 특약보험기간 중 그 “암”, “기타피부암”, “갑 상선암”, “대장점막내암” 또는 “비침습방광암”을 직 접적인 원인으로 사망하였을 때",
+          "payment_amount": "특약보험가입금액의 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 9540,
+          "premium_female": 4770
+        }
+      ]
+    },
+    {
+      "company": "신한라이프생명",
+      "product_name": "신한SOL암보험(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.10 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "89.7 %",
+        "price_index_female": "99.7 %",
+        "coverage_index_cancer_diagnosis": "88.5 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간 : 10/20/30년만기, 60/70/80세만기 2. 보험형태 : 해약환급금 미지급형, 일반형 3. 가입나이 : 만19세 ~ 60세 4. 보험료 예시기준 : 일반형, 가입금액 3,000만원 남ㆍ여 40세, 80세만기, 20년납, 월납 (주계약, 특약 동일 조건) 5. 보장범위지수 산출시 개별상품 위험보험료 기준 ·암진단급여금 : 1,000만원 ·여성유방암진단급여금: 300만원 ·전립선암진단급여금 : 300만원 ·소액암진단금 : 100만원",
+        "contact_number": "1588-5580"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 “암” 및 “중증 갑상선암” 보장개시일 이 후에 “「여성유방암 및 전립선암」 이외의 암” 또는 “중증 갑상선 암”으로 진단확정 되었을 때 (다 만, 최초 1회의 진단확정에 한함)",
+          "payment_amount": "보험가입금액의 100% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 50%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 33840,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "여성유방암 진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 “암” 및 “중증 갑상선암” 보장개시일 이 후 “여성유방암”으로 진단확정 되었을 때 (다만, 최초 1회의 진 단확정에 한함)",
+          "payment_amount": "보험가입금액의 30% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 15%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 33840,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "전립선암 진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 “암” 및 “중증 갑상선암” 보장개시일 이 후 “전립선암”으로 진단확정 되 었을 때 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "보험가입금액의 30% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 15%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 33840,
+          "premium_female": 24450
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 진단급여금",
+          "payment_condition": "보험기간 중 피보험자가 보장개 시일 이후에 “기타피부암”, “중증 이외 갑상선암”, “제자리암”, “경 계성종양”, “대장점막내암”, “비 침습방광암”으로 진단확정 되었 을 때 (다만, 각각 최초1회의 진 단확정에 한함)",
+          "payment_amount": "보험가입금액의 10% (다만, 계약일부터 1년 미만에 지급사유가 발생한 경우 “보험가입금액의 5%”를 지급함)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 33840,
+          "premium_female": 24450
+        },
+        {
+          "category": "특약",
+          "benefit_name": "신한SOL암보험 암사망특약(무배당)",
+          "payment_condition": "특약보험기간 중 피보험자가 보장개시일(“암” 및 “중증 갑상선암”의 경우 “암” 및 “중증 갑상선암” 보장개시일) 이후에 “암”, “기타피부암”, “갑상선암”, “대장점막내암” 또는 “비침습방광암”으로 진단확정 되고, 특약보험기간 중 그 “암”, “기타피부암”, “갑 상선암”, “대장점막내암” 또는 “비침습방광암”을 직 접적인 원인으로 사망하였을 때",
+          "payment_amount": "3000만원",
+          "coverage_amount": "3000만원",
+          "premium_male": 12030,
+          "premium_female": 5820
+        }
+      ]
+    },
+    {
+      "company": "BNP파리바카디프생명",
+      "product_name": "(무)6180실버 암보험(갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "121.8 %",
+        "price_index_female": "156.1 %",
+        "coverage_index_cancer_diagnosis": "87.0 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "만기환급",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "방카슈랑스 CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이: 최초계약 61세~80세 2. 보험기간: 최초계약 또는 갱신계약 10년/86세 이상 갱신시 100세만기 3. 보험료 납입기간: 전기납 4. 보험료 납입주기: 월납/ 연납 5. 보험가격지수 예시 기준: 남자, 65세, 10년만기, 전기납, 월납, 가입금액 2,000만원 6. 보장범위지수 예시 기준: 남자, 60세, 10년만기, 전기납, 월납, 가입금액 1,000만원 (보장범위지수 산출시 개별상품 위험보험료는 일반암진단금 1,000만원, 소액암진단금 100만원, 고액암진단금 2,000만원 기준으로 산출) 7. 보험료 예시 기준: 65세, 10년만기, 전기납, 월납, 가입금액 1,000만원",
+        "contact_number": "1688-1118"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "'고액암' 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 '고액암'으로 진단확정 되었을 경우 (다만, 1회의 진단확정에 한함)",
+          "payment_amount": "최초계약(2년 초과) 및 갱신계약 : 1,000만 원 최초계약(2년 이내) : 500만 원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 22400,
+          "premium_female": 13600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "'「유방암 또는 '전립선암」 이외의 암' 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 '「유방암 또는 전립선암」 이외의 암'으로 진단확정 되었을 경우 (다만, 1회의 진단확정에 한함)",
+          "payment_amount": "최초계약(2년 초과) 및 갱신계약 : 1,000만 원 최초계약(2년 이내) : 500만 원 '유방암 또는 전립선암' 진단확정이 있는 경우, '유방암 또는 전립선암' 진단보험금을 차감 후 지급",
+          "coverage_amount": "1,000만원",
+          "premium_male": 22400,
+          "premium_female": 13600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "'유방암 또는 전립선암' 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 '유방암 또는 전립선암' 으로 진단확정 되었을 경우 (다만, 1회의 진단확정에 한함)",
+          "payment_amount": "최초계약(2년 초과) 및 갱신계약 : 200만 원 최초계약(2년 이내) : 100만 원 '「유방암 또는 전립선암」 이외의 암' 진단확정이 있는 경우, 지급금액 없음",
+          "coverage_amount": "1,000만원",
+          "premium_male": 22400,
+          "premium_female": 13600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "기타피부암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 '기타피부암'으로 진단확정 되었을 경우 (다만, 최초 1회의 진단확정에 한함)",
+          "payment_amount": "최초계약(2년 초과) 및 갱신계약 : 100만 원 최초계약(2년 이내) : 50만 원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 22400,
+          "premium_female": 13600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 '갑상선암'으로 진단확정 되었을 경우 (다만, 최초 1회의 진단확정에 한함)",
+          "payment_amount": "최초계약(2년 초과) 및 갱신계약 : 100만 원 최초계약(2년 이내) : 50만 원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 22400,
+          "premium_female": 13600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "제자리암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 '제자리암'으로 진단확정 되었을 경우 (다만, 최초 1회의 진단확정에 한함)",
+          "payment_amount": "최초계약(2년 초과) 및 갱신계약 : 100만 원 최초계약(2년 이내) : 50만 원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 22400,
+          "premium_female": 13600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "경계성종양 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 '경계성종양'으로 진단확정 되었을 경우 (다만, 최초 1회의 진단확정에 한함)",
+          "payment_amount": "최초계약(2년 초과) 및 갱신계약 : 100만 원 최초계약(2년 이내) : 50만 원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 22400,
+          "premium_female": 13600
+        }
+      ]
+    },
+    {
+      "company": "라이나생명",
+      "product_name": "(무)라이나다이렉트암보험(갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "156.9 %",
+        "price_index_female": "158.4 %",
+        "coverage_index_cancer_diagnosis": "92.0 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이: 최초계약 기준 20세 ~ 50세 2. 보험기간: 10년만기 3. 납입기간: 전기납 4. 보험료 및 보험가격지수 예시기준: 최초계약, 40세, 10년만기, 전기납, 월납, 가입금액 3,000만원 5. 보험료는 다이렉트 홈페이지에서 직접 가입 시 3% 할인이 적용된 보험료 6. 보장범위지수 예시기준 : 최초계약, 40세, 10년만기, 전기납, 월납, 암(유방암/전립선암 제외) 1,000만원, 유방암/전립선암 200만원, 갑상선암•기타피부암•제자리암•경계성종양 100만원 기준",
+        "contact_number": "15880058"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암(유방암/전립선 암 제외) 치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 “암(유방암/전립선 암 제외)”으로 진단확정 되었을 때 (단, 최초1회에 한하여 지급함)",
+          "payment_amount": "3,000만원 (단, 보험계약일로부터 1년이 지난 보 험계약해당일 전일 이전에 지급사유 가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 10767,
+          "premium_female": 13386
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "유방암/전립선암 치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 “유방암/전립선암” 으로 진단확정 되었을 때 (단, 최초1회에 한하여 지급함",
+          "payment_amount": "600만원 (단, 보험계약일로부터 1년이 지난 보 험계약해당일 전일 이전에 지급사유 가 발생하였을 경우에는 상기금액의 50%를 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 10767,
+          "premium_female": 13386
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암 치료보험금/기타피부암 치료보험금/제자리암(상피내암) 치료보험금/ 경계성종양 치료보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 “갑상선암”, “기타피 부암”, “제자리암(상피내암)” 또는 “경계성종양”으로 진단확정 되었 을 때 (단, 각각 최초 1회에 한하여 지 급함)",
+          "payment_amount": "300만원 (단, 보험계약일로부터 1년이 지난 보 험계약해당일 전일 이전에 지급사유 가 발생하였을 경우에는 상기금액의 50%를 지급",
+          "coverage_amount": "3,000만원",
+          "premium_male": 10767,
+          "premium_female": 13386
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 다이렉트7대고액암특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 암보장 개시일 이후에 “7대 고액암”으 로 진단확정 되었을 때 (단, 최초 1회에 한하여 지급함)",
+          "payment_amount": "3,000만원 (단, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상 기금액의 50%를 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 1746,
+          "premium_female": 1164
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 다이렉트여성특화암보장특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 암보장 개시일 이후에 “여성특화암”으 로 진단확정 되었을 때 (단, 최초 1회에 한하여 지급함)",
+          "payment_amount": "1,000만원 (단, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상 기금액의 50%를 지급)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 0,
+          "premium_female": 5141
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 다이렉트남성특화암보장특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 암보장 개시일 이후에 “남성특화암”으 로 진단확정 되었을 때 (단, 최초 1회에 한하여 지급함)",
+          "payment_amount": "1,000만원 (단, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상 기금액의 50%를 지급)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 436,
+          "premium_female": 0
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 다이렉트위암보장특약(갱신형)",
+          "payment_condition": "피보험자가 보험기간 중 암보장 개시일 이후에 “위암”으로 진단 확정 되었을 때 (단, 최초 1회에 한하여 지급함)",
+          "payment_amount": "2,000만원 (단, 보험계약일부터 1년이 지난 보험계약해당일 전일 이전에 지급사유가 발생하였을 경우에는 상 기금액의 50%를 지급)",
+          "coverage_amount": "2,000만원",
+          "premium_male": 1145,
+          "premium_female": 1145
+        }
+      ]
+    },
+    {
+      "company": "AIA생명",
+      "product_name": "(무) AIA 100세 든든 슈퍼 암보험 (갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "173.5 %",
+        "price_index_female": "155.0 %",
+        "coverage_index_cancer_diagnosis": "66.5 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "TM CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간: 10년만기 갱신 (최대 100세까지 보장) 2. 납입기간: 전기납 3. 가입연령: (최초계약)20세~65세 4. 보험가격지수: 40세, 10년만기, 전기월납, 주계약 300구좌[일반암진단급여금 3,000만원] 기준 5. 보장범위지수: 남자 40세, 10년만기, 전기월납, 주계약 100구좌[일반암진단급여금 1,000만원] 기준 6. 보험료: 최초계약, 10년만기, 전기월납, 40세, 주계약 300구좌[일반암진단급여금 3,000만원] 기준 단, (무) 신 고액암특약O (갱신형) 최초계약, 10년만기, 전기월납, 40세, 30구좌[고액암진단급여금 3,000만원 기준] (무) 신 뇌출혈진단특약O (갱신형) 최초계약, 10년만기, 전기월납, 40세, 10구좌[뇌출혈진단급여금 1,000만원 기준] (무) 신 급성심근경색증진단특약O (갱신형) 최초계약, 10년만기, 전기월납, 40세, 10구좌[급성심근경색증진단급여금 1,000만원 기준] (무) 표적항암약물허가치료특약O (갱신형) 최초계약, 10년만기, 전기월납, 40세, 10구좌[표적항암약물허가치료급여금 1,000만원 기준]",
+        "contact_number": "1588-9898"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "일반암 진단급여금",
+          "payment_condition": "일반암 진단(90일이후) 최초1회한",
+          "payment_amount": "3,000만원(1년미만 50%)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 9000,
+          "premium_female": 12000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "특정암 진단급여금",
+          "payment_condition": "특정암 진단(90일이후) 최초1회한",
+          "payment_amount": "600만원(1년미만 50%)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 9000,
+          "premium_female": 12000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "기타피부암 진단급여금",
+          "payment_condition": "기타피부암 진단 최초1회한",
+          "payment_amount": "300만원(1년미만 50%)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 9000,
+          "premium_female": 12000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "갑상선암 진단급여금",
+          "payment_condition": "갑상선암 진단 최초1회한",
+          "payment_amount": "300만원(1년미만 50%)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 9000,
+          "premium_female": 12000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "제자리암 진단급여금",
+          "payment_condition": "제자리암 진단 최초1회한",
+          "payment_amount": "300만원(1년미만 50%)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 9000,
+          "premium_female": 12000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "경계성종양 진단급여금",
+          "payment_condition": "경계성종양 진단 최초1회한",
+          "payment_amount": "300만원(1년미만 50%)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 9000,
+          "premium_female": 12000
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무) 신 고액암특약O (갱신형)",
+          "payment_condition": "고액암 진단(90일이후) 최초1회한",
+          "payment_amount": "3,000만원(1년미만 50%)",
+          "coverage_amount": "3,000 만원",
+          "premium_male": 1380,
+          "premium_female": 930
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무) 신 뇌출혈진단특약O (갱신형)",
+          "payment_condition": "뇌출혈 진단 최초1회한",
+          "payment_amount": "1,000만원(1년미만 50%)",
+          "coverage_amount": "1,000 만원",
+          "premium_male": 770,
+          "premium_female": 610
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무) 신 급성심근경색증진단특약O (갱신형)",
+          "payment_condition": "급성심근경색증 진단 최초1회한",
+          "payment_amount": "1,000만원(1년미만 50%)",
+          "coverage_amount": "1,000 만원",
+          "premium_male": 950,
+          "premium_female": 270
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무) 표적항암약물허가치료특약O (갱신형)",
+          "payment_condition": "표적항암약물허가치료(암(90일이후), 기타피부암, 갑상선암 진단) 최초1회한",
+          "payment_amount": "1,000만원(1년미만 50%)",
+          "coverage_amount": "1,000만원",
+          "premium_male": 750,
+          "premium_female": 1200
+        }
+      ]
+    },
+    {
+      "company": "NH농협생명",
+      "product_name": "NHe편한암보험(갱신형,비갱신형,무배당)_(갱신형, 일반가입형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "127.2 %",
+        "price_index_female": "140.7 %",
+        "coverage_index_cancer_diagnosis": "135 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-01-01",
+        "special_notes": "1. 가입나이 : 20세 ~ 60세 2. 가입한도 : 최저 1,000만원 ~ 4,000만원, 1,000만원단위 3. 보험기간 : 20년만기, 갱신시 최대 100세까지 갱신가능 4. 판매채널 : CM 5. 위 보험료 및 보험가격지수 예시는 40세, 1종(갱신형), 2형(일반가입형), 20년만기, 월납, 전기납, 가입금액 3,000만원, 최초계약기준입니다. 6. 보장범위지수 산출시 개별상품 위험보험료는 일반암진단보험금 1,000만원, 유방암 또는 남녀생식기관련암진단보험금 300만원, 소액암진단보험금 200만원(대장점막내암 포함), 고액암진단보험금 2,000만원 기준으로 산출되었습니다.",
+        "contact_number": "1544-4000"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금(1)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 ‘암’으로 진단확정 되었을때 ‘9대고액암’ (다만, 최초1회에 한하여 지급)",
+          "payment_amount": "3,000만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 21000,
+          "premium_female": 17700
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금(2)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 ‘암’으로 진단확정 되었을때 ‘9대고액암’ 또는 ‘일반암‘ (다만, 최초1회에 한하여 지급)",
+          "payment_amount": "2,100만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 21000,
+          "premium_female": 17700
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금(3)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 ‘암’으로 진단확정 되었을때 ‘9대고액암’, ‘일반암’ 또는 ？유방암 또는 남녀생식기관련암？ (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "900만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 21000,
+          "premium_female": 17700
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 진단보험금",
+          "payment_condition": "\"피보험자가 보험기간 중 기타피부암, 중증 이외의 갑상선암, 대장점막내암, 제자리암 또는 경계성종양으로 진단확정 되었을 때 (다만, 각각 최초 1회에 한하여 지급)",
+          "payment_amount": "600만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 21000,
+          "premium_female": 17700
+        }
+      ]
+    },
+    {
+      "company": "NH농협생명",
+      "product_name": "NHe편한암보험(갱신형,비갱신형,무배당)_(비갱신형, 일반가입형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "90.4 %",
+        "price_index_female": "100.8 %",
+        "coverage_index_cancer_diagnosis": "135 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "순수보장",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-01-01",
+        "special_notes": "1. 가입나이 : 20세 ~ 60세 2. 가입한도 : 최저 1,000만원 ~ 4,000만원, 1,000만원단위 3. 보험기간 : 100세 만기 4. 판매채널 : CM 5. 위 보험료 및 보험가격지수 예시는 40세, 2종(비갱신형), 2형(일반가입형), 100세 만기, 월납, 20년납, 가입금액 3,000만원, 최초계약기준입니다. 6. 보장범위지수 산출시 개별상품 위험보험료는 일반암진단보험금 1,000만원, 유방암 또는 남녀생식기관련암진단보험금 300만원, 소액암진단보험금 200만원(대장점막내암 포함), 고액암진단보험금 2,000만원 기준으로 산출되었습니다.",
+        "contact_number": "1544-4000"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금(1)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 ‘암’으로 진단확정 되었을때 ‘9대고액암’ (다만, 최초1회에 한하여 지급)",
+          "payment_amount": "3,000만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 89100,
+          "premium_female": 54600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금(2)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 ‘암’으로 진단확정 되었을때 ‘9대고액암’ 또는 ‘일반암‘ (다만, 최초1회에 한하여 지급)",
+          "payment_amount": "2,100만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 89100,
+          "premium_female": 54600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "암진단 보험금(3)",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에 ‘암’으로 진단확정 되었을때 ‘9대고액암’, ‘일반암’ 또는 ？유방암 또는 남녀생식기관련암？ (다만, 최초 1회에 한하여 지급)",
+          "payment_amount": "900만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 89100,
+          "premium_female": 54600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 기타피부암, 중증 이외의 갑상선암, 대장점막내암, 제자리암 또는 경계성종양으로 진단확정 되었을 때 (다만, 각각 최초 1회에 한하여 지급)",
+          "payment_amount": "600만원 (1년미만 50% 지급)",
+          "coverage_amount": "3,000만원",
+          "premium_male": 89100,
+          "premium_female": 54600
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 비갱신암보험(해약환급금 미지급형, 비흡연체)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "94.9 %",
+        "price_index_female": "97.0 %",
+        "coverage_index_cancer_diagnosis": "113.3 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최고 65세 2. 보험기간 : 80세/90세/100세만기 3. 보험료 예시 기준 : 순수보장형, 비흡연체, 주계약 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 [표준체 보험료 대비 남자기준 5.6%, 여자기준 1.0% 할인된 보험료] 4. 보험료 납입기간 : 20년/30년납, 60세/80세납, 전기납 5. 보험료 납입주기 : 월납 6. 보험가격지수 : 순수보장형, 비흡연체, 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 7. 보장범위지수 : 남자 40세, 10년만기, 전기납, 월납 [암진단 개별상품 위험보험료 : 일반암 1,000만원, 고액암 2,000만원, 유방암 및 전립선암 500만원, 소액암 및 유사암 100만원]",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "일반암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「일반암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 3000만원 [가입 후 1년 미만] 1500만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36030,
+          "premium_female": 26790
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고액암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「고액암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 6000만원 [가입 후 1년 미만] 3000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36030,
+          "premium_female": 26790
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "유방암 및 전립선암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「유방암」 또는 「전립선암」으로 진단 확정되었을 경우 (다만, 「유방암」 또는 「전립선암」 중 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 1500만원 [가입 후 1년 미만] 750만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36030,
+          "premium_female": 26790
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 및 유사암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일이후에 「기타피부암」, 「중증 이외 갑상선암」, 「대장점막내암」, 「경계성종양」 또는 「제자리암」으로 진단 확정되었을 경우 (다만, 각각 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 300만원 [가입 후 1년 미만] 150만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 36030,
+          "premium_female": 26790
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)All페이백일반암진단특약(해약환급금 미지급형)(비흡연체)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 ‘암보장개시일’ 이후에 「일반암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[최초계약 가입 후 1년 이후] : 이 계약의 납입보험료 총액 [최초계약 가입 후 1년 미만] : 이 계약의 납입보험료 총액의 50%",
+          "coverage_amount": "100만원",
+          "premium_male": 1177,
+          "premium_female": 689
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 비갱신암보험(만기환급형, 비흡연체)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "105.1 %",
+        "price_index_female": "112.0 %",
+        "coverage_index_cancer_diagnosis": "113.3 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "만기환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 65세 2. 보험기간 : 80세/90세/100세/110세만기 3. 보험료 예시 기준 : 만기지급형, 비흡연체, 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 [표준체 보험료 대비 남자기준 3.2%, 여자기준 0.7% 할인된 보험료] 4. 보험료 납입기간 : 20년/30년납, 60세/80세납, 전기납 5. 보험료 납입주기 : 월납 6. 보험가격지수 : 만기지급형, 비흡연체, 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 7. 보장범위지수 : 남자 40세, 10년만기, 전기납, 월납 [암진단 개별상품 위험보험료 : 일반암 1,000만원, 고액암 2,000만원, 유방암 및 전립선암 500만원, 소액암 및 유사암 100만원]",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "일반암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「일반암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 3000만원 [가입 후 1년 미만] 1500만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 86100,
+          "premium_female": 73230
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고액암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「고액암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 6000만원 [가입 후 1년 미만] 3000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 86100,
+          "premium_female": 73230
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "유방암 및 전립선암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「유방암」 또는 「전립선암」으로 진단 확정되었을 경우 (다만, 「유방암」 또는 「전립선암」 중 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 1500만원 [가입 후 1년 미만] 750만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 86100,
+          "premium_female": 73230
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 및 유사암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일이후에 「기타피부암」, 「중증 이외 갑상선암」, 「대장점막내암」, 「경계성종양」 또는 「제자리암」으로 진단 확정되었을 경우 (다만, 각각 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 300만원 [가입 후 1년 미만] 150만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 86100,
+          "premium_female": 73230
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "만기지급금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에「일반암」으로 진단 확정되지 않고 보험기간이 끝날 때까지 살아 있을 경우",
+          "payment_amount": "이미 납입한 보험료 × 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 86100,
+          "premium_female": 73230
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 비갱신암보험(만기지급형, 표준체)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "108.5 %",
+        "price_index_female": "112.8 %",
+        "coverage_index_cancer_diagnosis": "113.3 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "만기환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 65세 2. 보험기간 : 80세/90세/100세/110세만기 3. 보험료 예시 기준 : 만기지급형, 표준체, 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 4. 보험료 납입기간 : 20년/30년납, 60세/80세납, 전기납 5. 보험료 납입주기 : 월납 6. 보험가격지수 : 만기지급형, 표준체, 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 7. 보장범위지수 : 남자 40세, 10년만기, 전기납, 월납 [암진단 개별상품 위험보험료 : 일반암 1,000만원, 고액암 2,000만원, 유방암 및 전립선암 500만원, 소액암 및 유사암 100만원]",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "일반암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「일반암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 3000만원 [가입 후 1년 미만] 1500만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 88950,
+          "premium_female": 73740
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고액암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「고액암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 6000만원 [가입 후 1년 미만] 3000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 88950,
+          "premium_female": 73740
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "유방암 및 전립선암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「유방암」 또는 「전립선암」으로 진단 확정되었을 경우 (다만, 「유방암」 또는 「전립선암」 중 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 1500만원 [가입 후 1년 미만] 750만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 88950,
+          "premium_female": 73740
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 및 유사암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일이후에 「기타피부암」, 「중증 이외 갑상선암」, 「대장점막내암」, 「경계성종양」 또는 「제자리암」으로 진단 확정되었을 경우 (다만, 각각 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 300만원 [가입 후 1년 미만] 150만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 88950,
+          "premium_female": 73740
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "만기지급금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일 이후에「일반암」으로 진단 확정되지 않고 보험기간이 끝날 때까지 살아 있을 경우",
+          "payment_amount": "이미 납입한 보험료 × 100%",
+          "coverage_amount": "3,000만원",
+          "premium_male": 88950,
+          "premium_female": 73740
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 비갱신암보험(해약환급금 미지급형, 표준체)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "100.5 %",
+        "price_index_female": "97.9 %",
+        "coverage_index_cancer_diagnosis": "113.3 %",
+        "coverage_index_cancer_admission": "-",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "surrender_type": "무해지/저해지환급",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최고 65세 2. 보험기간 : 80세/90세/100세만기 3. 보험료 예시 기준 : 순수보장형, 표준체, 주계약 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 4. 보험료 납입기간 : 20년/30년납, 60세/80세납, 전기납 5. 보험료 납입주기 : 월납 6. 보험가격지수 : 순수보장형, 표준체, 보험가입금액 3,000만원, 40세, 80세만기, 20년납, 월납 7. 보장범위지수 : 남자 40세, 10년만기, 전기납, 월납 [암진단 개별상품 위험보험료 : 일반암 1,000만원, 고액암 2,000만원, 유방암 및 전립선암 500만원, 소액암 및 유사암 100만원]",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "일반암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「일반암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 3000만원 [가입 후 1년 미만] 1500만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 38160,
+          "premium_female": 27060
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "고액암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「고액암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 6000만원 [가입 후 1년 미만] 3000만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 38160,
+          "premium_female": 27060
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "유방암 및 전립선암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 암보장개시일이후에 「유방암」 또는 「전립선암」으로 진단 확정되었을 경우 (다만, 「유방암」 또는 「전립선암」 중 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 1500만원 [가입 후 1년 미만] 750만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 38160,
+          "premium_female": 27060
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "소액암 및 유사암 진단보험금",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일이후에 「기타피부암」, 「중증 이외 갑상선암」, 「대장점막내암」, 「경계성종양」 또는 「제자리암」으로 진단 확정되었을 경우 (다만, 각각 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] 300만원 [가입 후 1년 미만] 150만원",
+          "coverage_amount": "3,000만원",
+          "premium_male": 38160,
+          "premium_female": 27060
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)All페이백일반암진단특약(해약환급금 미지급형)(표준체)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 ‘암보장개시일’ 이후에 「일반암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[최초계약 가입 후 1년 이후] : 이 계약의 납입보험료 총액 [최초계약 가입 후 1년 미만] : 이 계약의 납입보험료 총액의 50%",
+          "coverage_amount": "100만원",
+          "premium_male": 1294,
+          "premium_female": 701
+        }
+      ]
+    }
+  ]
+}
