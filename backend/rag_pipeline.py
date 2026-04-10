@@ -113,7 +113,7 @@ class RAGPipeline:
         self.ins_col  = self.wv.collections.get("InsuranceChunk")
         self.prem_col = self.wv.collections.get("PremiumInfo")
         self.db_conn  = sqlite3.connect(DB_PATH) if Path(DB_PATH).exists() else None
-        print("  ✓ Weaviate 연결 완료")
+        print("  [OK] Weaviate 연결 완료")
 
         self.bm25 = None
         self.bm25_index = None
@@ -123,9 +123,9 @@ class RAGPipeline:
                 with open(BM25_PATH, encoding="utf-8") as f:
                     self.bm25_index = json.load(f)
                 self.bm25 = BM25Okapi([self._tok(t) for t in self.bm25_index["corpus"]])
-                print(f"  ✓ BM25 인덱스 ({len(self.bm25_index['corpus'])}개)")
+                print(f"  [OK] BM25 인덱스 ({len(self.bm25_index['corpus'])}개)")
             except ImportError:
-                print("  ⚠ rank-bm25 없음 — pip install rank-bm25")
+                print("  [!] rank-bm25 없음 — pip install rank-bm25")
 
     def _tok(self, text: str) -> list:
         text = re.sub(r"[^\w\s]", " ", text)
