@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "concurrently --names backend,frontend --prefix-colors blue,green \"npm run dev:backend\" \"npm run dev:frontend\"",
-    "dev:backend": "cd backend && uvicorn api:app --reload --port 8000",
+    "dev:backend": "cd backend && set PYTHONIOENCODING=utf-8 && uvicorn api:app --reload --port 8000",
     "dev:frontend": "cd frontend && npm run dev",
     "install:all": "cd frontend && npm install",
     "build": "cd frontend && npm run build"

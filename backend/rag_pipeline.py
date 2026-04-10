@@ -4,8 +4,9 @@ C1 RAG 검색 파이프라인 (Weaviate Cloud 버전) + C5 Guardrail
 벡터DB: Weaviate Cloud  |  임베딩: gemini-embedding-001 (OpenRouter)
 """
 
-import os, re, json, sqlite3, time
+import sys, os, re, json, sqlite3, time
 from pathlib import Path
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 from dotenv import load_dotenv
 from openai import OpenAI, RateLimitError, AuthenticationError, APIConnectionError
 import weaviate
@@ -113,7 +114,7 @@ class RAGPipeline:
         self.ins_col  = self.wv.collections.get("InsuranceChunk")
         self.prem_col = self.wv.collections.get("PremiumInfo")
         self.db_conn  = sqlite3.connect(DB_PATH) if Path(DB_PATH).exists() else None
-        print("  ✓ Weaviate 연결 완료")
+        print("  [OK] Weaviate 연결 완료")
 
         self.bm25 = None
         self.bm25_index = None
@@ -123,9 +124,9 @@ class RAGPipeline:
                 with open(BM25_PATH, encoding="utf-8") as f:
                     self.bm25_index = json.load(f)
                 self.bm25 = BM25Okapi([self._tok(t) for t in self.bm25_index["corpus"]])
-                print(f"  ✓ BM25 인덱스 ({len(self.bm25_index['corpus'])}개)")
+                print(f"  [OK] BM25 인덱스 ({len(self.bm25_index['corpus'])}개)")
             except ImportError:
-                print("  ⚠ rank-bm25 없음 — pip install rank-bm25")
+                print("  [!] rank-bm25 없음 -- pip install rank-bm25")
 
     def _tok(self, text: str) -> list:
         text = re.sub(r"[^\w\s]", " ", text)
@@ -288,7 +289,11 @@ SYSTEM_PROMPT = """당신은 KB라이프 보험 AI 어시스턴트입니다.
 - 의료적 진단이나 치료 판단
 - DB에 없는 수치를 만들어서 답변
 - 범위 밖 주제 (주식, 투자, 타사 비방 등)
- 
+- 한자(漢字) 사용 — 반드시 순한글 또는 한글+영문으로만 표기할 것 (예: 契約 → 계약, 請約 → 청약)
+- [1], [2] 같은 인용 번호 또는 각주 번호 사용 — 출처 표기 없이 내용만 서술할 것
+- <br>, <b>, <p> 등 HTML 태그 사용 — 줄바꿈은 빈 줄로, 강조는 **굵게** 마크다운으로만 표현할 것
+- 데이터가 부족한 상품은 표나 목록에서 생략 — 상품명만 있고 보장 내용이 없으면 언급하지 말 것
+
 답변 원칙:
 1. 제공된 컨텍스트(약관·공시 데이터)에만 근거
 2. "(사업방법서 별지)" 내용이나 상품 명칭만 나열된 데이터는 무시하고, 실제 보장 내용이나 절차가 적힌 데이터를 우선할 것.
@@ -365,6 +370,17 @@ class InsuranceRAGAgent:
         self.guardrail = Guardrail()
         self.history   = []
  
+    @staticmethod
+    def _clean_response(text: str) -> str:
+        # 한자(CJK Unified Ideographs) 제거 — 한글은 유지
+        text = re.sub(r'[\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]+', '', text)
+        # 특수 괄호 및 일반 괄호로 된 인용 번호 제거 (예: [4], 【4】, 〔4〕 등)
+        text = re.sub(r'[【〔\[❲⟦]\s*\d+\s*[】〕\]❳⟧]', '', text)
+        # HTML 태그 제거 (<br> → 줄바꿈, 나머지 태그 제거)
+        text = re.sub(r'<br\s*/?>', '\n', text, flags=re.IGNORECASE)
+        text = re.sub(r'<[^>]+>', '', text)
+        return text
+
     def chat(self, query: str, user_profile: dict = None) -> dict:
         chk = self.guardrail.check_input(query)
         if chk["blocked"]:
@@ -383,11 +399,11 @@ class InsuranceRAGAgent:
                         context += f"\n\n## 정확한 보험료\n{tbl}"
  
         all_chunks = sr["coverage_chunks"] + sr["premium_chunks"] + sr["law_chunks"]
-        response   = generate_response(query, context, self.history, user_profile)
+        response   = self._clean_response(generate_response(query, context, self.history, user_profile))
  
         out_chk = self.guardrail.check_output(response, all_chunks)
         if out_chk["flagged"]:
-            response += "\n\n⚠️ 정확한 수치는 공식 홈페이지나 상담사를 통해 확인하세요."
+            response += "\n\n정확한 수치는 공식 홈페이지나 상담사를 통해 확인하세요."
  
         self.history.append({"role": "user",      "content": query})
         self.history.append({"role": "assistant",  "content": response})

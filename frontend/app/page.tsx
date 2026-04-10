@@ -2,6 +2,8 @@
 
 import { useState, useRef, useEffect, FormEvent } from 'react';
 import { Send, RotateCcw, ShieldAlert, AlertTriangle, BookOpen, ChevronDown, ChevronUp, User } from 'lucide-react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 const API_URL = '';  // 자체 Next.js API Routes 사용 (/api/chat, /api/reset)
 
@@ -57,10 +59,32 @@ function MessageBubble({ msg }: { msg: Message }) {
   return (
     <div className={`bubble-in flex mb-4 ${isUser ? 'justify-end' : 'justify-start'}`}>
       <div className="max-w-[80%]">
-        <div className={`rounded-2xl px-4 py-3 text-sm leading-relaxed whitespace-pre-wrap
-          ${isUser ? 'rounded-br-sm text-white' : 'rounded-bl-sm border border-slate-200 bg-white text-slate-800'}`}
+        <div className={`rounded-2xl px-4 py-3 text-sm leading-relaxed
+          ${isUser ? 'rounded-br-sm text-white whitespace-pre-wrap' : 'rounded-bl-sm border border-slate-200 bg-white text-slate-800 prose prose-sm max-w-none'}`}
           style={isUser ? { background: '#1A2B4A' } : {}}>
-          {msg.content}
+          {isUser ? msg.content : (
+            <ReactMarkdown
+              remarkPlugins={[remarkGfm]}
+              components={{
+                table: ({ children }) => (
+                  <div className="overflow-x-auto my-2">
+                    <table className="border-collapse text-xs w-full">{children}</table>
+                  </div>
+                ),
+                thead: ({ children }) => <thead style={{ background: '#1A2B4A', color: 'white' }}>{children}</thead>,
+                th: ({ children }) => <th className="border border-slate-300 px-3 py-1.5 text-left font-medium">{children}</th>,
+                td: ({ children }) => <td className="border border-slate-200 px-3 py-1.5">{children}</td>,
+                tr: ({ children }) => <tr className="even:bg-slate-50">{children}</tr>,
+                p: ({ children }) => <p className="mb-2 last:mb-0">{children}</p>,
+                ul: ({ children }) => <ul className="list-disc pl-4 mb-2">{children}</ul>,
+                ol: ({ children }) => <ol className="list-decimal pl-4 mb-2">{children}</ol>,
+                li: ({ children }) => <li className="mb-0.5">{children}</li>,
+                strong: ({ children }) => <strong className="font-semibold">{children}</strong>,
+              }}
+            >
+              {msg.content}
+            </ReactMarkdown>
+          )}
         </div>
 
         {msg.flagged && (
@@ -119,7 +143,7 @@ export default function Home() {
         ? { age: profile.age ? parseInt(profile.age) : undefined, gender: profile.gender || undefined, job: profile.job || undefined }
         : undefined;
 
-      const res = await fetch(`${API_URL}/chat`, {
+      const res = await fetch(`${API_URL}/api/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ query: q, user_profile: userProfile }),
@@ -145,7 +169,7 @@ export default function Home() {
   };
 
   const handleReset = async () => {
-    await fetch(`${API_URL}/reset`, { method: 'POST' }).catch(() => {});
+    await fetch(`${API_URL}/api/reset`, { method: 'POST' }).catch(() => {});
     setMessages([{ role: 'assistant', content: '대화가 초기화되었습니다. 새로운 질문을 입력해주세요.' }]);
   };
 
