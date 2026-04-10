@@ -3,7 +3,7 @@
 import { useState, useRef, useEffect, FormEvent } from 'react';
 import { Send, RotateCcw, ShieldAlert, AlertTriangle, BookOpen, ChevronDown, ChevronUp, User } from 'lucide-react';
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000';
+const API_URL = '';  // 자체 Next.js API Routes 사용 (/api/chat, /api/reset)
 
 interface Message {
   role: 'user' | 'assistant';
