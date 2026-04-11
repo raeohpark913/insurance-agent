@@ -232,18 +232,21 @@ class RAGPipeline:
                 "law_chunks": law_chunks, "query": query}
  
     def build_context(self, sr: dict) -> str:
+        MIN_CONTENT_LEN = 100  # 이 미만이면 실질 내용 없는 것으로 간주해 제외
         parts = []
-        if sr["coverage_chunks"]:
+        coverage = [c for c in sr["coverage_chunks"] if len(c["document"].strip()) >= MIN_CONTENT_LEN]
+        if coverage:
             parts.append("## 관련 약관·보장 내용")
-            for i, c in enumerate(sr["coverage_chunks"]):
+            for i, c in enumerate(coverage):
                 m = c["meta"]
                 parts.append(
                     f"[{i+1}] {m.get('insurer','')} - {m.get('product','')[:30]}"
                     f" ({m.get('doc_type','')})\n{c['document'][:500]}"
                 )
-        if sr["premium_chunks"]:
+        premium = [c for c in sr["premium_chunks"] if len(c["document"].strip()) >= MIN_CONTENT_LEN]
+        if premium:
             parts.append("\n## 보험료 정보")
-            for c in sr["premium_chunks"]:
+            for c in premium:
                 parts.append(f"- {c['meta'].get('product','')[:30]} | {c['document'][:200]}")
         if sr["law_chunks"]:
             parts.append("\n## 관련 법률 조문")
