@@ -1,0 +1,1819 @@
+{
+  "crawled_at": "2026-03-28T01:33:46",
+  "filter": {
+    "sales_channel": "CM"
+  },
+  "products": [
+    {
+      "company": "한화생명",
+      "product_name": "한화생명 e정기보험 무배당[만기환급형]",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "87.3 %",
+        "price_index_female": "82.0 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "만기환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세(건강체는 20세) ~ 65세(다만, 보험기간별 및 납입기간별로 상이) 2. 납입주기 : 월납 3. 가입한도 : 보험가입금액 1,000만원 ~ 5억원 4. 보험기간 - 순수보장형 : 10년, 60세, 65세, 70세, 80세, 90세, 100세만기 - 만기환급형 : 65세, 70세, 80세, 90세, 100세만기 5. 보험료 납입기간 : 10년, 20년, 전기납 6. 보험가격지수 기준 : 만기환급형, 40세, 65세만기, 전기납, 월납, 표준체, 주계약가입금액 1억원 7. 보험료 기준 : 만기환급형 40세, 65세만기, 전기납, 월납, 표준체, 주계약가입금액 1억원 8. 특약 : 부가가능 특약 無",
+        "contact_number": "1588-6363"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "만기보험금",
+          "payment_condition": "피보험자가 보험기간이 끝날 때까지 살아 있을 경우",
+          "payment_amount": "이미 납입한 주계약 보험료의 100%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 98900,
+          "premium_female": 51800
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 98900,
+          "premium_female": 51800
+        }
+      ]
+    },
+    {
+      "company": "한화생명",
+      "product_name": "한화생명 e정기보험 무배당[순수보장형]",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "99.8 %",
+        "price_index_female": "94.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세(건강체는 20세) ~ 65세(다만, 보험기간별 및 납입기간별로 상이) 2. 납입주기 : 월납 3. 가입한도 : 보험가입금액 1,000만원 ~ 5억원 4. 보험기간 - 순수보장형 : 10년, 60세, 65세, 70세, 80세, 90세, 100세만기 - 만기환급형 : 65세, 70세, 80세, 90세, 100세만기 5. 보험료 납입기간 : 10년, 20년, 전기납 6. 보험가격지수 기준 : 순수보장형(해약환급금 미지급형(납입기간중 0%, 납입기간후 50%), 40세, 60세만기, 전기납, 월납, 표준체,주계약가입금액 1 억원 7. 보험료 기준 : 순수보장형 40세, 60세만기, 전기납, 월납, 표준체, 주계약가입금액 1억원 8. 특약 : 부가가능 특약 無",
+        "contact_number": "1588-6363"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 15900,
+          "premium_female": 8400
+        }
+      ]
+    },
+    {
+      "company": "ABL생명",
+      "product_name": "(무)우리WON인터넷정기보험",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "130.0 %",
+        "price_index_female": "130.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 50세 2. 보험가입한도 : 5,000만원 ~ 1억원 3. 보험기간 : 10년, 20년, 60세, 70세, 80세만기 4. 보험료 예시기준 : 40세, 20년만기, 전기납, 월납, 가입금액 1억원, 표준체 5. 보험가격지수 예시기준 : 40세, 표준체, 가입금액 1억원, 20년만기, 전기납 6. 특약보험료 예시기준 : 20년만기, 전기납, 월납",
+        "contact_number": "0215886500"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망하였을 때",
+          "payment_amount": "보험가입금액",
+          "coverage_amount": "1억원",
+          "premium_male": 23000,
+          "premium_female": 12000
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 재해장해보장특약",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 재해로 장해분류표 중 3%이상 100%에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "보험가입금액 X 해당 장해지급률",
+          "coverage_amount": "1,000만원",
+          "premium_male": 320,
+          "premium_female": 200
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인터넷 입원 건강보험(2601)(무배당,무해약환급금형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "80.5 %",
+        "price_index_female": "78.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : - 20세 ~ 65세 ※ 납입기간별로 가입나이는 차이가 있을 수 있습니다. 2. 보험기간 : 90세, 종신만기 3. 보험료 예시기준 - 주보험 보험가입금액 500만원, 40세, 종신, 20년납, 월납 (특약의 경우 100세만기) □ 선택기재사항 1. 보험료 납입기간 : - 10,15,20,30년납 2. 보험가격지수 예시기준 : - 주보험 보험가입금액 500만원, 40세, 종신, 20년납, 월납",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "500만원(※ 보험기간 중 피보험자에게 사망보험금 지급사유가 발생한 경우에는 해당 보험금과 \"이미 납입한보험료\" 중 큰 금액을 지급합니다.)",
+          "coverage_amount": "500만원",
+          "premium_male": 7800,
+          "premium_female": 6700
+        },
+        {
+          "category": "특약",
+          "benefit_name": "상급병실(1인실)입원(종합병원이상)특약P(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 질병 또는 재해로 인하 여 그 직접적인 치료를 목적으로 \"상급종합병원 혹은 종합 병원\"의 1인실을 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "payment_amount": "1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 72,
+          "premium_female": 95
+        },
+        {
+          "category": "특약",
+          "benefit_name": "상급병실(1인실)입원(상급종합병원)특약P(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 질병 또는 재해로 인하 여 그 직접적인 치료를 목적으로 \"상급종합병원\"의 1인실 을 1일이상 계속 입원시 입원일수 1일당 (1회 입원당 30일 한도)",
+          "payment_amount": "1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 15,
+          "premium_female": 19
+        },
+        {
+          "category": "특약",
+          "benefit_name": "입원간병인사용(180일한도,요양병원제외)특약P(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 \"질병 및 재해분류표Ⅱ (약관 참조)에서 정한 질병 또는 재해\"로 인하여 그 직접 적인 치료를 목적으로 1일 이상 계속하여 병원(단, 요양병 원 제외)에 입원하며 간병인을 사용하여 실질적으로 간병 서비스를 이용하였을 때 (1회 입원당 사용일수 180일 한 도)",
+          "payment_amount": "간병인 사용금액이 1일당 7만원 이상인 경우 간병인 사용일수 1일당: 1만원(단, 7만원 이하의 경우 0.5만원)",
+          "coverage_amount": "1만원",
+          "premium_male": 727,
+          "premium_female": 937
+        },
+        {
+          "category": "특약",
+          "benefit_name": "입원간병인사용(180일한도,요양병원)특약P(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 \"질병 및 재해분류표Ⅱ (약관 참조)에서 정한 질병 또는 재해\"로 인하여 그 직접 적인 치료를 목적으로 1일 이상 계속하여 요양병원에 입원 하며 간병인을 사용하여 실질적으로 간병서비스를 이용하 였을 때 (1회 입원당 사용일수 180일 한도)",
+          "payment_amount": "간병인 사용일수 1일당: 1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 1352,
+          "premium_female": 2117
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인터넷 경증간편 입원 건강보험(2601)(무배당,무해약환급금형)_1종(간편고지형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "79.4 %",
+        "price_index_female": "78.1 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : - 20세 ~ 65세 ※ 납입기간별로 가입나이는 차이가 있을 수 있습니다. 2. 보험기간 : 90세, 종신만기 3. 보험료 예시기준 - 주보험 보험가입금액 500만원, 40세, 종신, 20년납, 월납 (특약의 경우 100세만기) □ 선택기재사항 1. 보험료 납입기간 : - 10,15,20,30년납 2. 보험가격지수 예시기준 : - 주보험 보험가입금액 500만원, 40세, 종신, 20년납, 월납",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "500만원(※ 보험기간 중 피보험자에게 사망보험금 지급사유가 발생한 경우에는 해당 보험금과 \"이미 납입한보험료\" 중 큰 금액을 지급합니다.)",
+          "coverage_amount": "500만원",
+          "premium_male": 8400,
+          "premium_female": 7150
+        },
+        {
+          "category": "특약",
+          "benefit_name": "상급병실(1인실)입원(종합병원이상)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 질병 또는 재해로 인하 여 그 직접적인 치료를 목적으로 \"상급종합병원 혹은 종합 병원\"의 1인실을 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "payment_amount": "1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 90,
+          "premium_female": 108
+        },
+        {
+          "category": "특약",
+          "benefit_name": "상급병실(1인실)입원(상급종합병원)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 질병 또는 재해로 인하 여 그 직접적인 치료를 목적으로 \"상급종합병원\"의 1인실 을 1일이상 계속 입원시 입원일수 1일당 (1회 입원당 30일 한도)",
+          "payment_amount": "1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 19,
+          "premium_female": 21
+        },
+        {
+          "category": "특약",
+          "benefit_name": "입원간병인사용(180일한도,요양병원제외)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 \"질병 및 재해분류표Ⅱ (약관 참조)에서 정한 질병 또는 재해\"로 인하여 그 직접 적인 치료를 목적으로 1일 이상 계속하여 병원(단, 요양병 원 제외)에 입원하며 간병인을 사용하여 실질적으로 간병 서비스를 이용하였을 때 (1회 입원당 사용일수 180일 한 도)",
+          "payment_amount": "간병인 사용금액이 1일당 7만원 이상인 경우 간병인 사용일수 1일당: 1만원(단, 7만원 미만인 경우엔 0.5만원)",
+          "coverage_amount": "1만원",
+          "premium_male": 899,
+          "premium_female": 1053
+        },
+        {
+          "category": "특약",
+          "benefit_name": "입원간병인사용(180일한도,요양병원)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 \"질병 및 재해분류표Ⅱ (약관 참조)에서 정한 질병 또는 재해\"로 인하여 그 직접 적인 치료를 목적으로 1일 이상 계속하여 요양병원에 입원 하며 간병인을 사용하여 실질적으로 간병서비스를 이용하 였을 때 (1회 입원당 사용일수 180일 한도)",
+          "payment_amount": "간병인 사용일수 1일당: 1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 1556,
+          "premium_female": 2177
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인터넷 경증간편 입원 건강보험(2601)(무배당,무해약환급금형)_2종(일반고지형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "80.5 %",
+        "price_index_female": "78.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : - 20세 ~ 65세 ※ 납입기간별로 가입나이는 차이가 있을 수 있습니다. 2. 보험기간 : 90세,종신만기 3. 보험료 예시기준 - 주보험(2종) 보험가입금액 500만원, 40세, 종신, 20년납, 월납 (특약의 경우 100세만기) □ 선택기재사항 1. 보험료 납입기간 : - 10,15,20,30년납 2. 보험가격지수 예시기준 : - 주보험(2종) 보험가입금액 500만원, 40세, 종신, 20년납, 월납",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "500만원(※ 보험기간 중 피보험자에게 사망보험금 지급사유가 발생한 경우에는 해당 보험금과 \"이미 납입한보험료\" 중 큰 금액을 지급합니다.)",
+          "coverage_amount": "500만원",
+          "premium_male": 7800,
+          "premium_female": 6700
+        },
+        {
+          "category": "특약",
+          "benefit_name": "상급병실(1인실)입원(종합병원이상)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 질병 또는 재해로 인하 여 그 직접적인 치료를 목적으로 \"상급종합병원 혹은 종합 병원\"의 1인실을 1일이상 계속 입원시 입원일수 1일당(1회 입원당 30일한도)",
+          "payment_amount": "1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 73,
+          "premium_female": 97
+        },
+        {
+          "category": "특약",
+          "benefit_name": "상급병실(1인실)입원(상급종합병원)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 질병 또는 재해로 인하 여 그 직접적인 치료를 목적으로 \"상급종합병원\"의 1인실 을 1일이상 계속 입원시 입원일수 1일당 (1회 입원당 30일 한도)",
+          "payment_amount": "1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 15,
+          "premium_female": 19
+        },
+        {
+          "category": "특약",
+          "benefit_name": "입원간병인사용(180일한도,요양병원제외)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 \"질병 및 재해분류표Ⅱ (약관 참조)에서 정한 질병 또는 재해\"로 인하여 그 직접 적인 치료를 목적으로 1일 이상 계속하여 병원(단, 요양병 원 제외)에 입원하며 간병인을 사용하여 실질적으로 간병 서비스를 이용하였을 때 (1회 입원당 사용일수 180일 한 도)",
+          "payment_amount": "간병인 사용금액이 1일당 7만원 이상인 경우 간병인 사용일수 1일당: 1만원(단, 7만원 미만인 경우엔 0.5만원)",
+          "coverage_amount": "1만원",
+          "premium_male": 736,
+          "premium_female": 945
+        },
+        {
+          "category": "특약",
+          "benefit_name": "입원간병인사용(180일한도,요양병원)특약UT(무배당,무해약환급금형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 \"질병 및 재해분류표Ⅱ (약관 참조)에서 정한 질병 또는 재해\"로 인하여 그 직접 적인 치료를 목적으로 1일 이상 계속하여 요양병원에 입원 하며 간병인을 사용하여 실질적으로 간병서비스를 이용하 였을 때 (1회 입원당 사용일수 180일 한도)",
+          "payment_amount": "간병인 사용일수 1일당: 1만원",
+          "coverage_amount": "1만원",
+          "premium_male": 1402,
+          "premium_female": 2144
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인터넷정기보험(2601)(무배당) 만기환급형",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "116.0 %",
+        "price_index_female": "119.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "만기환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : 20세 ~ 최대 64세 2. 보험기간 - 만기환급형 : 20년, 60세, 65세, 70세, 80세 만기 3. 보험료 예시기준 - 표준체, 일반형, 가입나이 40세, 보험기간 20년만기 전기납, 월납 - 주계약 가입금액 1억원 □ 선택기재사항 1. 납입기간 : 10년납, 20년납, 전기납 2. 보험가격지수 예시기준 - 표준체, 가입나이 40세, 보험기간 20년만기 전기납, 월납, 가입금액 1억원",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "1억원",
+          "coverage_amount": "1억원 원",
+          "premium_male": 171000,
+          "premium_female": 118000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "만기보험금",
+          "payment_condition": "피보험자가 보험기간이 끝날 때까지 살아 있을 경우",
+          "payment_amount": "이미 납입한 주보험 보험료의 100%",
+          "coverage_amount": "1억원 원",
+          "premium_male": 171000,
+          "premium_female": 118000
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성시그널건강보험(2601)(무배당,무해약환급금형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "102.7 %",
+        "price_index_female": "98.9 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 - 최초 계약 : 20세 ~ 64세 - 갱신 계약 : 30세 ~ (100-보험기간)세 ※ 단, 납입기간에 따라 가입나이는 차이가 있을 수 있습니다. 2. 보험기간 - 주보험, 비갱신형특약: 100세만기 - 갱신형특약: 10년만기 3. 보험료 예시기준 - 주보험 보험가입금액 100만원, 40세, 100세만기 , 20년납, 월납 □ 선택기재사항 1. 보험료 납입기간 : - 주보험, 비갱신형특약: 10/15/20/30년납 - 갱신형특약: 전기납 2. 보험가격지수 예시기준 : - 주보험 보험가입금액 100만원, 40세, 100세만기 , 20년납, 월납",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "100만원",
+          "coverage_amount": "100만원 원",
+          "premium_male": 1800,
+          "premium_female": 1481
+        },
+        {
+          "category": "특약",
+          "benefit_name": "중증질환보장특약P (무배당, 무해약환급금형)",
+          "payment_condition": "암보장개시일 이후에 암(초기유방암, 중증이외갑상선암, 기타피부암, 비침습방광암, 대장점막내암 제외)으로 진단 확정 시 (최초 1회한) * 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "1년이내 : 100만 / 1년초과 : 200만",
+          "coverage_amount": "200만 원",
+          "premium_male": 7672,
+          "premium_female": 5118
+        },
+        {
+          "category": "특약",
+          "benefit_name": "소액질병보장특약P (무배당, 무해약환급금형)",
+          "payment_condition": "초기유방암, 양성뇌종양, 경계성종양, 중증이외갑상선암, 제자리암, 기타피부암, 비침습 방광암 또는 대장점막내암 으로 진단 확정 시 (각 최초 1회한)",
+          "payment_amount": "1년이내 : 20만 / 1년초과 : 40만",
+          "coverage_amount": "40만 원",
+          "premium_male": 168,
+          "premium_female": 352
+        },
+        {
+          "category": "특약",
+          "benefit_name": "만성질환보장특약P (무배당)",
+          "payment_condition": "「고혈압 보장개시일(1년)」이후에 \"고혈압(원발성)\"으로 진단이 확정되고, 그 질병의 직접적인 치료를 목적으로 180일 이상의 기간 동안 \"고혈압(원발성) 약물치료\" 시 (최초 1회한) * 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "1년 초과 10만",
+          "coverage_amount": "10만 원",
+          "premium_male": 1642,
+          "premium_female": 1811
+        },
+        {
+          "category": "특약",
+          "benefit_name": "경증질환보장특약 (갱신형,무배당)",
+          "payment_condition": "\"7대기관양성신생물\"로 진단 확정되고, 이 특약의 보험기 간 중 그 질병의 직접적인 치료를 목적으로 수술을 받은 경우 (보험연도 기준 연간 1회한) * 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "1년이내 : 2.5만 / 1년초과 :5만",
+          "coverage_amount": "5만 원",
+          "premium_male": 430,
+          "premium_female": 405
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인터넷정기보험(2601)(무배당) 순수보장형",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "90.4 %",
+        "price_index_female": "97.8 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : 20세 ~ 최대 64세 2. 보험기간 - 순수보장형 : 10년, 20년, 60세, 65세, 70세, 80세 만기 3. 보험료 예시기준 - 표준체, 일반형, 가입나이 40세, 보험기간 20년만기 전기납, 월납 - 주계약 가입금액 1억원 □ 선택기재사항 1. 납입기간 : 10년납, 20년납, 전기납 (단, 10년만기는 10년납만 가능) 2. 보험가격지수 예시기준 - 표준체, 가입나이 40세, 보험기간 20년만기 전기납, 월납, 가입금액 1억원",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "1억원",
+          "coverage_amount": "1억원 원",
+          "premium_male": 16000,
+          "premium_female": 9000
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인생금융 대출안심보험(2403)(무배당) 1종(담보대출 플랜)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "118.1 %",
+        "price_index_female": "107.0 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-03-04",
+        "special_notes": "□ 필수기재사항 1. 가입나이 - (최초가입) 최저 20세 ~ 최고 60세 - (재가입) 최저 25세 ~ 최고 85세 2. 보험기간 - 5년만기[재가입형] ※ 최대 40년까지 보장 3. 보험료 및 보험가격지수 예시기준 - 주보험 보험가입금액 1억원, 5년만기, 5년납, 월납, 40세 □ 선택기재사항 1. 납입기간 : 5년납(전기납) 2. 납입주기 : 월납",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "1억원",
+          "coverage_amount": "1억원",
+          "premium_male": 10800,
+          "premium_female": 6400
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 인생금융 대출안심보험(2403)(무배당) 2종(신용대출 플랜)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "109.6 %",
+        "price_index_female": "107.0 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-03-04",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : 최저 20세 ~ 최고 60세 2. 보험기간 : 5년만기 3. 보험가격지수 예시기준 - 주보험 보험가입금액 3,000만원, 5년만기, 5년납, 월납, 40세 4. 보험료 예시기준 - 주보험 보험가입금액 1,000만원, 5년만기, 5년납, 월납, 40세 □ 선택기재사항 1. 납입기간 : 5년납(전기납) 2. 납입주기 : 월납",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 \"3대질병진단보험금\" 지급사유가 발생하지 않고 사망하였을 경우",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4090,
+          "premium_female": 4120
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "3대질병 진단보험금",
+          "payment_condition": "보험기간 중 「암보장개시일 이후에 \"암(소액 암 제외)\"으로 진단 확정 되었을 경우」 또는 「\"뇌출혈\", \"급성심근경색증\" 중 하나로 진단 확정되었을 경우」(최초 1회한)",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 4090,
+          "premium_female": 4120
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 상생금융 대출안심보험(2403)(무배당) 1종(담보대출 플랜)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "94.0 %",
+        "price_index_female": "85.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-03-04",
+        "special_notes": "□ 필수기재사항 1. 가입나이 - (최초가입) 최저 20세 ~ 최고 60세 - (재가입) 최저 25세 ~ 최고 85세 2. 보험기간 - 5년만기[재가입형] ※ 최대 40년까지 보장 3. 보험료 및 보험가격지수 예시기준 - 주보험 보험가입금액 1억원, 5년만기, 5년납, 월납, 40세 □ 선택기재사항 1. 납입기간 : 5년납(전기납) 2. 납입주기 : 월납 3. 상생협력형 가입 대상 - 내집마련 디딤돌 대출 이용자 - 다자녀 가정(2명이상) * 단, 태아는 제외 4. 상생협력형 할인 혜택 - 「삼성 인생금융 대출안심보험(2308)(무배당)」 영업보험료의 20% 할인",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "1억원",
+          "coverage_amount": "1억원",
+          "premium_male": 8600,
+          "premium_female": 5100
+        }
+      ]
+    },
+    {
+      "company": "삼성생명",
+      "product_name": "삼성 상생금융 대출안심보험(2403)(무배당) 2종(신용대출 플랜)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "87.6 %",
+        "price_index_female": "85.7 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-03-04",
+        "special_notes": "□ 필수기재사항 1. 가입나이 : 최저 20세 ~ 최고 60세 2. 보험기간 : 5년만기 3. 보험가격지수 예시기준 - 주보험 보험가입금액 3,000만원, 5년만기, 5년납, 월납, 40세 4. 보험료 예시기준 - 주보험 보험가입금액 1,000만원, 5년만기, 5년납, 월납, 40세 □ 선택기재사항 1. 납입기간 : 5년납(전기납) 2. 납입주기 : 월납 3. 상생협력형 가입 대상 - 내집마련 디딤돌 대출 이용자 - 다자녀 가정(2명이상) * 단, 태아는 제외 4. 상생협력형 할인 혜택 - 「삼성 인생금융 대출안심보험(2308)(무배당)」 영업보험료의 20% 할인",
+        "contact_number": "1588-3114"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 \"3대질병진단보험금\" 지급사유가 발생하지 않고 사망하였을 경우",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 3270,
+          "premium_female": 3300
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "3대질병 진단보험금",
+          "payment_condition": "보험기간 중 「암보장개시일 이후에 \"암(소액 암 제외)\"으로 진단 확정 되었을 경우」 또는 「\"뇌출혈\", \"급성심근경색증\" 중 하나로 진단 확정되었을 경우」(최초 1회한)",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 3270,
+          "premium_female": 3300
+        }
+      ]
+    },
+    {
+      "company": "흥국생명",
+      "product_name": "(무)흥국생명 온라인정기보험_1종(비갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "84.8 %",
+        "price_index_female": "74.5 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-02-08",
+        "special_notes": "1. 가입나이 : 만19세 ~ 70세 (단, 보험기간, 납입기간별 차등적용) 2. 보험기간 : 20년만기, 60세만기, 80세만기 3. 보험가격지수예시기준 : 1종(비갱신형), 가입금액 10,000만원, 60세만기, 전기납, 월납, 40세, 1형(기본형)(단, 여자의 경우 2형(보장추가형)), 표준체 4. 보험료예시기준 : 1종(비갱신형), 가입금액 10,000만원, 20년만기, 전기납, 월납, 40세, 1형(기본형)(단, 여자의 경우 2형(보장추가형)), 표준체",
+        "contact_number": "1588-2288"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금(1형-기본형)",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 사망했을 때",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 15000,
+          "premium_female": 0
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금(2형-보장추가형)",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 재해를 원인으로 사망했을 때",
+          "payment_amount": "보험가입금액의 200%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 0,
+          "premium_female": 8000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "일반사망보험금(2형-보장추가형)",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 재해이외의 원인으로 사망했을 때",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 0,
+          "premium_female": 8000
+        }
+      ]
+    },
+    {
+      "company": "흥국생명",
+      "product_name": "(무)흥국생명 온라인정기보험_2종(갱신형)",
+      "price_info": {
+        "interest_rate_fixed": "3.00 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "72.8 %",
+        "price_index_female": "74.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-02-08",
+        "special_notes": "1. 가입나이 : 만19세 ~ 60세 2. 보험기간 : 10년만기 3. 보험료 예시기준 : 2종(갱신형), 가입금액 10,000만원, 40세, 10년만기, 전기납, 월납, 1형(기본형)(단, 여자의 경우 2형(보장추가형)), 표준체",
+        "contact_number": "1588-2288"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금(1형-기본형)",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 사망했을 때",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 9000,
+          "premium_female": 0
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "재해사망보험금(2형-보장추가형)",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 재해를 원인으로 사망했을 때",
+          "payment_amount": "보험가입금액의 200%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 0,
+          "premium_female": 6000
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "일반사망보험금(2형-보장추가형)",
+          "payment_condition": "피보험자가 보험기간 중 보장개시일 이후에 재해이외의 원인으로 사망했을 때",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 0,
+          "premium_female": 6000
+        }
+      ]
+    },
+    {
+      "company": "DB생명",
+      "product_name": "(무)e로운 간병입원수술보험(해약환급금 미지급형)(2601)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "105.8 %",
+        "price_index_female": "106.7 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간 : 80,90,100세만기 2. 납입기간: 10, 15, 20, 25, 30년납 3. 가입연령 : 만19세~최고 64세 *보험기간, 납입기간별로 가입나이는 차이가 있을 수 있습니다. 4. 보험료 예시 기준: 40세, 20년납, 100세만기, 가입금액 1,000만원, 해약환급금 미지급형 5. 보험가격지수 예시 기준: 40세, 20년납, 100세만기, 가입금액 100만원, 해약환급금 미지급형",
+        "contact_number": "1588-3131"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 때",
+          "payment_amount": "1000만원",
+          "coverage_amount": "1000만원 원",
+          "premium_male": 19200,
+          "premium_female": 16700
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)간병인현금지원입원특약Ⅰ(O)(해약환급금 미지급형)",
+          "payment_condition": "간병인현금지원입원급여금(요양병원제외) : 피보험자가 보험기간 중 질병 및 재해로 인하여 그 치료를 직접적인 목적으로 요양병원을 제외한 병원급 또는 의원급 의료기관에 1일이상 계속 입원하여 치료받으며, 간병인을 사용하여 실질적으로 간병서비스를 이용한 경우 (단, 간병인 사용금액이 1일당 7만원 미만인 경우 50% 지급) 간병인현금지원입원급여금(요양병원) : 피보험자가 보험기간 중 질병 및 재해로 인하여 그 치료를 직접적인 목적으로 요양병원에 1일이상 계속 입원하여 치료받으며, 간병인을 사용하여 실질적으로 간병서비스를 이용한 경우",
+          "payment_amount": "간병인현금지원입원급여금(요양병원제외) : 1일당 15만원(간병인 사용 1일당, 180일한도) 간병인현금지원입원급여금(요양병원) : 1일당 3만원(간병인 사용 1일당,180일 한도)",
+          "coverage_amount": "1000만원 원",
+          "premium_male": 15790,
+          "premium_female": 18490
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)간호간병통합서비스입원특약Ⅰ(O)(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 보험기간 중 질병 및 재해로 인하여 그 치료를 직접적인 목적으로 1일이상 계속하여 요양병원을 제외한 병원급 의료기관에 입원하여, 간호·간병 통합서비스를 사용하였을 때",
+          "payment_amount": "1일당 10만원 (사용 1일당,180일 한도)",
+          "coverage_amount": "1000만원 원",
+          "premium_male": 14540,
+          "premium_female": 16030
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)상급종합병원 상급병실(1인실)입원특약Ⅰ(O)(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 보험기간 중 질병 및 재해로 인하여 그 치료를 직접적인 목적으로 1일이상 계속하여 요양병원을 제외한 병원급 의료기관에 입원하여, 간호·간병 통합서비스를 사용하였을 때",
+          "payment_amount": "1일당 10만원 (1회 입원당 30일한도)",
+          "coverage_amount": "10만원 원",
+          "premium_male": 359,
+          "premium_female": 312
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)종합병원 상급병실(1인실)입원특약Ⅰ(O)(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 보험기간 중 질병 및 재해로 인하여 그 치료를 직접적인 목적으로 1일이상 계속하여 요양병원을 제외한 병원급 의료기관에 입원하여, 간호·간병 통합서비스를 사용하였을 때",
+          "payment_amount": "1일당 10만원 (1회 입원당 30일한도)",
+          "coverage_amount": "10만원 원",
+          "premium_male": 1214,
+          "premium_female": 1403
+        }
+      ]
+    },
+    {
+      "company": "DB생명",
+      "product_name": "(무)e로운 장해Plus정기보험(2601)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "100.6 %",
+        "price_index_female": "92.0 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간: 10년, 20년만기, 60세, 65세, 70세, 80세만기 2. 납입기간: 10년, 20년납, 전기납 3. 가입연령 : 만19세 ~ 최고60세 *보험기간, 납입기간별로 가입나이는 차이가 있을 수 있습니다. 4. 보험료 및 보험가격지수 예시 기준 - 주계약 - 보험기간 : 20년만기 - 납입기간 : 전기납 - 납입주기 : 월납 - 가입금액 : 10,000만원 ※ 기타 자세한 사항은 상품요약서 참조",
+        "contact_number": "1588-3131"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 18400,
+          "premium_female": 9600
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "질병 및 재해장해 급여금",
+          "payment_condition": "피보험자가 보험기간 중 동일한 질병 또는 재해를 직접적인 원인으로 인하여 장해분류표(별표3 참조)에서 정한 장해지급률 중 3%이상 100%이하에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "1,000만원 × 해당 장해지급률",
+          "coverage_amount": "10,000만원",
+          "premium_male": 18400,
+          "premium_female": 9600
+        }
+      ]
+    },
+    {
+      "company": "KB라이프생명",
+      "product_name": "KB 착한정기보험Ⅱ 무배당",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "91.7 %",
+        "price_index_female": "94.6 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만19세 ~ 최대70세 2. 보험종류 : 표준체, 비흡연체, 건강체, 슈퍼건강체 3. 보험기간 : 10년만기, 60, 65, 70, 80세만기 4. 납입기간 : 5, 7, 10, 15, 20년납, 55, 60세납, 전기납 5. 보험료 기준 : 표준체, 40세, 60세만기, 20년납, 월납, 가입금액 10,000만원 6. 보험가격지수 기준 : 표준체, 40세, 60세만기, 전기납, 월납, 가입금액 10,000만원",
+        "contact_number": "1588-3374"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 때",
+          "payment_amount": "1억원",
+          "coverage_amount": "1억원",
+          "premium_male": 16100,
+          "premium_female": 9000
+        }
+      ]
+    },
+    {
+      "company": "KB라이프생명",
+      "product_name": "KB 딱좋은 e-건강보험 무배당(갱신형)(일반심사형)(해약환급금 미지급형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "111.8 %",
+        "price_index_female": "113.7 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이: 만19세 ~ 최대64세(납입기간별 차등) 2. 보험기간: 최초계약 10년/20년/30년만기, 갱신계약 1~30년만기 3. 납입기간 : 전기납 ※ 최종 갱신계약의 보험기간 만료일은 피보험자의 100세 계약해당일로 합니다. ※ 최종 갱신계약의 보험기간 만료일이 최초계약 보험기간 미만일 경우에는 갱신일로부터 최종 갱신계약의 보험기간 만료일까지를 보험기간으로 합니다. 4. 가입금액: 100만원 5. 보험료(주계약) 기준 : 40세, 20년만기, 전기납, 최초계약, 월납 기준 6. 보험료(특약) 기준 : 40세, 20년만기, 전기납, 최초계약, 월납 기준",
+        "contact_number": "1588-3374"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 사망 시(단, 이미 납입한 주계약 보험료가 사망보험금을 초과하는 경우, 이미 납입한 주계약 보험료를 사망보험금으로 지급함)",
+          "payment_amount": "보험가입금액",
+          "coverage_amount": "100만원 원",
+          "premium_male": 190,
+          "premium_female": 110
+        },
+        {
+          "category": "특약",
+          "benefit_name": "암진단(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "암보장개시일 이후 일반암(유방암,전립선암,기타피부암,중증갑상선암 이외의 갑상선암 및 대장점막내암 제외) 진단 확정 시 (최초 1 회한)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 1 년미만 가입금액의 50%)",
+          "coverage_amount": "100만원 원",
+          "premium_male": 404,
+          "premium_female": 296
+        },
+        {
+          "category": "특약",
+          "benefit_name": "급성심근경색증진단(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "급성심근경색증으로 진단 확정 시 (최초 1 회한)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 1 년미만 가입금액의 50%)",
+          "coverage_amount": "100만원 원",
+          "premium_male": 102,
+          "premium_female": 16
+        },
+        {
+          "category": "특약",
+          "benefit_name": "뇌혈관질환진단Ⅱ(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "뇌혈관질환으로 진단 확정 시 (최초 1 회한)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 90일 미만 가입금액의 10%, 90일~1년미만 가입금액의 50%)",
+          "coverage_amount": "100만원 원",
+          "premium_male": 301,
+          "premium_female": 264
+        },
+        {
+          "category": "특약",
+          "benefit_name": "입원(1일이상 180일한도)(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "질병 또는 재해 치료를 직접적인 목적으로 1 일이상 입원 시 (1 회 입원당 180 일 한도)",
+          "payment_amount": "보험가입금액",
+          "coverage_amount": "1만원 원",
+          "premium_male": 1097,
+          "premium_female": 1598
+        }
+      ]
+    },
+    {
+      "company": "KB라이프생명",
+      "product_name": "KB 딱좋은 e-건강보험 무배당(갱신형)(간편심사형(355))(해약환급금 미지급형)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "122.9 %",
+        "price_index_female": "136.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이: 만19세 ~ 최대64세(납입기간별 차등) 2. 보험기간: 최초계약 10년/20년/30년만기, 갱신계약 1~30년만기 3. 납입기간 : 전기납 ※ 최종 갱신계약의 보험기간 만료일은 피보험자의 100세 계약해당일로 합니다. ※ 최종 갱신계약의 보험기간 만료일이 최초계약 보험기간 미만일 경우에는 갱신일로부터 최종 갱신계약의 보험기간 만료일까지를 보험기간으로 합니다. 4. 가입금액: 100만원 5. 보험료(주계약) 기준 : 40세, 20년만기, 전기납, 최초계약, 월납 기준 6. 보험료(특약) 기준 : 40세, 20년만기, 전기납, 최초계약, 월납 기준",
+        "contact_number": "1588-3374"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 사망 시(단, 이미 납입한 주계약 보험료가 사망보험금을 초과하는 경우, 이미 납입한 주계약 보험료를 사망보험금으로 지급함)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 2 년미만 가입금액의 50% (재해 이외))",
+          "coverage_amount": "100만원 원",
+          "premium_male": 190,
+          "premium_female": 110
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(간편355)암진단(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "암보장개시일 이후 일반암(유방암,전립선암,기타피부암,중증갑상선암 이외의 갑상선암 및 대장점막내암 제외) 진단 확정 시 (최초 1 회한)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 1 년미만 가입금액의 50%)",
+          "coverage_amount": "100만원 원",
+          "premium_male": 444,
+          "premium_female": 326
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(간편355)급성심근경색증진단(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "급성심근경색증으로 진단 확정 시 (최초 1 회한)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 1 년미만 가입금액의 50%)",
+          "coverage_amount": "100만원 원",
+          "premium_male": 130,
+          "premium_female": 18
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(간편355)뇌혈관질환진단Ⅱ(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "뇌혈관질환으로 진단 확정 시 (최초 1 회한)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 90일 미만 가입금액의 10%, 90일~1년미만 가입금액의 50%)",
+          "coverage_amount": "100만원 원",
+          "premium_male": 331,
+          "premium_female": 291
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(간편355)입원(1일이상 180일한도)(갱신형)(해약환급금 미지급형) 특약",
+          "payment_condition": "질병 또는 재해 치료를 직접적인 목적으로 1 일이상 입원 시 (1 회 입원당 180 일 한도)",
+          "payment_amount": "보험가입금액 (다만, 최초계약의 경우 1 년미만 가입금액의 50%(재해이외))",
+          "coverage_amount": "1만원 원",
+          "premium_male": 1151,
+          "premium_female": 1683
+        }
+      ]
+    },
+    {
+      "company": "신한라이프생명",
+      "product_name": "신한SOL정기보험(무배당)",
+      "price_info": {
+        "interest_rate_fixed": "2.10 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "82.0 %",
+        "price_index_female": "83.1 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 보험기간 : 10, 15, 20, 25, 30년, 60세, 70세, 80세만기 2. 보험종목 : 기본형, 재해보장형, 기본형(전환용) 3. 가입나이 : 만15세 ~ 70세(가입조건별로 상이할 수 있음) 4. 제도성 특약 : 선지급서비스특약, 사후사망보험금신속지급특약, 신한단체취급보험료할인특약Ⅱ, 특정신체부위·질병보장제한부 인수특약, 표준하체인수특약, 보험금 대리청구 지정서비스 특약, 장애인전용보험전환특약 운영(신한단체취급보험료할인특약Ⅱ, 표준하체인수특약, 특정신체부위·질병보장제한부 인수특약 : 전환용 부가불가) 5. 보험료 및 보험가격지수 예시 기준 : 기본형, 가입금액 10,000만원, 20년만기, 20년납, 월납, 40세",
+        "contact_number": "1588-5580"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망하였을 때",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 14400,
+          "premium_female": 7900
+        }
+      ]
+    },
+    {
+      "company": "하나생명",
+      "product_name": "(무)가족사랑정기보험",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "73.5 %",
+        "price_index_female": "71.5 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입연령 : 20세 ~ 60세 2. 보험기간 : 10년 만기, 20년 만기, 30년 만기 3. 납입기간 : 전기납 4. 납입주기 : 월납 5. 보험료, 보험가격지수 예시기준 : 40세, 20년 만기, 전기납, 가입금액 1,000만원 6. 기타 : 당사 보험상품의 기가입자(피보험자 또는 계약자)가 이 계약을 추가로 가입 하는 경우, 이 계약의 보험료의 3%를 할인",
+        "contact_number": "1577-1112"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 때",
+          "payment_amount": "1 억원",
+          "coverage_amount": "1,000 만원",
+          "premium_male": 12900,
+          "premium_female": 6800
+        }
+      ]
+    },
+    {
+      "company": "푸본현대생명",
+      "product_name": "푸본현대 원패스 정기보험 무배당 갱신형(2404)",
+      "price_info": {
+        "interest_rate_fixed": "2.60 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "104.5 %",
+        "price_index_female": "94.0 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2024-04-01",
+        "special_notes": "1. 가입나이 : 20세~60세 2. 보험기간 : 1년만기 3. 납입기간 : 1년납 4. 가입한도 : 100만~1,000만 (가입단위 : 100만) * 주계약 보험료 예시 : 최초계약, 가입금액 1,000만, 40세, 1년만기, 1년납, 월납 기준 * 선택특약 보험료 예시 : 최초계약, 가입금액 100만, 40세, 1년만기, 1년납, 월납 기준 * 보험가격지수 예시 : 최초계약, 가입금액 1,000만, 40세, 1년만기, 1년납, 월납 기준",
+        "contact_number": "1577-3311"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망하였을 경우",
+          "payment_amount": "1,000만원",
+          "coverage_amount": "1,000만원",
+          "premium_male": 900,
+          "premium_female": 560
+        },
+        {
+          "category": "특약",
+          "benefit_name": "암진단특약Ⅲ 무배당/갱신형",
+          "payment_condition": "특약보험기간 중 피보험자가 암보장개시일 이후에 “유방암 및 남녀생식기 관련암 이외의 암”으로 진단확정 받았을 경우 (단, 최초 1회에 한함) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "100만원",
+          "coverage_amount": "100만원",
+          "premium_male": 176,
+          "premium_female": 204
+        },
+        {
+          "category": "특약",
+          "benefit_name": "뇌출혈진단특약Ⅲ 무배당/갱신형",
+          "payment_condition": "특약보험기간 중 피보험자가 보장개시일 이후에 “뇌출혈”으로 진단확정 받았을경우 (단, 최초 1회에 한함)",
+          "payment_amount": "100만원",
+          "coverage_amount": "100만원",
+          "premium_male": 37,
+          "premium_female": 27
+        },
+        {
+          "category": "특약",
+          "benefit_name": "급성심근경색증진단특약 무배당/갱신형",
+          "payment_condition": "특약보험기간 중 피보험자가 보장개시일 이후에 “급성심근경색증”으로 진단확정 받았을 경우 (단, 최초 1회에 한함)",
+          "payment_amount": "100만원",
+          "coverage_amount": "100만원",
+          "premium_male": 45,
+          "premium_female": 7
+        }
+      ]
+    },
+    {
+      "company": "라이나생명",
+      "product_name": "(무)라이나다이나믹건강OK보험(해약환급금미지급형Ⅱ)",
+      "price_info": {
+        "interest_rate_fixed": "2.75 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "108.4 %",
+        "price_index_female": "106.5 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "무해지/저해지환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2025-09-01",
+        "special_notes": "1. 가입나이 : 20세~70세(보험기간/특약에 따라 상이) 2. 보험기간 : 80세만기/90세만기/100세만기 3. 납입기간 : 20년납/30년납 4. 보험료 및 보험가격지수 작성기준 : * 산줄 기준은 [가입금액 : 100만원, 40 세, 100 세만기, 20 년납, 질병그룹 A, 5 년 무사고, 해약환급금미지급형Ⅱ] 이며, 질병그룹 A 는 사업방법서 상 [별첨 1] 계약 전 알릴 의무 사항 질문 5 번에 따릅니다.",
+        "contact_number": "1588-0058"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "피보험자가 보험기간 중 사망한 경우",
+          "payment_amount": "100만원",
+          "coverage_amount": "100만원 원",
+          "premium_male": 1950,
+          "premium_female": 1650
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)라이나다이나믹재해장해보장특약(해약환급금미지급형Ⅱ)",
+          "payment_condition": "피보험자가 보험기간 중 동일한 재해로 장해분류표에서 정한 장해지급률 중 3% 이상 100%이하에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "1,000만원 * 해당 장해지급률",
+          "coverage_amount": "1000만원 원",
+          "premium_male": 670,
+          "premium_female": 610
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)라이나다이나믹질병장해보장특약(해약환급금미지급형Ⅱ)",
+          "payment_condition": "피보험자가 보험기간 중 동일한 질병으로 장해분류표에서 정한 장해지급률 중 3% 이상 100%이하에 해당하는 장해상태가 되었을 때",
+          "payment_amount": "1,000만원 * 해당 장해지급률",
+          "coverage_amount": "1000만원 원",
+          "premium_male": 9200,
+          "premium_female": 6800
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무라이나다이나믹뇌혈관질환진단특약(해약환급금미지급형Ⅱ)",
+          "payment_condition": "피보험자가 보험기간 중 뇌혈관질환으로 진단확정 되었을 때 (다만, 최초 1 회에 한하여 지급 함)",
+          "payment_amount": "1,000만원(다만, 보험계약일부터 1 년이 지난 보험계약해당일 전일 이전에 지급 사유가 발생하였을 경우에는 상기 금액의 50%를 지급)",
+          "coverage_amount": "1000만원 원",
+          "premium_male": 7500,
+          "premium_female": 7200
+        },
+        {
+          "category": "특약",
+          "benefit_name": "(무)라이나다이나믹허혈성심장질환진단특약(해약환급금미지급형Ⅱ)",
+          "payment_condition": "피보험자가 보험기간 중 허혈성심장질환으로 진단확정 되었을 때 (다만, 최초 1 회에 한하여 지급 함)",
+          "payment_amount": "1,000만원(다만, 보험계약일부터 1 년이 지난 보험계약해당일 전일 이전에 지급 사유가 발생하였을 경우에는 상기 금액의 50%를 지급)",
+          "coverage_amount": "1000만원 원",
+          "premium_male": 6200,
+          "premium_female": 4900
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 정기보험(해약환급금 미지급형,비흡연체)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "82.5 %",
+        "price_index_female": "89.2 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 70세 2. 보험기간 : 10년/20년/30년만기, 60세/65세/70세/75세/80세/85세/90세만기 3. 보험료 예시 기준 : 순수보장형, 비흡연체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 [표준체 보험료 대비 남자기준 14.1%, 여자기준 3.6% 할인된 보험료] 4. 보험료 납입기간 : 20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 1억원 ~ 최고 10억원 7. 보험가격지수 : 순수보장형, 비흡연체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 8. 특약 예시보험료 기준 - 무배당 보험료납입면제특약 : 20년만기, 전기납, 월납 *특약의 가입금액은 주계약의 월 납입 보험료로 하며, 특약의 보험기간 및 보험료 납입기간은 주계약의 보험료 납입기간과 동일하게 운영함",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 14120,
+          "premium_female": 8360
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 보험료납입면제보장특약",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 다음 각호의 어느 하나의 사유 중 최초 1회 발생한 경우 1. 암 보장개시일 이후에 「일반암」으로 진단 확정되었을 경우 2. 보장개시일 이후에 「뇌출혈」로 진단 확정되었을 경우 3. 보장개시일 이후에 「급성심근경색증」으로 진단 확정되었을 경우 (다만, 최초 1회에 한함)",
+          "payment_amount": "이 특약이 부가된 주계약 및 가입당시 주계약에 부가된 특약 중 이 특약의 적용을 받는 계약의 차회 이후의 보험료 납입을 면제",
+          "coverage_amount": "남자 14,120, 여자 8,360 (주계약 10,000만원 기준)",
+          "premium_male": 640,
+          "premium_female": 258
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 정기보험(해약환급금 미지급형, 건강체)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "72.7 %",
+        "price_index_female": "82.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 70세 2. 보험기간 : 10년/20년/30년만기, 60세/65세/70세/75세/80세/85세/90세만기 3. 보험료 예시 기준 : 순수보장형, 건강체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 [표준체 보험료 대비 남자기준 24.2%, 여자기준 11.0% 할인된 보험료] 4. 보험료 납입기간 : 20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 1억원 ~ 최고 10억원 7. 보험가격지수 : 순수보장형, 건강체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 8. 특약 예시보험료 기준 - 무배당 보험료납입면제특약 : 20년만기, 전기납, 월납 *특약의 가입금액은 주계약의 월 납입 보험료로 하며, 특약의 보험기간 및 보험료 납입기간은 주계약의 보험료 납입기간과 동일하게 운영함",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 12450,
+          "premium_female": 7720
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 보험료납입면제보장특약",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 다음 각호의 어느 하나의 사유 중 최초 1회 발생한 경우 1. 암 보장개시일 이후에 「일반암」으로 진단 확정되었을 경우 2. 보장개시일 이후에 「뇌출혈」로 진단 확정되었을 경우 3. 보장개시일 이후에 「급성심근경색증」으로 진단 확정되었을 경우 (다만, 최초 1회에 한함)",
+          "payment_amount": "이 특약이 부가된 주계약 및 가입당시 주계약에 부가된 특약 중 이 특약의 적용을 받는 계약의 차회 이후의 보험료 납입을 면제",
+          "coverage_amount": "남자 12,450, 여자 7,720 (주계약 10,000만원 기준)",
+          "premium_male": 564,
+          "premium_female": 239
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 정기보험(해약환급금 미지급형, 슈퍼건강체)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "55.9 %",
+        "price_index_female": "78.3 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 70세 2. 보험기간 : 10년/20년/30년만기, 60세/65세/70세/75세/80세/85세/90세만기 3. 보험료 예시 기준 : 순수보장형, 슈퍼건강체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 [표준체 보험료 대비 남자기준 41.8%, 여자기준 15.3% 할인된 보험료] 4. 보험료 납입기간 : 20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 1억원 ~ 최고 10억원 7. 보험가격지수 : 순수보장형, 슈퍼건강체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 8. 특약 예시보험료 기준 - 무배당 보험료납입면제특약 : 20년만기, 전기납, 월납 *특약의 가입금액은 주계약의 월 납입 보험료로 하며, 특약의 보험기간 및 보험료 납입기간은 주계약의 보험료 납입기간과 동일하게 운영함",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 9570,
+          "premium_female": 7340
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 보험료납입면제보장특약",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 다음 각호의 어느 하나의 사유 중 최초 1회 발생한 경우 1. 암 보장개시일 이후에 「일반암」으로 진단 확정되었을 경우 2. 보장개시일 이후에 「뇌출혈」로 진단 확정되었을 경우 3. 보장개시일 이후에 「급성심근경색증」으로 진단 확정되었을 경우 (다만, 최초 1회에 한함)",
+          "payment_amount": "이 특약이 부가된 주계약 및 가입당시 주계약에 부가된 특약 중 이 특약의 적용을 받는 계약의 차회 이후의 보험료 납입을 면제",
+          "coverage_amount": "남자 9,570, 여자 7,340 (주계약 10,000만원 기준)",
+          "premium_male": 434,
+          "premium_female": 227
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 정기보험(만기환급형, 표준체)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "112.3 %",
+        "price_index_female": "113.4 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "만기환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 65세 2. 보험기간 : 20년/30년만기, 60세/65세/70세/75세/80세/85세/90세만기 3. 보험료 예시 기준 : 만기환급형, 표준체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 4. 보험료납입기간 : 20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 1억원 ~ 최고 10억원 7. 보험가격지수 : 만기환급형, 표준체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 217320,
+          "premium_female": 163330
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "만기환급금",
+          "payment_condition": "피보험자가 보험기간이 끝날 때까지 살아 있을 경우",
+          "payment_amount": "이미 납입한 보험료 × 100%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 217320,
+          "premium_female": 163330
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 정기보험(만기환급형, 비흡연체)",
+      "price_info": {
+        "interest_rate_fixed": "2.25 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "104.2 %",
+        "price_index_female": "111.8 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "만기환급",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 65세 2. 보험기간 : 20년/30년만기, 60세/65세/70세/75세/80세/85세/90세만기 3. 보험료 예시 기준 : 만기환급형, 비흡연체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 [표준체 보험료 대비 남자기준 7.2%, 여자기준 1.4% 할인된 보험료] 4. 보험료납입기간 : 20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 1억원 ~ 최고 10억원 7. 보험가격지수 : 만기환급형, 비흡연체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 201610,
+          "premium_female": 160980
+        },
+        {
+          "category": "주계약",
+          "benefit_name": "만기환급금",
+          "payment_condition": "피보험자가 보험기간이 끝날 때까지 살아 있을 경우",
+          "payment_amount": "이미 납입한 보험료 × 100%",
+          "coverage_amount": "10,000만원",
+          "premium_male": 201610,
+          "premium_female": 160980
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 정기보험(해약환급금 미지급형, 표준체)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "95.9 %",
+        "price_index_female": "92.5 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 70세 2. 보험기간 : 10년/20년/30년만기, 60세/65세/70세/75세/80세/85세/90세만기 3. 보험료 예시 기준 : 순수보장형, 표준체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 4. 보험료 납입기간 : 20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 1억원 ~ 최고 10억원 7. 보험가격지수 : 순수보장형, 표준체, 보험가입금액 1억원, 40세, 20년만기, 전기납, 월납 8. 특약 예시보험료 기준 - 무배당 보험료납입면제특약 : 20년만기, 전기납, 월납 *특약의 가입금액은 주계약의 월 납입 보험료로 하며, 특약의 보험기간 및 보험료 납입기간은 주계약의 보험료 납입기간과 동일하게 운영함",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "10,000만원",
+          "coverage_amount": "10,000만원",
+          "premium_male": 16430,
+          "premium_female": 8670
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 보험료납입면제보장특약",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 다음 각호의 어느 하나의 사유 중 최초 1회 발생한 경우 1. 암 보장개시일 이후에 「일반암」으로 진단 확정되었을 경우 2. 보장개시일 이후에 「뇌출혈」로 진단 확정되었을 경우 3. 보장개시일 이후에 「급성심근경색증」으로 진단 확정되었을 경우 (다만, 최초 1회에 한함)",
+          "payment_amount": "이 특약이 부가된 주계약 및 가입당시 주계약에 부가된 특약 중 이 특약의 적용을 받는 계약의 차회 이후의 보험료 납입을 면제",
+          "coverage_amount": "남자 16,430, 여자 8,670 (주계약 10,000만원 기준)",
+          "premium_male": 744,
+          "premium_female": 268
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 간편 맞춤건강종합보험(해약환급금 미지급형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "113.7 %",
+        "price_index_female": "111.2 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 70세 2. 보험기간 : 70세/80세/90세/100세/110세만기 3. 주계약 보험료 예시 기준 : 보험가입금액 1,000만원, 40세, 80세만기, 20년납, 월납 4. 보험료 납입기간 : 10년/20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 1,000만원 ~ 최고 50,000만원 다만, 특약별 가입 조건이 다를 수 있음 7. 보험가격지수 : 보험가입금액 10,000만원, 40세, 80세만기, 전기납, 월납 8. 특약보험료 예시기준 - 무배당 간편 질병및재해(1~5종) 수술특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 - 무배당 간편 암진단특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 - 무배당 간편 항암방사선치료특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 - 무배당 간편 급성심근경색증진단특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 *특약의 보험기간, 납입기간은 주계약의 보험기간, 납입기간과 동일하게 설정함 9. 적용이율 : 주계약 및 해약환급금 미지급형 특약 연 복리 2.5%",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 14270,
+          "premium_female": 7230
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 질병및재해(1~5종) 수술특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 보장개시일 이후에 ‘1~5종 수술 분류표’에서 정하는 「수술」을 받을 경우 (수술 1회당 지급)",
+          "payment_amount": "수술 1회당 1종 수술보험금 특약보험가입금액의 2% 2종 수술보험금 특약보험가입금액의 6% 3종 수술보험금 특약보험가입금액의 20% 4종 수술보험금 특약보험가입금액의 40% 5종 수술보험금 특약보험가입금액의 100%",
+          "coverage_amount": "100만원",
+          "premium_male": 3210,
+          "premium_female": 3310
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 암진단특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암 보장개시일 이후에 「암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] : 특약보험가입금액의 100% [가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 42930,
+          "premium_female": 35040
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 항암방사선치료특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암 보장개시일 이후에 「암」으로 진단 확정 되고 그 「암」의 ‘직접적인 치료’를 목적으로 ‘항암방사선치료’를 받았을 경우 (다만, 최초 1회의 치료에 한함) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "특약보험가입금액의 100% ※ 이외 보장담보는 상품요약서 참조",
+          "coverage_amount": "1000만원",
+          "premium_male": 2220,
+          "premium_female": 2660
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 간편 급성심근경색증진단특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 「급성심근경색증」으로 진단 확정된 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] : 특약보험가입금액의 100% [가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 7128,
+          "premium_female": 2073
+        }
+      ]
+    },
+    {
+      "company": "교보라이프플래닛생명",
+      "product_name": "(무)교보라플 맞춤건강종합보험(해약환급금 미지급형)",
+      "price_info": {
+        "interest_rate_fixed": "2.50 %",
+        "interest_rate_current": "-",
+        "interest_rate_min": "-",
+        "price_index_male": "114.9 %",
+        "price_index_female": "114.1 %",
+        "additional_premium_index_male": "-",
+        "additional_premium_index_female": "-",
+        "contract_cost_index_male": "-",
+        "contract_cost_index_female": "-",
+        "product_type": "기본형",
+        "surrender_type": "순수보장",
+        "min_death_benefit": "-",
+        "min_death_benefit_method": "-",
+        "min_surrender_benefit": "-",
+        "min_surrender_benefit_method": "-",
+        "renewal_type": "비갱신형",
+        "is_universal": "비유니버셜"
+      },
+      "operation_info": {
+        "sales_channel": "CM",
+        "sales_date": "2026-01-01",
+        "special_notes": "1. 가입나이 : 만 19세 ~ 최대 70세 2. 보험기간 : 70세/80세/90세/100세/110세만기 3. 주계약 보험료 예시 기준 : 보험가입금액 1,000만원, 40세, 80세만기, 20년납, 월납 4. 보험료 납입기간 : 10년/20년/30년납, 60세/70세납, 전기납 5. 보험료 납입주기 : 월납 6. 가입한도 : 보험가입금액 최저 100만원 ~ 최고 10,000만원 다만, 특약별 가입 조건이 다를 수 있음 7. 보험가격지수 : 보험가입금액 10,000만원, 40세, 80세만기, 전기납, 월납 8. 특약보험료 예시기준 - 무배당 질병및재해(1~5종) 수술특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 - 무배당 암진단특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 - 무배당 항암방사선치료특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 - 무배당 급성심근경색증진단특약L(해약환급금 미지급형) : 80세만기, 20년납, 월납 *특약의 보험기간, 납입기간은 주계약의 보험기간, 납입기간과 동일하게 설정함 9. 적용이율 : 주계약 및 해약환급금 미지급형 특약 연 복리 2.5%",
+        "contact_number": "1566-0999"
+      },
+      "coverages": [
+        {
+          "category": "주계약",
+          "benefit_name": "사망보험금",
+          "payment_condition": "보험기간 중 피보험자가 사망한 경우",
+          "payment_amount": "보험가입금액의 100%",
+          "coverage_amount": "1,000만원",
+          "premium_male": 8860,
+          "premium_female": 4270
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 질병및재해(1~5종) 수술특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 보장개시일 이후에 ‘1~5종 수술 분류표’에서 정하는 「수술」을 받을 경우 (수술 1회당 지급)",
+          "payment_amount": "수술 1회당 1종 수술보험금 특약보험가입금액의 2% 2종 수술보험금 특약보험가입금액의 6% 3종 수술보험금 특약보험가입금액의 20% 4종 수술보험금 특약보험가입금액의 40% 5종 수술보험금 특약보험가입금액의 100%",
+          "coverage_amount": "100만원",
+          "premium_male": 2070,
+          "premium_female": 2130
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 암진단특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암 보장개시일 이후에 「암」으로 진단 확정되었을 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] : 특약보험가입금액의 100% [가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 33270,
+          "premium_female": 26400
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 항암방사선치료특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 암 보장개시일 이후에 「암」으로 진단 확정 되고 그 「암」의 ‘직접적인 치료’를 목적으로 ‘항암방사선치료’를 받았을 경우 (다만, 최초 1회의 치료에 한함) ※ 이외 보장담보는 상품요약서 참조",
+          "payment_amount": "특약보험가입금액의 100% ※ 이외 보장담보는 상품요약서 참조",
+          "coverage_amount": "1000만원",
+          "premium_male": 1770,
+          "premium_female": 2050
+        },
+        {
+          "category": "특약",
+          "benefit_name": "무배당 급성심근경색증진단특약L(해약환급금 미지급형)",
+          "payment_condition": "피보험자가 이 특약의 보험기간 중 「급성심근경색증」으로 진단 확정된 경우 (다만, 최초 1회의 진단 확정에 한함)",
+          "payment_amount": "[가입 후 1년 이후] : 특약보험가입금액의 100% [가입 후 1년 미만] : 특약보험가입금액의 50%",
+          "coverage_amount": "3000만원",
+          "premium_male": 5025,
+          "premium_female": 1218
+        }
+      ]
+    }
+  ]
+}
