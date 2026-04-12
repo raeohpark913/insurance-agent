@@ -4,8 +4,9 @@ C1 RAG 검색 파이프라인 (Weaviate Cloud 버전) + C5 Guardrail
 벡터DB: Weaviate Cloud  |  임베딩: gemini-embedding-001 (OpenRouter)
 """
 
-import os, re, json, sqlite3, time
+import sys, os, re, json, sqlite3, time
 from pathlib import Path
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 from dotenv import load_dotenv
 from openai import OpenAI, RateLimitError, AuthenticationError, APIConnectionError
 import weaviate
@@ -50,6 +51,25 @@ OUT_OF_SCOPE_KEYWORDS = [
     "투자 추천", "투자추천",
     "타사 비방", "타사비방",
 ]
+
+# 출력 차단 패턴 — LLM 응답에서 감지
+OUTPUT_BLOCK_PATTERNS = [
+    # 모집행위
+    r"이\s*상품\s*(을|을\s*)?가입하세요",
+    r"이\s*상품이\s*가장\s*좋",
+    r"추천\s*드립니다",
+    r"[1-3]순위",
+    # 확정적 이익
+    r"확실히\s*보장",
+    r"반드시\s*보험금을\s*받",
+    r"가입하면\s*.{0,10}원을\s*받",
+    # 의료 판단
+    r"건강하시네요",
+    r"걸릴\s*가능성이\s*높",
+    # 모호한 추정 수치
+    r"약\s*\d+\s*만\s*원\s*정도",
+    r"대략\s*\d+\s*만\s*원",
+]
  
  
 def _normalize_number(s: str) -> str:
@@ -79,6 +99,12 @@ class Guardrail:
         return {"blocked": False}
  
     def check_output(self, response: str, chunks: list) -> dict:
+        # 1. 출력 차단 패턴 감지
+        for pat in OUTPUT_BLOCK_PATTERNS:
+            if re.search(pat, response):
+                return {"flagged": True, "reason": "harmful_output_pattern"}
+
+        # 2. 환각 수치 감지
         numbers = re.findall(r'[\d,]+\s*(?:만\s*)?(?:원|%)', response)
         if numbers:
             ctx = " ".join([c.get("document", "") for c in chunks])
@@ -92,6 +118,7 @@ class Guardrail:
             ]
             if ungrounded:
                 return {"flagged": True, "reason": "hallucination_risk"}
+
         return {"flagged": False}
  
  
@@ -113,7 +140,7 @@ class RAGPipeline:
         self.ins_col  = self.wv.collections.get("InsuranceChunk")
         self.prem_col = self.wv.collections.get("PremiumInfo")
         self.db_conn  = sqlite3.connect(DB_PATH) if Path(DB_PATH).exists() else None
-        print("  ✓ Weaviate 연결 완료")
+        print("  [OK] Weaviate 연결 완료")
 
         self.bm25 = None
         self.bm25_index = None
@@ -123,9 +150,9 @@ class RAGPipeline:
                 with open(BM25_PATH, encoding="utf-8") as f:
                     self.bm25_index = json.load(f)
                 self.bm25 = BM25Okapi([self._tok(t) for t in self.bm25_index["corpus"]])
-                print(f"  ✓ BM25 인덱스 ({len(self.bm25_index['corpus'])}개)")
+                print(f"  [OK] BM25 인덱스 ({len(self.bm25_index['corpus'])}개)")
             except ImportError:
-                print("  ⚠ rank-bm25 없음 — pip install rank-bm25")
+                print("  [!] rank-bm25 없음 -- pip install rank-bm25")
 
     def _tok(self, text: str) -> list:
         text = re.sub(r"[^\w\s]", " ", text)
@@ -188,11 +215,12 @@ class RAGPipeline:
     def search(self, query: str, user_profile: dict = None, n_results: int = 5) -> dict:
         emb = self._embed([query])
 
-        # 약관·보장 — 하이브리드
+        # 약관·보장 — 하이브리드 (구체적 내용 없는 청크 제거)
         chunks = [
             {"document": r["doc"], "meta": r["meta"],
              "distance": r["score"], "type": "coverage"}
             for r in self._hybrid(query, n_results)
+            if self._has_substance(r["doc"])
         ]
 
         # 보험료 — Weaviate 벡터
@@ -230,19 +258,31 @@ class RAGPipeline:
         return {"coverage_chunks": chunks, "premium_chunks": premium_chunks,
                 "law_chunks": law_chunks, "query": query}
  
+    @staticmethod
+    def _has_substance(doc: str) -> bool:
+        """보장 금액·보험료 등 구체적 수치가 있는지 확인"""
+        if len(doc.strip()) < 150:
+            return False
+        # 금액(만원, 원, %) 또는 구체적 보장 키워드가 있어야 유효
+        has_numbers = bool(re.search(r'[\d,]+\s*(?:만\s*)?(?:원|%)', doc))
+        has_coverage = any(kw in doc for kw in ['진단금', '수술금', '입원', '보장', '지급', '보험금', '특약'])
+        return has_numbers or has_coverage
+
     def build_context(self, sr: dict) -> str:
         parts = []
-        if sr["coverage_chunks"]:
+        coverage = [c for c in sr["coverage_chunks"] if self._has_substance(c["document"])]
+        if coverage:
             parts.append("## 관련 약관·보장 내용")
-            for i, c in enumerate(sr["coverage_chunks"]):
+            for i, c in enumerate(coverage):
                 m = c["meta"]
                 parts.append(
                     f"[{i+1}] {m.get('insurer','')} - {m.get('product','')[:30]}"
                     f" ({m.get('doc_type','')})\n{c['document'][:500]}"
                 )
-        if sr["premium_chunks"]:
+        premium = [c for c in sr["premium_chunks"] if self._has_substance(c["document"])]
+        if premium:
             parts.append("\n## 보험료 정보")
-            for c in sr["premium_chunks"]:
+            for c in premium:
                 parts.append(f"- {c['meta'].get('product','')[:30]} | {c['document'][:200]}")
         if sr["law_chunks"]:
             parts.append("\n## 관련 법률 조문")
@@ -288,7 +328,11 @@ SYSTEM_PROMPT = """당신은 KB라이프 보험 AI 어시스턴트입니다.
 - 의료적 진단이나 치료 판단
 - DB에 없는 수치를 만들어서 답변
 - 범위 밖 주제 (주식, 투자, 타사 비방 등)
- 
+- 한자(漢字) 사용 — 반드시 순한글 또는 한글+영문으로만 표기할 것 (예: 契約 → 계약, 請約 → 청약)
+- [1], [2] 같은 인용 번호 또는 각주 번호 사용 — 출처 표기 없이 내용만 서술할 것
+- <br>, <b>, <p> 등 HTML 태그 사용 — 줄바꿈은 빈 줄로, 강조는 **굵게** 마크다운으로만 표현할 것
+- 데이터가 부족한 상품은 절대 언급하지 말 것 — 보장 내용, 보험료 등 구체적 수치가 없는 상품은 표·목록·본문 어디에서든 완전히 생략. "약관을 확인하세요"라며 이름만 나열하는 것도 금지
+
 답변 원칙:
 1. 제공된 컨텍스트(약관·공시 데이터)에만 근거
 2. "(사업방법서 별지)" 내용이나 상품 명칭만 나열된 데이터는 무시하고, 실제 보장 내용이나 절차가 적힌 데이터를 우선할 것.
@@ -297,6 +341,8 @@ SYSTEM_PROMPT = """당신은 KB라이프 보험 AI 어시스턴트입니다.
 5. 불확실하면 "약관을 확인하세요" 안내
 6. 고지의무·청약철회 규제 안내 자연스럽게 포함
 7. 따뜻하고 친근한 톤, 쉬운 설명
+8. 보험 추천·비교 질문에는 반드시 마크다운 표(| 상품명 | 보험사 | 주요 보장 | 월 보험료 | ... |)로 정리해서 답변할 것. 표 아래에 간단한 요약과 주의사항을 덧붙일 것.
+9. 마크다운 표의 셀 안에서는 절대 줄바꿈하지 말 것. 여러 항목은 쉼표나 슬래시로 구분. 예: "암진단금 600만원, 소액암 200만원". 한 행은 반드시 한 줄로 작성할 것.
 """
  
  
@@ -365,6 +411,27 @@ class InsuranceRAGAgent:
         self.guardrail = Guardrail()
         self.history   = []
  
+    @staticmethod
+    def _clean_response(text: str) -> str:
+        # 한자(CJK Unified Ideographs) 제거 — 한글은 유지
+        text = re.sub(r'[\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]+', '', text)
+        # 특수 괄호 및 일반 괄호로 된 인용 번호 제거 (예: [4], 【4】, 〔4〕 등)
+        text = re.sub(r'[【〔\[❲⟦]\s*\d+\s*[】〕\]❳⟧]', '', text)
+        # HTML 태그 제거 (<br> → 줄바꿈, 나머지 태그 제거)
+        text = re.sub(r'<br\s*/?>', '\n', text, flags=re.IGNORECASE)
+        text = re.sub(r'<[^>]+>', '', text)
+        # 마크다운 표 셀 내 줄바꿈 제거 — 깨진 표 복구
+        lines = text.split('\n')
+        fixed = []
+        for line in lines:
+            if fixed and fixed[-1].startswith('|') and not fixed[-1].rstrip().endswith('|'):
+                # 이전 행이 | 로 시작했지만 | 로 안 끝남 → 셀 내 줄바꿈
+                fixed[-1] = fixed[-1].rstrip() + ' ' + line.strip()
+            else:
+                fixed.append(line)
+        text = '\n'.join(fixed)
+        return text
+
     def chat(self, query: str, user_profile: dict = None) -> dict:
         chk = self.guardrail.check_input(query)
         if chk["blocked"]:
@@ -383,11 +450,11 @@ class InsuranceRAGAgent:
                         context += f"\n\n## 정확한 보험료\n{tbl}"
  
         all_chunks = sr["coverage_chunks"] + sr["premium_chunks"] + sr["law_chunks"]
-        response   = generate_response(query, context, self.history, user_profile)
+        response   = self._clean_response(generate_response(query, context, self.history, user_profile))
  
         out_chk = self.guardrail.check_output(response, all_chunks)
         if out_chk["flagged"]:
-            response += "\n\n⚠️ 정확한 수치는 공식 홈페이지나 상담사를 통해 확인하세요."
+            response += "\n\n정확한 수치는 공식 홈페이지나 상담사를 통해 확인하세요."
  
         self.history.append({"role": "user",      "content": query})
         self.history.append({"role": "assistant",  "content": response})
