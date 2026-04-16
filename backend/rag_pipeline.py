@@ -12,7 +12,13 @@ from openai import OpenAI, RateLimitError, AuthenticationError, APIConnectionErr
 import weaviate
 import weaviate.classes as wvc
 
-load_dotenv(Path(__file__).parent.parent / ".env")
+# 로컬 개발: backend/.env → 프로젝트 루트 .env 순서로 탐색
+# 배포(Railway 등): 둘 다 없으면 OS 환경변수에서 직접 읽음
+for _env_path in (Path(__file__).parent / ".env",
+                  Path(__file__).parent.parent / ".env"):
+    if _env_path.exists():
+        load_dotenv(_env_path)
+        break
 
 WEAVIATE_URL     = os.getenv("WEAVIATE_URL")
 WEAVIATE_KEY     = os.getenv("WEAVIATE_API_KEY")
@@ -136,6 +142,10 @@ class RAGPipeline:
         self.wv      = weaviate.connect_to_weaviate_cloud(
             cluster_url=WEAVIATE_URL,
             auth_credentials=wvc.init.Auth.api_key(WEAVIATE_KEY),
+            additional_config=wvc.init.AdditionalConfig(
+                timeout=wvc.init.Timeout(init=30)
+            ),
+            skip_init_checks=True,
         )
         self.ins_col  = self.wv.collections.get("InsuranceChunk")
         self.prem_col = self.wv.collections.get("PremiumInfo")

@@ -2,6 +2,7 @@
 """
 보험 AI — FastAPI 백엔드
 """
+import os
 import re
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -11,9 +12,14 @@ from rag_pipeline import InsuranceRAGAgent
 
 app = FastAPI(title="보험 AI API")
 
+# CORS_ORIGINS 미설정 시 전체 허용(로컬 개발용),
+# 배포 시 "https://foo.vercel.app,https://bar.com" 형태로 지정.
+_cors_env = os.getenv("CORS_ORIGINS", "").strip()
+_allow_origins = [o.strip() for o in _cors_env.split(",") if o.strip()] or ["*"]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=_allow_origins,
     allow_methods=["*"],
     allow_headers=["*"],
 )

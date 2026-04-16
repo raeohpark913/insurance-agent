@@ -1,0 +1,46 @@
+# ========================================================
+# Railway(Nixpacks) 빌드 이미지에서 제외할 항목
+# 백엔드 배포 시 불필요한 파일을 제외해 빌드 용량/시간 절감
+# ========================================================
+
+# 프론트엔드 (Vercel에서 별도 배포)
+frontend/
+
+# Node
+node_modules/
+package.json
+package-lock.json
+
+# Python 빌드 산출물
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+venv/
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# 로컬 환경변수 (Railway Variables 에서 설정)
+.env
+.env.local
+.env.*.local
+
+# 대용량 공시 데이터 (런타임 미사용, Weaviate 에 이미 인덱싱됨)
+data/management_disclosure_*.json
+
+# 로컬 DB (Railway 에서는 사용 안 함)
+*.db
+
+# 기타 문서/정적 자산
+README.md
+prompts/
+static/
