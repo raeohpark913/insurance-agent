@@ -1,21 +1,39 @@
 import { NextRequest, NextResponse } from 'next/server';
-
-const BACKEND_URL = process.env.BACKEND_URL || 'http://localhost:8000';
+import { fetchBackend, coldStartMessage } from '../_lib/backend';
 
 export async function POST(req: NextRequest) {
+  const body = await req.json();
   try {
-    const body = await req.json();
-    const res = await fetch(`${BACKEND_URL}/chat`, {
+    const res = await fetchBackend('/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),
     });
+    if (!res.ok) {
+      return NextResponse.json(
+        {
+          response: `서버 응답 오류 (${res.status}). 잠시 후 다시 시도해 주세요.`,
+          blocked: false,
+          sources: [],
+          flagged: false,
+          grounded: false,
+        },
+        { status: res.status },
+      );
+    }
     const data = await res.json();
     return NextResponse.json(data, { status: res.status });
-  } catch {
+  } catch (e) {
+    console.error('[api/chat] backend unreachable:', (e as Error)?.message);
     return NextResponse.json(
-      { response: '백엔드 서버에 연결할 수 없습니다. 서버가 실행 중인지 확인하세요.', blocked: false, sources: [], flagged: false, grounded: false },
-      { status: 502 },
+      {
+        response: coldStartMessage(),
+        blocked: false,
+        sources: [],
+        flagged: false,
+        grounded: false,
+      },
+      { status: 503 },
     );
   }
 }

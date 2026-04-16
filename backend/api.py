@@ -8,7 +8,24 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Optional, List
-from rag_pipeline import InsuranceRAGAgent
+from rag_pipeline import InsuranceRAGAgent  # load_dotenv 가 이 시점에 실행됨
+
+# ─── 필수 환경변수 검증 ───────────────────────────────
+# Render/Railway/Vercel 등 배포 환경에서 env 누락 시
+# 쿼리 실패로 원인을 추정하는 대신, 부팅 단계에서 즉시 명확히 실패.
+_REQUIRED_ENV = [
+    "OPENROUTER_API_KEY",
+    "WEAVIATE_URL",
+    "WEAVIATE_API_KEY",
+    "SUPABASE_URL",
+    "SUPABASE_KEY",
+]
+_missing = [k for k in _REQUIRED_ENV if not os.getenv(k)]
+if _missing:
+    raise RuntimeError(
+        f"❌ 필수 환경변수 누락: {_missing}. "
+        f"배포 플랫폼의 Environment 설정에서 위 값들을 추가하세요."
+    )
 
 app = FastAPI(title="보험 AI API")
 
